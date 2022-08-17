@@ -11,11 +11,11 @@ When was the last time on a rainy day, you curled up on the couch ready to watch
 * Survey created to collect data for machine learning
   
 ## Technology applied in this project: 
-a) Python Pandas
-b) HTML / CSS / Bootstrap
-c) Tableau
-d) Amazon AWS
-e) Machine Learning
+* Python Pandas
+* HTML / CSS / Bootstrap
+* Tableau
+* Amazon AWS
+* Machine Learning
 
 ## Content
 1. User interactive dashboard - User input their critieria. eg. movie genre, movie star and year, etc
