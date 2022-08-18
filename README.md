@@ -21,6 +21,9 @@ When was the last time on a rainy day, you curled up on the couch ready to watch
 1. User interactive dashboard - User input their critieria. eg. movie genre, movie star and year, etc
 2. Tableau visualisation - Movie Revenue, Budget, Popularity, Top 10 Successful and flopped movies (by genre)
 
+## Visualisations
+
+
 ## Project Steps:
 
 
