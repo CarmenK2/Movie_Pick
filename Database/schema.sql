@@ -1,21 +1,21 @@
-CREATE TABLE movies_cleaned (
-  id INTEGER,
-  original_title VARCHAR PRIMARY KEY NOT NULL,
-  release_year INTEGER,
+CREATE TABLE movies_cleaned1 (
+  id VARCHAR PRIMARY KEY NOT NULL,
+  original_title VARCHAR,
+  release_year VARCHAR,
   genre VARCHAR,
   overview VARCHAR,
-  runtime INTEGER,
-  vote_average INTEGER,
+  runtime VARCHAR,
+  vote_average VARCHAR,
   keywording VARCHAR,
   original_language VARCHAR,
   prod_companies VARCHAR,
   prod_countries VARCHAR,
-  release_date TIMESTAMP,
-  budget INTEGER,
-  revenue INTEGER,
-  popularity INTEGER,
+  release_date VARCHAR,
+  budget VARCHAR,
+  revenue VARCHAR,
+  popularity VARCHAR,
   languages_spoken VARCHAR,
   casting VARCHAR
 );
 
-SELECT * FROM movies_cleaned;
+SELECT * FROM movies_cleaned1;
