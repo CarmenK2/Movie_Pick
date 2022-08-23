@@ -1,4 +1,4 @@
-CREATE TABLE movies_cleaned1 (
+CREATE TABLE movies_cleaned3 (
   id VARCHAR PRIMARY KEY NOT NULL,
   original_title VARCHAR,
   release_year VARCHAR,
@@ -18,4 +18,4 @@ CREATE TABLE movies_cleaned1 (
   casting VARCHAR
 );
 
-SELECT * FROM movies_cleaned1;
+SELECT * FROM movies_cleaned3;
