@@ -1,0 +1,99 @@
+﻿ID,Age,Mood,Movie_1,Movie_2,Movie_3,Movie_4,Movie_5,Movie_1_genre,Movie_2_genre,Movie_3_genre,Movie_4_genre,Movie_5_genre
+1,18 +,Happy,Fifty first dates,What they do in the shadows,Avatar,About time,James Bond,Comedy,Comedy,Action,Comedy,Action
+2,18 +,Inspired,I am legend,Aladdin,A quiet place,World War Z,Coco,Drama,Animation,Fantasy,Action,Animation
+3,18 +,Thrilled,Straight outta Compton,rabbit proof fence,hunger games,never stop stopping,gone girl,Drama,Drama,Fantasy,Comedy,Mystery
+4,18 +,Happy,King Richard,Rocket man,the kings man,Xanadu,the bodyguard,History,History,Action,Fantasy,Thriller
+5,18 +,Happy,2 fast 2 furious,hacksaw ridge,pirates of the Caribbean,the big short,white chicks,Action,War,Thriller,Comedy,Comedy
+6,18 +,Happy,Gone girl ,The Big Short,Hacksaw Ridge ,Saving Private Ryan ,Law Abiding Citazen ,Drama,Comedy,War,War,Crime
+7,18 +,Happy,Love actually,Grease,JFK,Die Hard,Kenny,Comedy,Romance,Drama,Action,Comedy
+8,18 +,Inspired,Pitch perfect,Titanic,Die Hard,My Big Fat Greek Wedding,The Haunting of Hill,Comedy,Drama,Action,Comedy,Drama
+9,18 +,Happy,Back to the Future,Lord of the Rings,The Matrix,Indiana Jones,Knives out,Adventure,Fantasy,Action,Adventure,Crime
+10,18 +,Happy,Harry potter,beauty and the beast animation,parent trap,percy jackson,fantastic beast and where to find them,Science Fiction,Animation,Family,,Fantasy
+11,18 +,Happy,Forrest Gump,shawshank redemption,eternal sunshine of the spotless mind,love actually,one more chance,Comedy,Drama,Science Fiction,Comedy,Romance
+12,18 +,Inspired,Spiderman 1,Spiderman Far from Home,Django Unchained,once upon a time in hollywood,the departed,Science Fiction,Science Fiction,Drama,Drama,Drama
+13,18 +,Happy,Avengers: Endgame,Spiderman,Inception,The Departed,The Godfather,Science Fiction,Science Fiction,Action,Drama,Drama
+14,18 +,Happy,Bourne Identity,Bourne Supremacy,Bourne Ultimatum,Bourne Legacy,jason Bourne,Action,Thriller,Thriller,Thriller,Action
+15,18 +,Romantic,Spiderman,Spiderman 2,Spiderman 3,Amazing Spiderman,Spiderman Homecoming,Science Fiction,Science Fiction,Science Fiction,Science Fiction,Science Fiction
+16,18 +,Emotional,Amélie,billy elliot,life is beautiful,moulin rouge,the fault in our stars,Drama,Drama,Fantasy,Drama,Romance
+17,18 +,Happy,Love actually,sister act,sing 2,singing in the rain,eat pray love,Comedy,Comedy,Animation,Drama,Drama
+18,18 +,Inspired,The Dark Knight,boy in the striped pyjamas,i am sam,inglorious basterds,inception,Drama,Drama,Drama,War,Action
+19,18 +,Happy,The Notebook,Top Gun2,Avengers,The Green Book and High school musical,,Romance,Thriller,Science Fiction,Drama,
+20,18 +,Happy,Black Cat White Cat,Wind Rises,Grand Budapest Hotel,Hunt for the Wilderpeople,Blade Runner,Comedy,Romance,Fantasy,Adventure,Science Fiction
+21,18 +,Emotional,Star Wars,Star Trek,Indiana Jones,Bond,Jumanji,Adventure,Science Fiction,Adventure,Action,Adventure
+22,18 +,Happy,Ms. Congeniality,Parent Trap,Pride and Prejudice,Second Act,3 Idiots,Comedy,Family,Drama,Drama,Comedy
+23,18 +,Sad,A walk to remember,Me before You,The Pursuit of Happyness,7 Pounds,The Notebook,Drama,Drama,Drama,Drama,Romance
+24,18 +,Happy,Onward,The Emperor's New Groove,Forrest Gump,10 Things I Hate about You,Bring it On.,Animation,Adventure,Comedy,Comedy,Drama
+25,18 +,Happy,Bolt,Teenage Mutant Ninja Turtles,Harry Potter,Moana,Matilda,Animation,Science Fiction,Science Fiction,Animation,Family
+26,18 +,Sad,100 days of summer,while you were sleeping,,,,Comedy,Romance,,,
+27,under 18,Sad,Happy Feet,Schindler's list,Love Actually,Mr Bean's Holiday,Thor,Animation,Drama,Comedy,Comedy,Adventure
+28,18 +,Inspired,Dead poets society,Good Will Hunting,Beautiful Mind,Mrs Doubtfire,Good morning Vietnam,Drama,Drama,History,Comedy,War
+29,18 +,Angry,Mad Max,Avenger,Fantastic Four,Sherlock Holmes,Mummy Return,Adventure,Science Fiction,Action,Action,Thriller
+30,18 +,Thrilled,Avenger Endgame,Jurassic park,War Horse,Jaws,catch me if you can,Science Fiction,Adventure,Drama,Horror,Drama
+31,18 +,Happy,Finding Nemo,The Incredibles,Sing,Sing2,Peter Rabbit,Animation,Action,Animation,Animation,Animation
+32,18 +,Emotional,Romeo and Juliet,Hamlet,No Reservations,The Dressmaker,Shakespeare In Love,Romance,Drama,Comedy,Drama,Romance
+33,under 18,Thrilled,Robin Hood,The Amazing Spider-Man,X-Men: The Last Stand,Iron Man 3,Quantum of Solace,Action,Action,Adventure,Action,Adventure
+34,18 +,Romantic,Tangled,Brave,Shrek Forever After,Pearl Harbor,Frozen,Animation,Animation,Comedy,History,Animation
+35,18 +,Inspired,The Last Samurai,Finding Nemo,Mission: Impossible III,Australia,Ocean's Twelve,Drama,Animation,Adventure,Drama,Thriller
+36,18 +,Happy,Night at the Museum,The Smurfs 2,Tangled,Toy Story 3,Toy Story 2,Action,Fantasy,Animation,Animation,Animation
+37,18 +,Angry,Mad Max,Indiana Jones and the Kingdom of the Crystal Skull,X-Men: Apocalypse,The Dark Knight,Hercules,Adventure,Adventure,Science Fiction,Drama,Action
+38,under 18,Romantic,The Tourist,Cinderella,Enchanted,It's Complicated,Love Actually,Action,Romance,Comedy,Comedy,Comedy
+39,18 +,Sad,The Truman Show,Contagion,The Terminal,Men in Black,Journey to the Center of the Earth,Comedy,Drama,Comedy,Action,Action
+40,18 +,Romantic,My Sister's keeper,The Notebook,50 First Dates,TITANIC,Serendipity,Drama,Romance,Comedy,Drama,Comedy
+41,18 +,Inspired,Ratatouille,Charlie and the Chocolate Factory,Inside Out,Toy Story,Toy Story 2,Animation,Adventure,Drama,Animation,Animation
+42,18 +,Thrilled,How to Train Your Dragon 2,Monsters,,Teenage Mutant Ninja Turtles,Men in Black,Fantasy,Drama,,Science Fiction,Action
+43,under 18,Happy,The 3 idiots,the godfather,titanic,avatar,spiderman,Comedy,Drama,Drama,Action,Science Fiction
+44,under 18,Inspired,The Dark Knight,Step Brothers,the Matrix,Training Day,Michael and Madonna,Drama,Comedy,Action,Action,Comedy
+45,18 +,Sad,Jojo  rabbit,Forrest Gump,notebook,titanic,the danish girl,War,Comedy,Romance,Drama,Drama
+46,18 +,Sad,Mary and max,five feet apart,a star is born,little women,my girl,Animation,Drama,Romance,Drama,Comedy
+47,18 +,Sad,Lion,up,titanic,seven pounds,Manchester by the sea,Animation,Animation,Drama,Drama,Drama
+48,18 +,Angry,8 mile,dangerous minds,gone baby gone,inception,man on fire,Drama,Drama,Mystery,Action,Action
+49,18 +,Angry,Django unchained,kill bill 1,kill bill 2,falling down,fury road,Drama,Mystery,Fantasy,Crime,Action
+50,18 +,Angry,John wick,old boy,the punisher,the brave one,the nightingale,Crime,Mystery,Action,Thriller,Thriller
+51,18 +,Angry,V for vendetta,riders of justice,cold pursuit,Sweeney Todd,the crow,Action,Action,Thriller,Drama,Fantasy
+52,18 +,Emotional,I am Sam,Marley and me,the green mile,Bambi,up,Drama,Family,Fantasy,Animation,Animation
+53,18 +,Sad,Top gun,jumanji,letters to juliet,superman,doctor's strange,Action,Family,Comedy,Action,Science Fiction
+54,18 +,Inspired,Probinsyano,Darna,titanic,wild wild west,Bonanza,Mystery,Fantasy,Drama,Action,Western
+55,18 +,Happy,Top gun,godzilla,thor,avengers,spiderman,Action,Animation,Adventure,Science Fiction,Science Fiction
+56,18 +,Happy,No Time To Die,Mission Impossible,Avengers,Harry Potter,The Hobbit,Action,Thriller,Science Fiction,Science Fiction,Science Fiction
+57,18 +,Happy,The Ten Commandments,all Spiderman movies,The Avengers,Titanic,The Passion of the Christ,History,Science Fiction,Science Fiction,Drama,Drama
+58,18 +,Inspired,Stranger than fiction,the secret life of walter mitty,the wedding singer,shawshank redemption,memoirs of a geisha,Comedy,Adventure,Comedy,Drama,Drama
+59,18 +,Happy,Top Gun,Superman,Spider-Man,Rocky,Armageddon,Action,Action,Fantasy,Drama,Action
+60,18 +,Romantic,Love actually,chocolate,hating game,under the Tuscan sun,the breakup,Comedy,Romance,Comedy,Comedy,Comedy
+61,18 +,Romantic,Love Rosie,about time,Bridget jones 1,Bridget jones 2,one day,Romance,Comedy,Comedy,Comedy,Drama
+62,18 +,Romantic,A year ago,about a boy,last Christmas,Emma,miss potter,Mystery,Drama,Romance,Romance,Drama
+63,18 +,Thrilled,Deep water,run,pray,let him go,the little things,Thriller,Horror,Science Fiction,Thriller,Crime
+64,18 +,Thrilled,The grey man,nobody,boiling point,the snowman,red sparrow,Action,Thriller,Thriller,Crime,Action
+65,18 +,Inspired,Ratatouille,Mona,inside out,Milan,up,Animation,Family,Drama,Family,Animation
+66,18 +,Emotional,Spencer,the goldfinch,men,the fallout,the guardian,Drama,Drama,Horror,Drama,Science Fiction
+67,18 +,Emotional,The shack,remember me,babel,life itself,the goldfinch,Fantasy,Drama,Drama,Drama,Drama
+68,18 +,Emotional,Macbeth,snow angels,miss Julie,hamlet,the wait,Horror,Drama,Drama,Drama,Drama
+69,18 +,Angry,Angry birds 1,angry birds 2,up,inside out,lion king,Animation,Family,Animation,Drama,Family
+70,18 +,Thrilled/Excited,The hunt for the wilder people,Shaun the sheep,Wallace and Gromit,karate kid,whale rider,Adventure,Animation,Animation,Family,Drama
+71,under 18,Emotional,The little prince,karate kid,October sky,lion king,jumanji,Adventure,Drama,Drama,Family,Family
+72,under 18,Romantic,About a boy,midnight in Paris,about time,a star is born,safe haven,Drama,Fantasy,Comedy,Romance,Romance
+73,under 18,Thrilled/Excited,Die hard,red,die Hard 2,Rocky,the goldfinch,Action,Action,Action,Drama,Drama
+74,18 +,Thrilled/Excited,Batman,iron man,Django unchained,inglorious bastards,Jojo rabbit,Fantasy,Action,Drama,War,War
+75,18 +,Sad,Selena,the pursuit of happiness,forest Gump,other people,inside out,Drama,Fantasy,Adventure,Comedy,Drama
+76,18 +,Sad,Moonlight,Sophie’s choice,my girl,sound of metal,our friend,Drama,Drama,Comedy,Drama,Drama
+77,18 +,Sad,One day,to the bone,brokeback mountain,stepmom,the last song,Drama,Drama,Drama,Drama,Drama
+78,18 +,Sad,A star is born,the last song,soul surfer,the colour purple,titanic,Romance,Drama,Action,Romance,Drama
+79,18 +,Sad,Beaches,Marley and me,a star is borne,brokeback mountain,titanic,Drama,Comedy,Romance,Drama,Drama
+80,18 +,Romantic,Emma,Jane eyre,vanity fair,message in a bottle,titanic,Romance,Romance,Drama,Romance,Drama
+81,18 +,Romantic,Becoming Jane,Romeo and Juliet,four weddings and a funeral,far and away,,Drama,Romance,Comedy,Romance,
+82,18 +,Romantic,Notting hill,Bridget jones 1,Bridget jones 2,about a boy,about time,Romance,Romance,Romance,Drama,Comedy
+83,18 +,Romantic,Pocchahontas,101 Dalmatia,Mulan,Cinderella,Snow White,Family,Family,Animation,Romance,Family
+84,18 +,Inspired,The imitation game,good will hunting,pursuit of happiness,freedom writer,erin brockowich,History,Drama,Adventure,Drama,Romance
+85,under 18,Inspired,Bucket list,wild,Mitty,imitation game,cast away,Adventure,Drama,Adventure,War,Adventure
+86,18 +,Inspired,Five feet apart,Erin brockovich,million dollar baby,Gandhi,selma,Drama,Drama,Drama,Drama,History
+87,18 +,Inspired,Coach carter,the kings speech,the pianist,good will hunting,Eddie the eagle,Drama,History,Drama,Drama,Comedy
+88,18 +,Inspired,Breaveheart,Lincoln,catch me if you can,Julie and Julia,life is beautiful,War,History,Drama,Fantasy,Drama
+89,18 +,Sad,Room,the notebook,love story,hear on earth,Shakespeare in love,Drama,Romance,Romance,Romance,Romance
+90,18 +,Sad,Beautiful boy,seven pounds,carol,ghost,dirty dancing,Drama,Drama,Romance,Fantasy,Romance
+91,18 +,Angry,Gone baby gone,rrr,upgrade,John wick,falling down,Mystery,Action,Science Fiction,Crime,Crime
+92,18 +,Angry,12 angry men,sweet November,the hunt,John wick,upgrade,Drama,Drama,Drama,Crime,Science Fiction
+93,18 +,Emotional,The keeper,Everest,the summit,Macbeth,the gallows,Family,Adventure,Thriller,Horror,Horror
+94,18 +,Emotional,Premonition,collateral beauty,aftermath,remember me,the goldfinch,Thriller,Drama,Drama,Drama,Drama
+95,18 +,Emotional,Dear John,about time,rabbit hole,Jojo rabbit,wildctales,Drama,Comedy,Drama,War,Drama
+96,18 +,Emotional,Love happens,the goldfinch,aftermath,remember me,premonition,Drama,Drama,Drama,Drama,Thriller
+97,18 +,Emotional,The lake house,wonder wheel,love happened,about time,the queen,Romance,Drama,Romance,Comedy,Drama
+98,18 +,Romantic,Chocolate,about time,a star is born,cool runnings,music and lyrics,Fantasy,Comedy,Romance,Comedy,Comedy
