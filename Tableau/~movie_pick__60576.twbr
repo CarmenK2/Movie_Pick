@@ -30,17 +30,20 @@
           <named-connection caption='Dropped_20220821T160008' name='Dropped_20220821T160008'>
             <connection class='textscan' directory='Data/1acvf6q1is4bgi126dven198uovx' filename='Dropped_20220821T160008.txt' temporary='yes' />
           </named-connection>
+          <named-connection caption='moviepickdb1.cfpjmecphwzu.us-west-2.rds.amazonaws.com (2)' name='postgres.0y3ccab0jyj9g918gctsg04v3t8s'>
+            <connection authentication='username-password' class='postgres' dbname='moviepicktest' one-time-sql='' port='5432' server='moviepickdb1.cfpjmecphwzu.us-west-2.rds.amazonaws.com' username='postgres' />
+          </named-connection>
         </named-connections>
-        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='postgres.190wlyc0dzi7us195r4970qn600f' name='movies_cleaned1' table='[public].[movies_cleaned1]' type='table'>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='postgres.0y3ccab0jyj9g918gctsg04v3t8s' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
           <columns>
-            <column datatype='date' date-parse-format='yyyy' name='release_year' />
             <column datatype='date' date-parse-format='yyyy-MM-dd' name='release_date' />
+            <column datatype='date' date-parse-format='yyyy' name='release_year' />
           </columns>
         </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
-        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='postgres.190wlyc0dzi7us195r4970qn600f' name='movies_cleaned1' table='[public].[movies_cleaned1]' type='table'>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='postgres.0y3ccab0jyj9g918gctsg04v3t8s' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
           <columns>
-            <column datatype='date' date-parse-format='yyyy' name='release_year' />
             <column datatype='date' date-parse-format='yyyy-MM-dd' name='release_date' />
+            <column datatype='date' date-parse-format='yyyy' name='release_year' />
           </columns>
         </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
         <metadata-records>
@@ -48,312 +51,297 @@
             <remote-name>id</remote-name>
             <remote-type>129</remote-type>
             <local-name>[id]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>id</remote-alias>
             <ordinal>0</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
-            <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
+            <contains-null>false</contains-null>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>original_title</remote-name>
             <remote-type>129</remote-type>
             <local-name>[original_title]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>original_title</remote-alias>
             <ordinal>1</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>release_year</remote-name>
             <remote-type>7</remote-type>
             <local-name>[release_year]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>release_year</remote-alias>
             <ordinal>2</ordinal>
             <local-type>date</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
             <collation flag='0' name='LEN_RUS' />
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>genre</remote-name>
             <remote-type>129</remote-type>
             <local-name>[genre]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>genre</remote-alias>
             <ordinal>3</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>overview</remote-name>
             <remote-type>129</remote-type>
             <local-name>[overview]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>overview</remote-alias>
             <ordinal>4</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>runtime</remote-name>
             <remote-type>129</remote-type>
             <local-name>[runtime]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>runtime</remote-alias>
             <ordinal>5</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>vote_average</remote-name>
             <remote-type>129</remote-type>
             <local-name>[vote_average]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>vote_average</remote-alias>
             <ordinal>6</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>keywording</remote-name>
             <remote-type>129</remote-type>
             <local-name>[keywording]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>keywording</remote-alias>
             <ordinal>7</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>original_language</remote-name>
             <remote-type>129</remote-type>
             <local-name>[original_language]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>original_language</remote-alias>
             <ordinal>8</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>prod_companies</remote-name>
             <remote-type>129</remote-type>
             <local-name>[prod_companies]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>prod_companies</remote-alias>
             <ordinal>9</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>prod_countries</remote-name>
             <remote-type>129</remote-type>
             <local-name>[prod_countries]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>prod_countries</remote-alias>
             <ordinal>10</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>release_date</remote-name>
             <remote-type>7</remote-type>
             <local-name>[release_date]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>release_date</remote-alias>
             <ordinal>11</ordinal>
             <local-type>date</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
             <collation flag='0' name='LEN_RUS' />
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>budget</remote-name>
             <remote-type>129</remote-type>
             <local-name>[budget]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>budget</remote-alias>
             <ordinal>12</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>revenue</remote-name>
             <remote-type>129</remote-type>
             <local-name>[revenue]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>revenue</remote-alias>
             <ordinal>13</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>popularity</remote-name>
             <remote-type>129</remote-type>
             <local-name>[popularity]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>popularity</remote-alias>
             <ordinal>14</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>languages_spoken</remote-name>
             <remote-type>129</remote-type>
             <local-name>[languages_spoken]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>languages_spoken</remote-alias>
             <ordinal>15</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>casting</remote-name>
             <remote-type>129</remote-type>
             <local-name>[casting]</local-name>
-            <parent-name>[movies_cleaned1]</parent-name>
+            <parent-name>[movies_cleaned2]</parent-name>
             <remote-alias>casting</remote-alias>
             <ordinal>16</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <width>2147483647</width>
             <contains-null>true</contains-null>
-            <cast-to-local-type>true</cast-to-local-type>
             <collation flag='0' name='LEN_RUS' />
             <attributes>
               <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
-      <_.fcp.ObjectModelTableType.true...column caption='movies_cleaned1' datatype='table' name='[__tableau_internal_object_id__].[movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC]' role='measure' type='quantitative' />
-      <column caption='Budget' datatype='integer' datatype-customized='true' name='[budget]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='movies_cleaned2' datatype='table' name='[__tableau_internal_object_id__].[movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E]' role='measure' type='quantitative' />
+      <column caption='Budget' datatype='real' datatype-customized='true' name='[budget]' role='dimension' type='ordinal' />
       <column caption='Casting' datatype='string' name='[casting]' role='dimension' type='nominal' />
       <column caption='Genre' datatype='string' name='[genre]' role='dimension' type='nominal' />
-      <column caption='Id' datatype='real' datatype-customized='true' name='[id]' role='dimension' type='ordinal' />
+      <column caption='Id' datatype='integer' datatype-customized='true' name='[id]' role='dimension' type='ordinal' />
       <column caption='Keywording' datatype='string' name='[keywording]' role='dimension' type='nominal' />
       <column caption='Languages Spoken' datatype='string' name='[languages_spoken]' role='dimension' type='nominal' />
       <column caption='Original Language' datatype='string' name='[original_language]' role='dimension' type='nominal' />
       <column caption='Original Title' datatype='string' name='[original_title]' role='dimension' type='nominal' />
       <column caption='Overview' datatype='string' name='[overview]' role='dimension' type='nominal' />
-      <column caption='Popularity' datatype='real' datatype-customized='true' name='[popularity]' role='dimension' type='ordinal' />
+      <column caption='Popularity' datatype='integer' datatype-customized='true' name='[popularity]' role='dimension' type='ordinal' />
       <column caption='Prod Companies' datatype='string' name='[prod_companies]' role='dimension' type='nominal' />
       <column caption='Prod Countries' datatype='string' name='[prod_countries]' role='dimension' type='nominal' />
       <column aggregation='Count' caption='Release Date' datatype='date' datatype-customized='true' name='[release_date]' role='dimension' type='ordinal' />
@@ -367,12 +355,358 @@
       </semantic-values>
       <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
         <objects>
-          <object caption='movies_cleaned1' id='movies_cleaned1_7E046EE9E34544A390626283A1DDE0AC'>
+          <object caption='movies_cleaned2' id='movies_cleaned2_868FBC39DC2B4E3BA8E30DEEEAE7871E'>
             <properties context=''>
-              <relation connection='postgres.190wlyc0dzi7us195r4970qn600f' name='movies_cleaned1' table='[public].[movies_cleaned1]' type='table'>
+              <relation connection='postgres.0y3ccab0jyj9g918gctsg04v3t8s' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
                 <columns>
-                  <column datatype='date' date-parse-format='yyyy' name='release_year' />
                   <column datatype='date' date-parse-format='yyyy-MM-dd' name='release_date' />
+                  <column datatype='date' date-parse-format='yyyy' name='release_year' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='movies_cleaned2 (moviepicktest)' inline='true' name='federated.1345y640qkwcxz1esvokv144v0fl' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='moviepickdb1.cfpjmecphwzu.us-west-2.rds.amazonaws.com' name='postgres.12yhsx50rzjnjp1egfqk51dxesf6'>
+            <connection authentication='username-password' class='postgres' dbname='moviepicktest' one-time-sql='' port='5432' server='moviepickdb1.cfpjmecphwzu.us-west-2.rds.amazonaws.com' username='postgres' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='postgres.12yhsx50rzjnjp1egfqk51dxesf6' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
+          <columns>
+            <column datatype='integer' date-parse-format='yyyy' name='release_year' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='postgres.12yhsx50rzjnjp1egfqk51dxesf6' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
+          <columns>
+            <column datatype='integer' date-parse-format='yyyy' name='release_year' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[id]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>false</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>original_title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[original_title]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>original_title</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>release_year</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[release_year]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>release_year</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genre</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genre]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>genre</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>overview</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[overview]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>overview</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>runtime</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[runtime]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>runtime</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vote_average</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[vote_average]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>vote_average</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>keywording</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[keywording]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>keywording</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>original_language</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[original_language]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>original_language</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>prod_companies</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[prod_companies]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>prod_companies</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>prod_countries</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[prod_countries]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>prod_countries</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>release_date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[release_date]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>release_date</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>budget</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[budget]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>budget</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>revenue</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[revenue]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>revenue</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>popularity</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[popularity]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>popularity</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>languages_spoken</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[languages_spoken]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>languages_spoken</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>casting</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[casting]</local-name>
+            <parent-name>[movies_cleaned2]</parent-name>
+            <remote-alias>casting</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>2147483647</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[movies_cleaned2_463E8953F23E49A5B934F618917D7146]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='movies_cleaned2' datatype='table' name='[__tableau_internal_object_id__].[movies_cleaned2_463E8953F23E49A5B934F618917D7146]' role='measure' type='quantitative' />
+      <column caption='Budget' datatype='string' name='[budget]' role='dimension' type='nominal' />
+      <column caption='Casting' datatype='string' name='[casting]' role='dimension' type='nominal' />
+      <column caption='Genre' datatype='string' name='[genre]' role='dimension' type='nominal' />
+      <column caption='Id' datatype='integer' datatype-customized='true' name='[id]' role='dimension' type='ordinal' />
+      <column caption='Keywording' datatype='string' name='[keywording]' role='dimension' type='nominal' />
+      <column caption='Languages Spoken' datatype='string' name='[languages_spoken]' role='dimension' type='nominal' />
+      <column caption='Original Language' datatype='string' name='[original_language]' role='dimension' type='nominal' />
+      <column caption='Original Title' datatype='string' name='[original_title]' role='dimension' type='nominal' />
+      <column caption='Overview' datatype='string' name='[overview]' role='dimension' type='nominal' />
+      <column caption='Popularity' datatype='string' name='[popularity]' role='dimension' type='nominal' />
+      <column caption='Prod Companies' datatype='string' name='[prod_companies]' role='dimension' type='nominal' />
+      <column caption='Prod Countries' datatype='string' name='[prod_countries]' role='dimension' type='nominal' />
+      <column caption='Release Date' datatype='string' name='[release_date]' role='dimension' type='nominal' />
+      <column caption='Release Year' datatype='integer' datatype-customized='true' name='[release_year]' role='dimension' type='ordinal' />
+      <column caption='Revenue' datatype='string' name='[revenue]' role='dimension' type='nominal' />
+      <column caption='Runtime' datatype='integer' datatype-customized='true' name='[runtime]' role='dimension' type='ordinal' />
+      <column caption='Vote Average' datatype='string' name='[vote_average]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Australia&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='movies_cleaned2' id='movies_cleaned2_463E8953F23E49A5B934F618917D7146'>
+            <properties context=''>
+              <relation connection='postgres.12yhsx50rzjnjp1egfqk51dxesf6' name='movies_cleaned2' table='[public].[movies_cleaned2]' type='table'>
+                <columns>
+                  <column datatype='integer' date-parse-format='yyyy' name='release_year' />
                 </columns>
               </relation>
             </properties>
@@ -385,13 +719,7 @@
     <worksheet name='Sheet 1'>
       <table>
         <view>
-          <datasources>
-            <datasource caption='movies_cleaned1 (moviepicktest)' name='federated.1vuw6zp05cvn5i0zphf22056levm' />
-          </datasources>
-          <datasource-dependencies datasource='federated.1vuw6zp05cvn5i0zphf22056levm'>
-            <column caption='Budget' datatype='integer' datatype-customized='true' name='[budget]' role='measure' type='quantitative' />
-            <column-instance column='[budget]' derivation='None' name='[none:budget:qk]' pivot='key' type='quantitative' />
-          </datasource-dependencies>
+          <datasources />
           <aggregation value='true' />
         </view>
         <style />
@@ -403,7 +731,7 @@
             <mark class='Automatic' />
           </pane>
         </panes>
-        <rows>[federated.1vuw6zp05cvn5i0zphf22056levm].[none:budget:qk]</rows>
+        <rows />
         <cols />
       </table>
       <simple-id uuid='{6EB374FF-D08D-47AC-86C7-3615C94AD759}' />
