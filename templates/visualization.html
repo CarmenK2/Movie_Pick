@@ -14,6 +14,7 @@
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 
+
   <!-- NavBar -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand" href="/">CACE</a>
@@ -41,12 +42,12 @@
       <div class="col-md-12 jumbotron text-center">
         <h1 class="ml6">
           <span class="text-wrapper">
-            <span class="letters">LET ME PICK YOUR MOVIE</span>
+            <span class="letters">A LOOK BEHIND THE SCENES</span>
           </span>
         </h1>
-        <p style="text-align:center; color: white; font-size: 18px;">Be our guest, be our guest. Put our service to the
-          test.</p>
+        <p style="text-align:center; color: white; font-size: 18px;">Did you know about these fun movie facts?</p>
         <ul class="circles">
+            
           <li></li>
           <li></li>
           <li></li>
@@ -64,16 +65,10 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <img class="vizualization rounded float-left" width="400px" height="300px" src="../static/img/lumiere.png"
-            alt="lumiere">
-          <p>When was the last time on a rainy day, you curled up on the couch ready to watch a movie finding yourself
-            overwhelmed by the sheer amount of movie choices spending ages figuring out what movie to watch? Well, gone
-            are the times of endless scrolling through movies to find the one to watch. Enter your mood in the
-            interactive dashboard and it will give you a top 5 movie recommendation to watch based on the mood you're
-            in.
-          </p>
+          
           <br>
-          <div class="row">
+          <div class='tableauPlaceholder' id='viz1661340103949' style='position: relative'><noscript><a href='#'><img alt='Top 10 Movies by Revenue ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;mo&#47;movie_pick&#47;Top10MoviesbyRevenue&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='movie_pick&#47;Top10MoviesbyRevenue' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;mo&#47;movie_pick&#47;Top10MoviesbyRevenue&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1661340103949');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+          <!--<div class="row">
             <div class="col-md-offset-2 col-md-8">
               <form method="POST" action="/send" role="form" , name="movieform">
                 <div class="input-group mb-3">
@@ -118,7 +113,7 @@
 
         </div>
       </div>
-    </div>
+    </div> -->
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>

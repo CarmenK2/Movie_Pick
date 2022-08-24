@@ -1,19 +1,19 @@
 ﻿Mood,Movie,Genre
-Inspired,I am legend,Drama
-Thrilled,Straight outta Compton,Drama
-Happy,2 fast 2 furious,Action
-Happy,Love actually,Comedy
-Inspired,Pitch perfect,Comedy
+Inspired,I Am Legend,Drama
+Thrilled,Straight Outta Compton,Drama
+Happy,2 Fast 2 Furious,Action
+Happy,Love Actually,Comedy
+Inspired,Pitch Perfect,Comedy
 Happy,Back to the Future,Adventure
 Happy,Forrest Gump,Comedy
-Happy,Love actually,Comedy
+Happy,Love Actually,Comedy
 Inspired,The Dark Knight,Drama
 Happy,The Notebook,Romance
 Emotional,Star Wars,Adventure
-Sad,A walk to remember,Drama
+Sad,A Walk to Remember,Drama
 Happy,Bolt,Animation
 Sad,Happy Feet,Animation
-Inspired,Dead poets society,Drama
+Inspired,Dead Poets Society,Drama
 Angry,Mad Max,Adventure
 Happy,Finding Nemo,Animation
 Thrilled,Robin Hood,Action
@@ -23,48 +23,48 @@ Happy,Night at the Museum,Action
 Angry,Mad Max,Adventure
 Romantic,The Tourist,Action
 Sad,The Truman Show,Comedy
-Romantic,My Sister's keeper,Drama
+Romantic,My Sister's Keeper,Drama
 Inspired,Ratatouille,Animation
 Thrilled,How to Train Your Dragon 2,Fantasy
 Inspired,The Dark Knight,Drama
-Angry,8 mile,Drama
-Angry,Django unchained,Drama
-Angry,V for vendetta,Action
-Emotional,I am Sam,Drama
-Sad,Top gun,Action
-Happy,Top gun,Action
-Inspired,Stranger than fiction,Comedy
+Angry,8 Mile,Drama
+Angry,Django Unchained,Drama
+Angry,V for Vendetta,Action
+Emotional,I Am Sam,Drama
+Sad,Top Gun,Action
 Happy,Top Gun,Action
-Romantic,Love actually,Comedy
+Inspired,Stranger Than Fiction,Comedy
+Happy,Top Gun,Action
+Romantic,Love Actually,Comedy
 Inspired,Ratatouille,Animation
-Emotional,The little prince,Adventure
-Romantic,About a boy,Drama
-Thrilled/Excited,Die hard,Action
+Emotional,The Little Prince,Adventure
+Romantic,About a Boy,Drama
+Thrilled/Excited,Die Hard,Action
 Thrilled/Excited,Batman,Fantasy
 Sad,Selena,Drama
-Sad,One day,Drama
+Sad,One Day,Drama
 Romantic,Becoming Jane,Drama
-Romantic,Notting hill,Romance
-Inspired,The imitation game,History
-Inspired,Coach carter,Drama
+Romantic,Notting Hill,Romance
+Inspired,The Imitation Game,History
+Inspired,Coach Carter,Drama
 Sad,Room,Drama
-Angry,12 angry men,Drama
+Angry,12 Angry Men,Drama
 Emotional,Premonition,Thriller
 Emotional,Dear John,Drama
-Emotional,Love happens,Drama
-Emotional,The lake house,Romance
+Emotional,Love Happens,Drama
+Emotional,The Lake House,Romance
 Inspired,Aladdin,Animation
 Happy,The Big Short,Comedy
 Happy,Grease,Romance
 Inspired,Titanic,Drama
-Emotional,billy elliot,Drama
+Emotional,Billy Elliot,Drama
 Emotional,Star Trek,Science Fiction
-Sad,Me before You,Drama
+Sad,Me Before You,Drama
 Happy,The Emperor's New Groove,Adventure
 Happy,Teenage Mutant Ninja Turtles,Science Fiction
-Sad,Schindler's list,Drama
+Sad,Schindler's List,Drama
 Inspired,Good Will Hunting,Drama
-Thrilled,Jurassic park,Adventure
+Thrilled,Jurassic Park,Adventure
 Happy,The Incredibles,Action
 Thrilled,The Amazing Spider-Man,Action
 Romantic,Brave,Animation
@@ -76,31 +76,31 @@ Sad,Contagion,Drama
 Romantic,The Notebook,Romance
 Inspired,Charlie and the Chocolate Factory,Adventure
 Thrilled,Monsters,Drama
-Happy,the godfather,Drama
+Happy,The Godfather,Drama
 Inspired,Step Brothers,Comedy
 Sad,Forrest Gump,Comedy
-Sad,up,Animation
-Inspired,the secret life of walter mitty,Adventure
+Sad,Up,Animation
+Inspired,The Secret Life of Walter Mitty,Adventure
 Happy,Superman,Action
-Romantic,about a boy,Drama
-Romantic,midnight in Paris,Fantasy
-Thrilled/Excited,red,Action
-Thrilled/Excited,iron man,Action
-Inspired,good will hunting,Drama
-Inspired,wild,Drama
-Inspired,Erin brockovich,Drama
+Romantic,About a Boy,Drama
+Romantic,Midnight in Paris,Fantasy
+Thrilled/Excited,RED,Action
+Thrilled/Excited,Iron Man,Action
+Inspired,Good Will Hunting,Drama
+Inspired,Wild,Drama
+Inspired,Erin Brockovich,Drama
 Inspired,Lincoln,History
-Sad,the notebook,Romance
-Sad,seven pounds,Drama
-Angry,sweet November,Drama
+Sad,The Notebook,Romance
+Sad,Seven Pounds,Drama
+Angry,Sweet November,Drama
 Emotional,Everest,Adventure
 Happy,Avatar,Action
 Happy,JFK,Drama
 Inspired,Die Hard,Action
 Happy,The Matrix,Action
-Happy,eternal sunshine of the spotless mind,Science Fiction
+Happy,Eternal Sunshine of the Spotless Mind,Science Fiction
 Inspired,Django Unchained,Drama
-Inspired,i am sam,Drama
+Inspired,I Am Sam,Drama
 Sad,The Pursuit of Happyness,Drama
 Happy,Forrest Gump,Comedy
 Sad,Love Actually,Comedy
@@ -116,37 +116,37 @@ Romantic,Enchanted,Comedy
 Sad,The Terminal,Comedy
 Romantic,50 First Dates,Comedy
 Inspired,Inside Out,Drama
-Happy,titanic,Drama
-Inspired,the Matrix,Action
-Sad,titanic,Drama
-Angry,the punisher,Action
-Emotional,the green mile,Fantasy
-Inspired,titanic,Drama
-Happy,thor,Adventure
+Happy,Titanic,Drama
+Inspired,The Matrix,Action
+Sad,Titanic,Drama
+Angry,The Punisher,Action
+Emotional,The Green Mile,Fantasy
+Inspired,Titanic,Drama
+Happy,Thor,Adventure
 Happy,The Avengers,Science Fiction
 Happy,Spider-Man,Fantasy
-Inspired,inside out,Drama
-Emotional,babel,Drama
-Emotional,miss Julie,Drama
-Angry,up,Animation
-Thrilled/Excited,die Hard 2,Action
-Thrilled/Excited,Django unchained,Drama
-Sad,brokeback mountain,Drama
-Sad,soul surfer,Action
-Romantic,vanity fair,Drama
-Romantic,four weddings and a funeral,Comedy
+Inspired,Inside Out,Drama
+Emotional,Babel,Drama
+Emotional,Miss Julie,Drama
+Angry,Up,Animation
+Thrilled/Excited,Die Hard 2,Action
+Thrilled/Excited,Django Unchained,Drama
+Sad,Brokeback Mountain,Drama
+Sad,Soul Surfer,Action
+Romantic,Vanity Fair,Drama
+Romantic,Four Weddings and a Funeral,Comedy
 Romantic,Mulan,Animation
-Inspired,million dollar baby,Drama
-Inspired,the pianist,Drama
-Inspired,catch me if you can,Drama
-Emotional,rabbit hole,Drama
+Inspired,Million Dollar Baby,Drama
+Inspired,The Pianist,Drama
+Inspired,Catch Me If You Can,Drama
+Emotional,Rabbit Hole,Drama
 Inspired,World War Z,Action
-Happy,the big short,Comedy
+Happy,The Big Short,Comedy
 Happy,Die Hard,Action
 Inspired,My Big Fat Greek Wedding,Comedy
-Happy,love actually,Comedy
+Happy,Love Actually,Comedy
 Happy,The Departed,Drama
-Happy,10 Things I Hate about You,Comedy
+Happy,10 Things I Hate About You,Comedy
 Angry,Sherlock Holmes,Action
 Thrilled,Jaws,Horror
 Thrilled,Iron Man 3,Action
@@ -156,41 +156,41 @@ Happy,Toy Story 3,Animation
 Angry,The Dark Knight,Drama
 Romantic,It's Complicated,Comedy
 Sad,Men in Black,Action
-Romantic,TITANIC,Drama
+Romantic,Titanic,Drama
 Inspired,Toy Story,Animation
 Thrilled,Teenage Mutant Ninja Turtles,Science Fiction
-Happy,avatar,Action
+Happy,Avatar,Action
 Inspired,Training Day,Action
-Sad,titanic,Drama
-Sad,seven pounds,Drama
+Sad,Titanic,Drama
+Sad,Seven Pounds,Drama
 Emotional,Bambi,Animation
-Sad,superman,Action
-Inspired,wild wild west,Action
+Sad,Superman,Action
+Inspired,Wild Wild West,Action
 Happy,Titanic,Drama
 Happy,Rocky,Drama
-Angry,inside out,Drama
+Angry,Inside Out,Drama
 Thrilled/Excited,Rocky,Drama
-Sad,brokeback mountain,Drama
-Romantic,message in a bottle,Romance
-Romantic,about a boy,Drama
+Sad,Brokeback Mountain,Drama
+Romantic,Message in a Bottle,Romance
+Romantic,About a Boy,Drama
 Romantic,Cinderella,Romance
 Inspired,Gandhi,Drama
-Inspired,good will hunting,Drama
-Sad,ghost,Fantasy
-Romantic,cool runnings,Comedy
-Thrilled,gone girl,Mystery
-Happy,the bodyguard,Thriller
-Happy,white chicks,Comedy
-Inspired,the departed,Drama
+Inspired,Good Will Hunting,Drama
+Sad,Ghost,Fantasy
+Romantic,Cool Runnings,Comedy
+Thrilled,Gone Girl,Mystery
+Happy,The Bodyguard,Thriller
+Happy,White Chicks,Comedy
+Inspired,The Departed,Drama
 Happy,The Godfather,Drama
-Happy,jason Bourne,Action
-Emotional,the fault in our stars,Romance
-Happy,eat pray love,Drama
+Happy,Jason Bourne,Action
+Emotional,The Fault in Our Stars,Romance
+Happy,Eat Pray Love,Drama
 Happy,Blade Runner,Science Fiction
 Sad,The Notebook,Romance
 Sad,Thor,Adventure
-Thrilled,catch me if you can,Drama
-Emotional,Shakespeare In Love,Romance
+Thrilled,Catch Me If You Can,Drama
+Emotional,Shakespeare in Love,Romance
 Thrilled,Quantum of Solace,Adventure
 Romantic,Frozen,Animation
 Inspired,Ocean's Twelve,Thriller
@@ -201,25 +201,25 @@ Sad,Journey to the Center of the Earth,Action
 Romantic,Serendipity,Comedy
 Inspired,Toy Story 2,Animation
 Thrilled,Men in Black,Action
-Angry,man on fire,Action
-Angry,the crow,Fantasy
-Emotional,up,Animation
+Angry,Man on Fire,Action
+Angry,The Crow,Fantasy
+Emotional,Up,Animation
 Happy,The Passion of the Christ,Drama
-Inspired,memoirs of a geisha,Drama
+Inspired,Memoirs of a Geisha,Drama
 Happy,Armageddon,Action
-Romantic,one day,Drama
-Inspired,up,Animation
-Thrilled/Excited,whale rider,Drama
-Romantic,safe haven,Romance
-Sad,inside out,Drama
-Sad,titanic,Drama
-Sad,titanic,Drama
-Romantic,titanic,Drama
-Inspired,cast away,Adventure
-Inspired,selma,History
-Inspired,Eddie the eagle,Comedy
-Sad,Shakespeare in love,Romance
-Emotional,the gallows,Horror
-Emotional,premonition,Thriller
-Emotional,the queen,Drama
-Romantic,music and lyrics,Comedy
+Romantic,One Day,Drama
+Inspired,Up,Animation
+Thrilled/Excited,Whale Rider,Drama
+Romantic,Safe Haven,Romance
+Sad,Inside Out,Drama
+Sad,Titanic,Drama
+Sad,Titanic,Drama
+Romantic,Titanic,Drama
+Inspired,Cast Away,Adventure
+Inspired,Selma,History
+Inspired,Eddie the Eagle,Comedy
+Sad,Shakespeare in Love,Romance
+Emotional,The Gallows,Horror
+Emotional,Premonition,Thriller
+Emotional,The Queen,Drama
+Romantic,Music and Lyrics,Comedy
