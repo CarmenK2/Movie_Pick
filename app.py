@@ -18,7 +18,11 @@ def home():
     # Return template and data
     return render_template("index.html")
 
+# Route to render visualisation.html template
+@app.route("/visualization")
+def visualization():
 
+    return render_template("visualization.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
