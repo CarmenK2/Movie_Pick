@@ -1,0 +1,3097 @@
+,original_title,genre,release_year,runtime,prediction
+0,Avatar,"Action,Adventure,Fantasy,Science Fiction",2009,162,0.0
+1,Pirates of the Caribbean At World's End,"Adventure,Fantasy,Action",2007,169,1.0
+2,Spectre,"Action,Adventure,Crime",2015,148,1.0
+3,The Dark Knight Rises,"Action,Crime,Drama,Thriller",2012,165,1.0
+4,John Carter,"Action,Adventure,Science Fiction",2012,132,1.0
+5,SpiderMan 3,"Fantasy,Action,Adventure",2007,139,1.0
+6,Tangled,"Animation,Family",2010,100,1.0
+7,Avengers Age of Ultron,"Action,Adventure,Science Fiction",2015,141,0.0
+8,Harry Potter and the HalfBlood Prince,"Adventure,Fantasy,Family",2009,153,1.0
+9,Batman v Superman Dawn of Justice,"Action,Adventure,Fantasy",2016,151,1.0
+10,Superman Returns,"Adventure,Fantasy,Action,Science Fiction",2006,154,1.0
+11,Quantum of Solace,"Adventure,Action,Thriller,Crime",2008,106,1.0
+12,Pirates of the Caribbean Dead Man's Chest,"Adventure,Fantasy,Action",2006,151,1.0
+13,The Lone Ranger,"Action,Adventure,Western",2013,149,1.0
+14,Man of Steel,"Action,Adventure,Fantasy,Science Fiction",2013,143,1.0
+15,The Chronicles of Narnia Prince Caspian,"Adventure,Family,Fantasy",2008,150,1.0
+16,The Avengers,"Science Fiction,Action,Adventure",2012,143,1.0
+17,Pirates of the Caribbean On Stranger Tides,"Adventure,Action,Fantasy",2011,136,0.0
+18,Men in Black 3,"Action,Comedy,Science Fiction",2012,106,1.0
+19,The Hobbit The Battle of the Five Armies,"Action,Adventure,Fantasy",2014,144,1.0
+20,The Amazing SpiderMan,"Action,Adventure,Fantasy",2012,136,1.0
+21,Robin Hood,"Action,Adventure",2010,140,1.0
+22,The Hobbit The Desolation of Smaug,"Adventure,Fantasy",2013,161,1.0
+23,The Golden Compass,"Adventure,Fantasy",2007,113,0.0
+24,King Kong,"Adventure,Drama,Action",2005,187,0.0
+25,Titanic,"Drama,Romance,Thriller",1997,194,0.0
+26,Captain America Civil War,"Adventure,Action,Science Fiction",2016,147,1.0
+27,Battleship,"Thriller,Action,Adventure,Science Fiction",2012,131,0.0
+28,Jurassic World,"Action,Adventure,Science Fiction,Thriller",2015,124,0.0
+29,Skyfall,"Action,Adventure,Thriller",2012,143,1.0
+30,SpiderMan 2,"Action,Adventure,Fantasy",2004,127,1.0
+31,Iron Man 3,"Action,Adventure,Science Fiction",2013,130,0.0
+32,Alice in Wonderland,"Family,Fantasy,Adventure",2010,108,0.0
+33,XMen The Last Stand,"Adventure,Action,Science Fiction,Thriller",2006,104,1.0
+34,Monsters University,"Animation,Family",2013,104,0.0
+35,Transformers Revenge of the Fallen,"Science Fiction,Action,Adventure",2009,150,1.0
+36,Oz The Great and Powerful,"Fantasy,Adventure,Family",2013,130,1.0
+37,The Amazing SpiderMan 2,"Action,Adventure,Fantasy",2014,142,1.0
+38,TRON Legacy,"Adventure,Action,Science Fiction",2010,125,1.0
+39,Cars 2,"Animation,Family,Adventure,Comedy",2011,106,0.0
+40,Green Lantern,"Adventure,Action,Thriller,Science Fiction",2011,114,0.0
+41,Toy Story 3,"Animation,Family,Comedy",2010,103,1.0
+42,Terminator Salvation,"Action,Science Fiction,Thriller",2009,115,0.0
+43,Furious 7,Action,2015,137,1.0
+44,World War Z,"Action,Drama,Horror,Science Fiction,Thriller",2013,116,0.0
+45,XMen Days of Future Past,"Action,Adventure,Fantasy,Science Fiction",2014,131,0.0
+46,Star Trek Into Darkness,"Action,Adventure,Science Fiction",2013,132,1.0
+47,Jack the Giant Slayer,"Action,Family,Fantasy",2013,114,0.0
+48,The Great Gatsby,"Drama,Romance",2013,143,0.0
+49,Prince of Persia The Sands of Time,"Adventure,Fantasy,Action,Romance",2010,116,1.0
+50,Pacific Rim,"Action,Science Fiction,Adventure",2013,131,1.0
+51,Transformers Dark of the Moon,"Action,Science Fiction,Adventure",2011,154,1.0
+52,Indiana Jones and the Kingdom of the Crystal Skull,"Adventure,Action",2008,122,0.0
+53,The Good Dinosaur,"Adventure,Animation,Family",2015,93,0.0
+54,Brave,"Animation,Adventure,Comedy,Family,Action,Fantasy",2012,93,1.0
+55,Star Trek Beyond,"Action,Adventure,Science Fiction",2016,122,1.0
+56,WALL·E,"Animation,Family",2008,98,1.0
+57,Rush Hour 3,"Action,Comedy,Crime,Thriller",2007,91,0.0
+58,A Christmas Carol,"Animation,Drama",2009,96,0.0
+59,Jupiter Ascending,"Science Fiction,Fantasy,Action,Adventure",2015,124,1.0
+60,The Legend of Tarzan,"Action,Adventure",2016,109,1.0
+61,"The Chronicles of Narnia The Lion, the Witch and the Wardrobe","Adventure,Family,Fantasy",2005,143,1.0
+62,XMen Apocalypse,Science Fiction,2016,144,1.0
+63,The Dark Knight,"Drama,Action,Crime,Thriller",2008,152,1.0
+64,Up,"Animation,Comedy,Family,Adventure",2009,96,2.0
+65,Monsters vs Aliens,"Animation,Family,Adventure,Science Fiction",2009,94,1.0
+66,Iron Man,"Action,Science Fiction,Adventure",2008,126,0.0
+67,Hugo,"Adventure,Drama,Family",2011,126,0.0
+68,Wild Wild West,"Action,Adventure,Comedy,Science Fiction,Western",1999,106,0.0
+69,Suicide Squad,"Action,Adventure,Crime,Fantasy,Science Fiction",2016,123,0.0
+70,Evan Almighty,"Fantasy,Comedy,Family",2007,96,1.0
+71,Edge of Tomorrow,"Action,Science Fiction",2014,113,1.0
+72,Waterworld,"Adventure,Action",1995,135,0.0
+73,G.I. Joe The Rise of Cobra,"Adventure,Action,Thriller,Science Fiction",2009,118,0.0
+74,Inside Out,"Drama,Comedy,Animation,Family",2015,94,0.0
+75,The Jungle Book,"Family,Adventure,Drama,Fantasy",2016,106,0.0
+76,Iron Man 2,"Adventure,Action,Science Fiction",2010,124,0.0
+77,Snow White and the Huntsman,"Adventure,Fantasy,Drama",2012,127,1.0
+78,Maleficent,"Fantasy,Adventure,Action,Family,Romance",2014,97,1.0
+79,Dawn of the Planet of the Apes,"Science Fiction,Action,Drama,Thriller",2014,130,0.0
+80,47 Ronin,"Drama,Action,Adventure,Fantasy",2013,119,1.0
+81,Captain America The Winter Soldier,"Action,Adventure,Science Fiction",2014,136,0.0
+82,Shrek Forever After,"Comedy,Adventure,Fantasy,Animation,Family",2010,93,1.0
+83,Big Hero 6,"Adventure,Family,Animation,Action,Comedy",2014,102,1.0
+84,WreckIt Ralph,"Family,Animation,Comedy,Adventure",2012,108,1.0
+85,The Polar Express,"Adventure,Animation,Family,Fantasy",2004,100,0.0
+86,Independence Day Resurgence,"Action,Adventure,Science Fiction",2016,120,0.0
+87,How to Train Your Dragon,"Fantasy,Adventure,Animation,Family",2010,98,1.0
+88,Terminator 3 Rise of the Machines,"Action,Thriller,Science Fiction",2003,109,1.0
+89,Guardians of the Galaxy,"Action,Science Fiction,Adventure",2014,121,1.0
+90,Interstellar,"Adventure,Drama,Science Fiction",2014,169,0.0
+91,The Hobbit An Unexpected Journey,"Adventure,Fantasy,Action",2012,169,1.0
+92,The Fast and the Furious,"Action,Crime,Thriller",2001,106,1.0
+93,The Curious Case of Benjamin Button,"Fantasy,Drama,Thriller,Mystery,Romance",2008,166,0.0
+94,XMen First Class,"Action,Science Fiction,Adventure",2011,132,0.0
+95,The Hunger Games Mockingjay  Part 2,"Action,Adventure,Science Fiction",2015,137,1.0
+96,The Sorcerer's Apprentice,"Fantasy,Adventure,Action,Comedy,Drama",2010,109,1.0
+97,Poseidon,"Adventure,Action,Drama,Thriller",2006,99,0.0
+98,Alice Through the Looking Glass,Fantasy,2016,113,0.0
+99,Shrek the Third,"Fantasy,Adventure,Animation,Comedy,Family",2007,93,1.0
+100,Warcraft,"Action,Adventure,Fantasy",2016,123,0.0
+101,Terminator Genisys,"Science Fiction,Action,Thriller,Adventure",2015,126,1.0
+102,The Chronicles of Narnia The Voyage of the Dawn Treader,"Adventure,Family,Fantasy",2010,113,1.0
+103,Pearl Harbor,"History,Romance,War",2001,183,3.0
+104,Transformers,"Adventure,Science Fiction,Action",2007,144,1.0
+105,Alexander,"War,History,Action,Adventure,Drama,Romance",2004,175,0.0
+106,Harry Potter and the Order of the Phoenix,"Adventure,Fantasy,Family,Mystery",2007,138,1.0
+107,Harry Potter and the Goblet of Fire,"Adventure,Fantasy,Family",2005,157,1.0
+108,Hancock,"Fantasy,Action",2008,92,1.0
+109,I Am Legend,"Drama,Horror,Action,Thriller,Science Fiction",2007,101,0.0
+110,Charlie and the Chocolate Factory,"Adventure,Comedy,Family,Fantasy",2005,115,0.0
+111,Ratatouille,"Animation,Comedy,Family,Fantasy",2007,111,0.0
+112,Batman Begins,"Action,Crime,Drama",2005,140,1.0
+113,Madagascar Escape 2 Africa,"Family,Animation",2008,89,0.0
+114,Night at the Museum Battle of the Smithsonian,"Adventure,Fantasy,Action,Comedy,Family",2009,105,1.0
+115,XMen Origins Wolverine,"Adventure,Action,Thriller,Science Fiction",2009,107,1.0
+116,The Matrix Revolutions,"Adventure,Action,Thriller,Science Fiction",2003,129,1.0
+117,Frozen,"Animation,Adventure,Family",2013,102,3.0
+118,The Matrix Reloaded,"Adventure,Action,Thriller,Science Fiction",2003,138,0.0
+119,Thor The Dark World,"Action,Adventure,Fantasy",2013,112,1.0
+120,Mad Max Fury Road,"Action,Adventure,Science Fiction,Thriller",2015,120,1.0
+121,Angels & Demons,"Thriller,Mystery",2009,138,1.0
+122,Thor,"Adventure,Fantasy,Action",2011,115,1.0
+123,Bolt,"Animation,Family,Adventure,Comedy",2008,98,1.0
+124,GForce,"Fantasy,Action,Adventure,Family,Comedy",2009,88,1.0
+125,Wrath of the Titans,Adventure,2012,99,0.0
+126,Dark Shadows,"Comedy,Fantasy",2012,113,1.0
+127,Mission Impossible  Rogue Nation,"Action,Adventure,Thriller",2015,131,1.0
+128,Bee Movie,"Family,Animation,Adventure,Comedy",2007,91,1.0
+129,Kung Fu Panda 2,"Animation,Family",2011,91,1.0
+130,The Last Airbender,"Action,Adventure,Family,Fantasy",2010,103,0.0
+131,Mission Impossible III,"Adventure,Action,Thriller",2006,126,0.0
+132,White House Down,"Action,Drama,Thriller",2013,131,1.0
+133,Mars Needs Moms,"Adventure,Animation,Family",2011,88,1.0
+134,Flushed Away,"Adventure,Animation,Comedy,Family",2006,85,0.0
+135,Pan,"Adventure,Family,Fantasy",2015,111,1.0
+136,Mr. Peabody & Sherman,"Animation,Adventure,Family",2014,92,1.0
+137,Troy,"Adventure,Drama,War",2004,163,0.0
+138,Madagascar 3 Europe's Most Wanted,"Animation,Family",2012,93,0.0
+139,Die Another Day,"Adventure,Action,Thriller",2002,133,0.0
+140,Ghostbusters,"Action,Fantasy,Comedy",2016,116,1.0
+141,Armageddon,"Action,Thriller,Science Fiction,Adventure",1998,151,1.0
+142,Men in Black II,"Action,Adventure,Comedy,Science Fiction",2002,88,0.0
+143,Beowulf,"Adventure,Action,Animation",2007,115,0.0
+144,Kung Fu Panda 3,"Action,Adventure,Animation,Comedy,Family",2016,95,1.0
+145,Mission Impossible  Ghost Protocol,"Action,Thriller,Adventure",2011,133,0.0
+146,Rise of the Guardians,"Fantasy,Animation,Family",2012,97,1.0
+147,Fun with Dick and Jane,Comedy,2005,90,1.0
+148,The Last Samurai,"Drama,Action,War,History",2003,154,0.0
+149,Exodus Gods and Kings,"Adventure,Drama,Action",2014,150,0.0
+150,Star Trek,"Science Fiction,Action,Adventure",2009,127,0.0
+151,SpiderMan,"Fantasy,Action",2002,121,1.0
+152,How to Train Your Dragon 2,"Fantasy,Action,Adventure,Animation,Comedy,Family",2014,102,0.0
+153,Gods of Egypt,Fantasy,2016,127,1.0
+154,Stealth,Action,2005,121,1.0
+155,Watchmen,"Action,Mystery,Science Fiction",2009,163,1.0
+156,Lethal Weapon 4,"Action,Adventure,Comedy,Crime,Thriller",1998,127,0.0
+157,Hulk,"Drama,Action,Science Fiction",2003,138,0.0
+158,G.I. Joe Retaliation,"Adventure,Action,Science Fiction,Thriller",2013,110,1.0
+159,Sahara,"Action,Adventure,Comedy,Drama,Mystery",2005,124,0.0
+160,Final Fantasy The Spirits Within,"Adventure,Action,Animation,Fantasy,Science Fiction,Thriller",2001,106,1.0
+161,Captain America The First Avenger,"Action,Adventure,Science Fiction",2011,124,0.0
+162,The World Is Not Enough,"Adventure,Action,Thriller",1999,128,0.0
+163,Master and Commander The Far Side of the World,Adventure,2003,138,0.0
+164,The Twilight Saga Breaking Dawn  Part 2,"Adventure,Fantasy,Drama,Romance",2012,115,0.0
+165,Happy Feet Two,"Animation,Comedy,Family",2011,100,0.0
+166,The Incredible Hulk,"Science Fiction,Action,Adventure",2008,114,1.0
+167,The BFG,"Adventure,Family,Fantasy",2016,120,0.0
+168,The Revenant,"Western,Drama,Adventure,Thriller",2015,156,0.0
+169,Turbo,"Animation,Family",2013,96,0.0
+170,Rango,"Animation,Comedy,Family,Western,Adventure",2011,107,1.0
+171,Penguins of Madagascar,"Family,Animation,Adventure,Comedy",2014,92,0.0
+172,The Bourne Ultimatum,"Action,Drama,Mystery,Thriller",2007,115,1.0
+173,Kung Fu Panda,"Adventure,Animation,Family,Comedy",2008,90,1.0
+174,AntMan,"Science Fiction,Action,Adventure",2015,117,1.0
+175,The Hunger Games Catching Fire,"Adventure,Action,Science Fiction",2013,146,1.0
+176,Home,"Fantasy,Comedy,Animation,Science Fiction,Family",2015,94,0.0
+177,War of the Worlds,"Adventure,Thriller,Science Fiction",2005,116,1.0
+178,Bad Boys II,"Adventure,Action,Comedy,Thriller,Crime",2003,147,1.0
+179,Puss in Boots,"Action,Adventure,Animation,Family,Fantasy",2011,90,1.0
+180,Salt,"Action,Mystery,Thriller",2010,100,0.0
+181,Noah,"Drama,Adventure",2014,139,1.0
+182,The Adventures of Tintin,"Adventure,Animation,Mystery",2011,107,1.0
+183,Harry Potter and the Prisoner of Azkaban,"Adventure,Fantasy,Family",2004,141,1.0
+184,Australia,Drama,2008,165,0.0
+185,After Earth,"Science Fiction,Action,Adventure",2013,100,1.0
+186,Dinosaur,"Animation,Family",2000,82,0.0
+187,Night at the Museum Secret of the Tomb,"Adventure,Comedy,Fantasy,Family",2014,97,1.0
+188,Megamind,"Animation,Action,Comedy,Family,Science Fiction",2010,95,0.0
+189,Harry Potter and the Philosopher's Stone,"Adventure,Fantasy,Family",2001,152,1.0
+190,R.I.P.D.,"Fantasy,Action,Comedy,Crime",2013,96,1.0
+191,Pirates of the Caribbean The Curse of the Black Pearl,"Adventure,Fantasy,Action",2003,143,0.0
+192,The Hunger Games Mockingjay  Part 1,"Science Fiction,Adventure,Thriller",2014,123,0.0
+193,The Da Vinci Code,"Thriller,Mystery",2006,149,1.0
+194,Rio 2,"Animation,Adventure,Comedy,Family",2014,102,0.0
+195,X2,"Adventure,Action,Science Fiction,Thriller",2003,133,0.0
+196,Fast Five,"Action,Thriller,Crime",2011,130,1.0
+197,Sherlock Holmes A Game of Shadows,"Adventure,Action,Crime,Mystery",2011,129,1.0
+198,Clash of the Titans,"Adventure,Fantasy,Action",2010,106,1.0
+199,Total Recall,"Action,Adventure,Science Fiction",1990,113,0.0
+200,The 13th Warrior,"Adventure,Fantasy,Action",1999,102,0.0
+201,The Bourne Legacy,"Action,Thriller",2012,120,1.0
+202,Batman & Robin,"Action,Crime,Fantasy",1997,125,0.0
+203,How the Grinch Stole Christmas,"Family,Comedy,Fantasy",2000,104,0.0
+204,The Day After Tomorrow,"Action,Adventure,Science Fiction,Thriller",2004,124,0.0
+205,Mission Impossible II,"Adventure,Action,Thriller",2000,123,0.0
+206,The Perfect Storm,Drama,2000,130,0.0
+207,4 Rise of the Silver Surfer,"Adventure,Fantasy,Action,Thriller",2007,92,1.0
+208,Life of Pi,"Adventure,Drama,Action",2012,127,0.0
+209,Ghost Rider,"Thriller,Action,Fantasy,Horror",2007,114,1.0
+210,Jason Bourne,"Action,Thriller",2016,123,1.0
+211,Charlie's Angels Full Throttle,"Action,Adventure,Comedy",2003,106,1.0
+212,Prometheus,"Science Fiction,Adventure,Mystery",2012,124,1.0
+213,Stuart Little 2,"Family,Adventure,Animation,Comedy",2002,78,0.0
+214,Elysium,"Science Fiction,Action,Drama,Thriller",2013,109,1.0
+215,The Chronicles of Riddick,"Action,Science Fiction",2004,119,0.0
+216,RoboCop,"Action,Science Fiction",2014,102,1.0
+217,Speed Racer,"Action,Family,Science Fiction",2008,135,1.0
+218,How Do You Know,"Comedy,Drama,Romance",2010,121,0.0
+219,Knight and Day,"Action,Comedy",2010,109,0.0
+220,Oblivion,"Action,Science Fiction,Adventure,Mystery",2013,124,1.0
+221,Star Wars Episode III  Revenge of the Sith,"Science Fiction,Adventure,Action",2005,140,1.0
+222,Star Wars Episode II  Attack of the Clones,"Adventure,Action,Science Fiction",2002,142,1.0
+223,"Monsters, Inc.","Animation,Comedy,Family",2001,92,0.0
+224,The Wolverine,"Action,Science Fiction,Adventure,Fantasy",2013,126,0.0
+225,Star Wars Episode I  The Phantom Menace,"Adventure,Action,Science Fiction",1999,136,0.0
+226,The Croods,"Adventure,Animation,Comedy,Family,Fantasy",2013,98,0.0
+227,Windtalkers,"Drama,Action,History,War",2002,134,1.0
+228,The Huntsman Winter's War,"Action,Adventure,Drama",2016,114,1.0
+229,Teenage Mutant Ninja Turtles,"Science Fiction,Action,Adventure,Fantasy,Comedy",2014,101,1.0
+230,Gravity,"Science Fiction,Thriller,Drama",2013,91,0.0
+231,Dante's Peak,"Action,Adventure,Thriller",1997,108,1.0
+232,Teenage Mutant Ninja Turtles Out of the Shadows,"Fantasy,Action,Adventure,Comedy",2016,112,1.0
+233,Fantastic Four,"Action,Adventure,Science Fiction",2015,100,1.0
+234,Night at the Museum,"Action,Adventure,Comedy,Family,Fantasy",2006,108,1.0
+235,San Andreas,"Action,Drama,Thriller",2015,114,0.0
+236,Tomorrow Never Dies,"Adventure,Action,Thriller",1997,119,1.0
+237,The Patriot,"Drama,History,War,Action",2000,165,0.0
+238,Ocean's Twelve,"Thriller,Crime",2004,125,1.0
+239,Mr. & Mrs. Smith,"Action,Comedy,Drama,Thriller",2005,120,1.0
+240,Insurgent,"Adventure,Science Fiction,Thriller",2015,119,1.0
+241,The Aviator,Drama,2004,170,0.0
+242,Gulliver's Travels,Comedy,2010,85,0.0
+243,The Green Hornet,"Action,Crime,Comedy",2011,119,0.0
+244,300 Rise of an Empire,"Action,War",2014,102,1.0
+245,The Smurfs,"Animation,Family,Adventure,Comedy,Fantasy",2011,103,0.0
+246,Home on the Range,"Animation,Family",2004,76,1.0
+247,Allegiant,"Adventure,Science Fiction",2016,121,1.0
+248,Real Steel,"Action,Science Fiction,Drama",2011,127,0.0
+249,The Smurfs 2,"Fantasy,Family,Comedy,Animation",2013,105,1.0
+250,Speed 2 Cruise Control,"Action,Adventure,Thriller",1997,121,1.0
+251,Ender's Game,"Science Fiction,Action,Adventure",2013,114,1.0
+252,Live Free or Die Hard,"Action,Thriller",2007,128,0.0
+253,The Lord of the Rings The Fellowship of the Ring,"Adventure,Fantasy,Action",2001,178,0.0
+254,Around the World in 80 Days,"Action,Adventure,Comedy",2004,120,0.0
+255,Ali,Drama,2001,157,0.0
+256,"I, Robot","Action,Science Fiction",2004,115,1.0
+257,Kingdom of Heaven,"Drama,Action,Adventure,History,War",2005,144,1.0
+258,Stuart Little,"Animation,Fantasy,Family,Comedy",1999,84,0.0
+259,The Princess and the Frog,"Romance,Family,Animation,Music",2009,97,0.0
+260,The Martian,"Drama,Adventure,Science Fiction",2015,141,1.0
+261,The Island,"Action,Thriller,Science Fiction,Adventure",2005,136,1.0
+262,Town & Country,"Comedy,Romance",2001,104,0.0
+263,Gone in Sixty Seconds,"Action,Crime,Thriller",2000,118,1.0
+264,Gladiator,"Action,Drama,Adventure",2000,155,0.0
+265,Minority Report,"Action,Thriller,Science Fiction,Mystery",2002,145,0.0
+266,Harry Potter and the Chamber of Secrets,"Adventure,Fantasy,Family",2002,161,1.0
+267,Casino Royale,"Adventure,Action,Thriller",2006,144,1.0
+268,Planet of the Apes,"Thriller,Science Fiction,Action,Adventure",2001,119,0.0
+269,Terminator 2 Judgment Day,"Action,Thriller,Science Fiction",1991,137,1.0
+270,Public Enemies,"History,Crime,Drama",2009,140,0.0
+271,American Gangster,"Drama,Crime",2007,157,1.0
+272,True Lies,"Action,Thriller",1994,141,1.0
+273,The Taking of Pelham 1 2 3,"Thriller,Drama,Crime",2009,106,0.0
+274,Little Fockers,"Comedy,Romance",2010,98,0.0
+275,The Other Guys,"Action,Comedy,Crime",2010,107,0.0
+276,Eraser,"Action,Drama,Mystery,Thriller",1996,115,1.0
+277,Django Unchained,"Drama,Western",2012,165,0.0
+278,The Hunchback of Notre Dame,"Drama,Animation,Family",1996,91,1.0
+279,The Emperor's New Groove,"Adventure,Animation,Comedy,Family,Fantasy",2000,78,0.0
+280,The Expendables 2,"Action,Adventure,Thriller",2012,103,1.0
+281,National Treasure,"Adventure,Action,Thriller,Mystery",2004,131,1.0
+282,Eragon,"Fantasy,Action,Adventure,Family",2006,104,1.0
+283,Where the Wild Things Are,"Family,Fantasy",2009,101,1.0
+284,Epic,"Animation,Adventure,Family,Fantasy",2013,102,1.0
+285,The Tourist,"Action,Thriller,Romance",2010,103,3.0
+286,End of Days,"Action,Fantasy,Horror,Mystery",1999,121,0.0
+287,Blood Diamond,"Drama,Thriller,Action",2006,143,0.0
+288,The Wolf of Wall Street,"Crime,Drama,Comedy",2013,180,0.0
+289,Batman Forever,"Action,Crime,Fantasy",1995,121,1.0
+290,Starship Troopers,"Adventure,Action,Thriller,Science Fiction",1997,129,1.0
+291,Cloud Atlas,"Drama,Science Fiction",2012,172,1.0
+292,Legend of the Guardians The Owls of Ga'Hoole,"Animation,Adventure,Family,Fantasy",2010,97,0.0
+293,Catwoman,"Action,Crime",2004,104,1.0
+294,Hercules,"Action,Adventure",2014,99,1.0
+295,Treasure Planet,"Adventure,Animation,Family,Fantasy,Science Fiction",2002,95,1.0
+296,Land of the Lost,"Adventure,Comedy,Science Fiction",2009,102,1.0
+297,The Expendables 3,"Action,Adventure,Thriller",2014,127,0.0
+298,Point Break,"Action,Crime,Thriller",2015,114,1.0
+299,In the Heart of the Sea,"Thriller,Drama,Adventure,Action,History",2015,122,0.0
+300,The Adventures of Pluto Nash,"Action,Comedy,Science Fiction",2002,95,1.0
+301,Green Zone,"War,Action,Adventure,Drama,Thriller",2010,115,1.0
+302,The Peanuts Movie,Animation,2015,88,1.0
+303,The Spanish Prisoner,"Crime,Drama,Mystery,Thriller",1997,110,1.0
+304,The Mummy Returns,"Adventure,Action,Fantasy",2001,130,1.0
+305,Gangs of New York,"Drama,History,Crime",2002,167,1.0
+306,Surf's Up,"Animation,Comedy,Family",2007,85,1.0
+307,The Stepford Wives,"Action,Comedy,Science Fiction",2004,93,0.0
+308,Black Hawk Down,"Action,History,War",2001,144,1.0
+309,The Fifth Element,"Adventure,Fantasy,Action,Thriller,Science Fiction",1997,126,1.0
+310,Sex and the City 2,"Comedy,Drama,Romance",2010,146,1.0
+311,The Road to El Dorado,"Adventure,Animation,Comedy,Family",2000,89,1.0
+312,Ice Age Continental Drift,"Animation,Comedy,Adventure,Family",2012,88,0.0
+313,Cinderella,"Romance,Fantasy,Family,Drama",2015,105,3.0
+314,The Lovely Bones,"Fantasy,Drama",2009,136,1.0
+315,Finding Nemo,"Animation,Family",2003,100,1.0
+316,The Lord of the Rings The Return of the King,"Adventure,Fantasy,Action",2003,201,1.0
+317,The Lord of the Rings The Two Towers,"Adventure,Fantasy,Action",2002,179,1.0
+318,Seventh Son,"Adventure,Fantasy",2014,102,1.0
+319,Lara Croft Tomb Raider,"Adventure,Fantasy,Action,Thriller",2001,100,1.0
+320,Transcendence,"Thriller,Science Fiction,Drama,Mystery",2014,119,0.0
+321,Jurassic Park III,"Adventure,Action,Thriller,Science Fiction",2001,92,0.0
+322,Rise of the Planet of the Apes,"Thriller,Action,Drama,Science Fiction",2011,105,0.0
+323,The Spiderwick Chronicles,"Adventure,Family,Fantasy",2008,95,1.0
+324,A Good Day to Die Hard,"Action,Thriller",2013,98,1.0
+325,The Alamo,"Western,History,War",2004,137,0.0
+326,The Incredibles,"Action,Adventure,Animation,Family",2004,115,1.0
+327,Cutthroat Island,"Action,Adventure",1995,119,0.0
+328,Percy Jackson & the Olympians The Lightning Thief,"Adventure,Fantasy,Family",2010,118,1.0
+329,Men in Black,"Action,Adventure,Comedy,Science Fiction",1997,98,2.0
+330,Toy Story 2,"Animation,Comedy,Family",1999,92,0.0
+331,Unstoppable,"Action,Thriller",2010,98,1.0
+332,Rush Hour 2,"Action,Comedy,Crime,Thriller",2001,90,1.0
+333,What Lies Beneath,"Drama,Horror,Mystery,Thriller",2000,130,0.0
+334,Cloudy with a Chance of Meatballs,"Animation,Comedy,Family",2009,90,0.0
+335,Ice Age Dawn of the Dinosaurs,"Animation,Comedy,Family,Adventure",2009,94,1.0
+336,The Secret Life of Walter Mitty,"Adventure,Comedy,Drama,Fantasy",2013,114,0.0
+337,Charlie's Angels,"Action,Adventure,Comedy,Crime,Thriller",2000,98,1.0
+338,The Departed,"Drama,Thriller,Crime",2006,151,1.0
+339,Mulan,"Animation,Family,Adventure",1998,88,0.0
+340,Tropic Thunder,"Action,Comedy",2008,107,1.0
+341,The Girl with the Dragon Tattoo,"Thriller,Crime,Mystery,Drama",2011,158,0.0
+342,Die Hard With a Vengeance,"Action,Thriller",1995,128,0.0
+343,Sherlock Holmes,"Action,Adventure,Crime,Mystery",2009,128,1.0
+344,BenHur,Drama,2016,125,1.0
+345,Atlantis The Lost Empire,"Animation,Family,Adventure,Science Fiction",2001,95,0.0
+346,Valkyrie,"Drama,Thriller,History,War",2008,121,0.0
+347,You Don't Mess with the Zohan,"Comedy,Action",2008,113,1.0
+348,Pixels,"Action,Comedy,Science Fiction",2015,105,0.0
+349,A.I. Artificial Intelligence,"Drama,Science Fiction,Adventure",2001,146,1.0
+350,The Haunted Mansion,"Thriller,Fantasy,Comedy,Family,Mystery",2003,99,0.0
+351,Contact,"Drama,Science Fiction,Mystery",1997,150,0.0
+352,Hollow Man,"Action,Science Fiction,Thriller",2000,112,0.0
+353,The Interpreter,"Crime,Thriller",2005,128,0.0
+354,Percy Jackson Sea of Monsters,"Adventure,Family,Fantasy",2013,106,1.0
+355,Lara Croft Tomb Raider The Cradle of Life,"Action,Adventure,Fantasy,Thriller",2003,117,1.0
+356,Now You See Me 2,"Action,Adventure,Comedy,Crime,Mystery,Thriller",2016,129,1.0
+357,The Saint,"Thriller,Action,Romance,Science Fiction,Adventure",1997,116,0.0
+358,Spy Game,"Action,Crime,Thriller",2001,126,1.0
+359,Mission to Mars,Science Fiction,2000,114,1.0
+360,Rio,"Animation,Adventure,Comedy,Family",2011,96,0.0
+361,Bicentennial Man,"Comedy,Science Fiction",1999,131,0.0
+362,The Devil's Own,"Crime,Thriller,Drama",1997,107,0.0
+363,K19 The Widowmaker,"Drama,History,Thriller",2002,138,1.0
+364,Conan the Barbarian,"Adventure,Fantasy,Action",1982,129,0.0
+365,Cinderella Man,"Romance,Drama,History",2005,144,0.0
+366,The Nutcracker The Untold Story,"Fantasy,Action,Family",2010,110,1.0
+367,Seabiscuit,"Drama,History",2003,141,1.0
+368,Twister,"Action,Adventure,Drama",1996,113,0.0
+369,Cast Away,"Adventure,Drama",2000,143,0.0
+370,Happy Feet,"Animation,Comedy",2006,108,2.0
+371,The Bourne Supremacy,"Action,Drama,Thriller",2004,108,1.0
+372,Air Force One,"Action,Thriller",1997,124,0.0
+373,Ocean's Eleven,"Thriller,Crime",2001,116,1.0
+374,The Three Musketeers,"Adventure,Action,Thriller",2011,110,0.0
+375,Hotel Transylvania,"Animation,Comedy,Family,Fantasy",2012,91,0.0
+376,Enchanted,"Comedy,Family,Fantasy,Romance",2007,107,1.0
+377,Safe House,"Action,Thriller",2012,115,1.0
+378,102 Dalmatians,"Comedy,Family",2000,100,1.0
+379,Tower Heist,"Action,Comedy",2011,104,1.0
+380,The Holiday,"Comedy,Romance",2006,136,1.0
+381,Enemy of the State,"Action,Drama,Thriller",1998,132,0.0
+382,It's Complicated,"Comedy,Romance",2009,121,1.0
+383,Ocean's Thirteen,"Crime,Thriller",2007,122,1.0
+384,Open Season,"Adventure,Animation,Family",2006,83,0.0
+385,Divergent,"Adventure,Action,Science Fiction",2014,139,1.0
+386,Enemy at the Gates,War,2001,131,0.0
+387,The Rundown,"Adventure,Action,Comedy,Thriller",2003,104,1.0
+388,Last Action Hero,"Adventure,Fantasy,Action,Comedy,Family",1993,130,1.0
+389,Memoirs of a Geisha,"Drama,History,Romance",2005,145,0.0
+390,The Fast and the Furious Tokyo Drift,"Action,Crime,Drama,Thriller",2006,104,0.0
+391,Meet Joe Black,"Fantasy,Drama,Mystery",1998,178,1.0
+392,Collateral Damage,"Action,Thriller,Drama",2002,108,0.0
+393,Mirror Mirror,"Adventure,Fantasy,Drama,Comedy,Science Fiction,Family",2012,106,1.0
+394,Scott Pilgrim vs. the World,"Action,Adventure,Comedy",2010,112,1.0
+395,The Core,"Action,Thriller,Adventure,Science Fiction",2003,136,1.0
+396,Nutty Professor II The Klumps,"Fantasy,Comedy,Romance,Science Fiction",2000,106,1.0
+397,ScoobyDoo,"Mystery,Adventure,Comedy",2002,88,0.0
+398,Dredd,"Action,Science Fiction",2012,95,1.0
+399,Click,"Comedy,Drama,Fantasy,Romance",2006,107,0.0
+400,Creepshow,"Horror,Comedy,Fantasy",1982,120,1.0
+401,Cats & Dogs 2  The Revenge of Kitty Galore,"Comedy,Family",2010,82,0.0
+402,Jumper,"Adventure,Fantasy,Science Fiction",2008,88,1.0
+403,Hellboy II The Golden Army,"Adventure,Fantasy,Science Fiction",2008,120,1.0
+404,Zodiac,"Crime,Drama,Mystery,Thriller",2007,157,1.0
+405,The 6th Day,Science Fiction,2000,123,1.0
+406,Bruce Almighty,"Fantasy,Comedy",2003,101,1.0
+407,The Expendables,"Thriller,Adventure,Action",2010,103,1.0
+408,Mission Impossible,"Adventure,Action,Thriller",1996,110,0.0
+409,The Hunger Games,"Science Fiction,Adventure,Fantasy",2012,142,1.0
+410,The Hangover Part II,Comedy,2011,102,0.0
+411,Batman Returns,"Action,Fantasy",1992,126,1.0
+412,Over the Hedge,"Comedy,Animation,Family",2006,83,0.0
+413,Lilo & Stitch,"Animation,Family",2002,85,0.0
+414,Charlotte's Web,"Comedy,Family,Fantasy",2006,97,1.0
+415,Deep Impact,"Action,Drama,Romance",1998,120,1.0
+416,The Longest Yard,"Comedy,Drama",2005,113,0.0
+417,Alvin and the Chipmunks Chipwrecked,"Comedy,Fantasy,Family,Music,Animation",2011,87,1.0
+418,Grown Ups 2,Comedy,2013,100,0.0
+419,Get Smart,"Action,Comedy,Thriller",2008,110,0.0
+420,Something's Gotta Give,"Drama,Comedy,Romance",2003,128,1.0
+421,Shutter Island,"Drama,Thriller,Mystery",2010,138,1.0
+422,Four Christmases,"Comedy,Romance,Drama",2008,88,0.0
+423,Robots,"Animation,Comedy,Family,Science Fiction",2005,91,1.0
+424,FaceOff,"Action,Crime,Science Fiction,Thriller",1997,138,0.0
+425,Bedtime Stories,"Fantasy,Comedy,Family,Romance",2008,99,0.0
+426,Road to Perdition,"Thriller,Crime,Drama",2002,117,1.0
+427,Just Go with It,"Romance,Comedy",2011,117,0.0
+428,Con Air,"Action,Thriller,Crime",1997,115,0.0
+429,Eagle Eye,"Mystery,Thriller,Action",2008,118,0.0
+430,Cold Mountain,Drama,2003,154,0.0
+431,The Book of Eli,"Action,Thriller,Science Fiction",2010,118,0.0
+432,Flubber,"Comedy,Family,Science Fiction",1997,93,0.0
+433,The Haunting,"Horror,Thriller,Fantasy,Mystery",1999,113,1.0
+434,Space Jam,"Animation,Comedy,Drama,Family,Fantasy",1996,88,0.0
+435,The Day the Earth Stood Still,"Drama,Science Fiction,Thriller",2008,104,0.0
+436,Conspiracy Theory,"Action,Drama,Mystery,Thriller",1997,135,1.0
+437,Fury,"War,Drama,Action",2014,135,0.0
+438,Six Days Seven Nights,"Action,Adventure,Comedy,Romance",1998,98,1.0
+439,Yogi Bear,"Comedy,Family,Animation,Adventure",2010,80,1.0
+440,Spirit Stallion of the Cimarron,"Western,Animation,Adventure,Comedy,Family",2002,83,0.0
+441,Zookeeper,"Comedy,Romance,Family",2011,102,0.0
+442,Lost in Space,"Adventure,Family,Science Fiction",1998,130,1.0
+443,The Manchurian Candidate,"Drama,Thriller,Mystery",2004,129,0.0
+444,Hotel Transylvania 2,"Animation,Comedy,Family",2015,89,1.0
+445,Fantasia 2000,"Animation,Family,Music",1999,74,1.0
+446,The Time Machine,"Science Fiction,Adventure,Action",2002,96,1.0
+447,Swordfish,"Action,Crime,Thriller",2001,99,0.0
+448,The Legend of Zorro,"Action,Adventure",2005,129,0.0
+449,What Dreams May Come,"Drama,Fantasy,Romance",1998,113,1.0
+450,The Brothers Grimm,"Adventure,Fantasy,Action,Comedy,Thriller",2005,118,1.0
+451,Mars Attacks!,"Comedy,Fantasy,Science Fiction",1996,106,1.0
+452,Surrogates,"Action,Science Fiction,Thriller",2009,89,1.0
+453,Thirteen Days,"Drama,Thriller",2000,145,0.0
+454,Daylight,"Action,Adventure,Thriller",1996,115,0.0
+455,Walking With Dinosaurs,"Animation,Family,Adventure",2013,87,1.0
+456,Battlefield Earth,"Action,Science Fiction,War",2000,118,0.0
+457,Looney Tunes Back in Action,"Animation,Comedy,Family",2003,90,0.0
+458,Nine,"Drama,Music,Romance",2009,112,1.0
+459,Timeline,"Action,Adventure,Science Fiction",2003,116,0.0
+460,The Postman,"Drama,Adventure",1997,177,0.0
+461,Babe Pig in the City,"Adventure,Comedy,Drama,Family,Fantasy",1998,92,0.0
+462,The Last Witch Hunter,"Fantasy,Action,Adventure",2015,106,0.0
+463,Red Planet,"Thriller,Action,Science Fiction",2000,106,1.0
+464,Arthur et les Minimoys,"Adventure,Fantasy,Animation,Family",2006,94,1.0
+465,A Sound of Thunder,"Thriller,Science Fiction,Adventure,Action",2005,110,1.0
+466,Pompeii,"Action,Adventure,History,Romance,Drama",2014,105,0.0
+467,A Beautiful Mind,"Drama,Romance",2001,135,0.0
+468,The Lion King,"Family,Animation,Drama",1994,89,0.0
+469,Journey 2 The Mysterious Island,"Adventure,Action,Science Fiction",2012,94,0.0
+470,Cloudy with a Chance of Meatballs 2,"Animation,Family,Comedy",2013,95,1.0
+471,Red Dragon,"Crime,Thriller,Horror",2002,124,1.0
+472,Hidalgo,"Western,Adventure",2004,136,1.0
+473,Jack and Jill,Comedy,2011,91,0.0
+474,2 Fast 2 Furious,"Action,Crime,Thriller",2003,107,1.0
+475,The Little Prince,"Adventure,Animation,Fantasy",2015,92,1.0
+476,The Invasion,"Science Fiction,Thriller",2007,99,1.0
+477,The Adventures of Rocky & Bullwinkle,"Action,Adventure,Animation,Comedy,Family",2000,88,0.0
+478,The Secret Life of Pets,"Animation,Family",2016,87,0.0
+479,The League of Extraordinary Gentlemen,"Fantasy,Action,Thriller,Science Fiction",2003,110,1.0
+480,Despicable Me 2,"Animation,Comedy,Family",2013,98,0.0
+481,Independence Day,"Action,Adventure,Science Fiction",1996,145,1.0
+482,The Lost World Jurassic Park,"Adventure,Action,Science Fiction",1997,129,1.0
+483,Madagascar,"Family,Animation",2005,86,0.0
+484,Children of Men,"Drama,Action,Thriller,Science Fiction",2006,109,1.0
+485,XMen,"Adventure,Action,Science Fiction",2000,104,1.0
+486,Wanted,"Action,Thriller,Crime",2008,110,1.0
+487,The Rock,"Action,Adventure,Thriller",1996,136,0.0
+488,Ice Age The Meltdown,"Animation,Family,Comedy,Adventure",2006,91,1.0
+489,50 First Dates,"Comedy,Romance",2004,99,1.0
+490,Hairspray,"Family,Comedy,Music,Romance",2007,117,0.0
+491,Exorcist The Beginning,"Horror,Mystery,Thriller",2004,114,1.0
+492,Now You See Me,"Thriller,Crime",2013,115,1.0
+493,Grown Ups,Comedy,2010,102,1.0
+494,The Terminal,"Comedy,Drama",2004,128,1.0
+495,Hotel for Dogs,"Comedy,Family",2009,100,0.0
+496,Vertical Limit,"Action,Adventure,Thriller",2000,124,1.0
+497,Charlie Wilson's War,"Comedy,Drama,History",2007,102,0.0
+498,Shark Tale,"Animation,Action,Comedy,Family",2004,90,0.0
+499,Dreamgirls,Drama,2006,134,1.0
+500,Be Cool,"Comedy,Crime",2005,118,0.0
+501,Munich,"Drama,Action,History,Thriller",2005,164,1.0
+502,Tears of the Sun,"Action,Drama,War",2003,121,1.0
+503,Killers,"Action,Comedy,Thriller,Romance",2010,100,0.0
+504,The Man from U.N.C.L.E.,"Comedy,Action,Adventure",2015,116,1.0
+505,Spanglish,Comedy,2004,130,0.0
+506,Monster House,"Animation,Comedy,Family,Fantasy",2006,91,0.0
+507,Bandits,"Action,Comedy,Crime,Romance",2001,123,1.0
+508,First Knight,"Action,Adventure,Drama,Romance",1995,134,1.0
+509,Immortals,"Fantasy,Action,Drama",2011,110,0.0
+510,Hostage,"Mystery,Drama,Thriller,Crime",2005,113,1.0
+511,Titan A.E.,"Animation,Action,Science Fiction,Family,Adventure",2000,94,0.0
+512,Hollywood Homicide,"Action,Adventure,Comedy,Thriller",2003,116,0.0
+513,Soldier,"Action,War,Science Fiction",1998,99,1.0
+514,Monkeybone,"Adventure,Fantasy,Animation,Action,Comedy",2001,93,0.0
+515,Flight of the Phoenix,"Action,Adventure,Drama,Thriller",2004,113,1.0
+516,Unbreakable,"Science Fiction,Thriller,Drama",2000,106,0.0
+517,Minions,"Family,Animation,Adventure,Comedy",2015,91,1.0
+518,Sucker Punch,"Action,Fantasy,Thriller",2011,110,1.0
+519,Snake Eyes,"Crime,Mystery",1998,98,1.0
+520,Sphere,Science Fiction,1998,134,1.0
+521,The Angry Birds Movie,"Family,Animation",2016,97,0.0
+522,Fool's Gold,"Romance,Comedy,Adventure",2008,112,0.0
+523,Funny People,"Comedy,Drama",2009,146,0.0
+524,The Kingdom,"Thriller,Action,Drama",2007,110,0.0
+525,Talladega Nights The Ballad of Ricky Bobby,Comedy,2006,116,0.0
+526,Dr. Dolittle 2,"Comedy,Family,Romance,Fantasy",2001,87,0.0
+527,Braveheart,"Action,Drama,History,War",1995,177,0.0
+528,Jarhead,"Drama,War",2005,125,1.0
+529,The Simpsons Movie,"Animation,Comedy,Family",2007,87,1.0
+530,The Majestic,"Drama,Romance",2001,152,0.0
+531,Driven,Action,2001,116,0.0
+532,Deux frres,"Adventure,Drama,Family",2004,109,1.0
+533,The Village,"Drama,Mystery,Thriller",2004,108,1.0
+534,Doctor Dolittle,"Comedy,Family,Fantasy",1998,85,0.0
+535,Signs,"Drama,Thriller,Science Fiction,Mystery",2002,106,0.0
+536,Shrek 2,"Adventure,Animation,Comedy,Family,Fantasy",2004,93,0.0
+537,Cars,"Animation,Adventure,Comedy,Family",2006,117,0.0
+538,Runaway Bride,"Comedy,Romance",1999,116,0.0
+539,xXx,"Action,Adventure,Thriller",2002,124,0.0
+540,The SpongeBob Movie Sponge Out of Water,"Animation,Adventure,Comedy,Family",2015,93,1.0
+541,Ransom,"Action,Thriller",1996,117,1.0
+542,Inglourious Basterds,"Drama,Action,Thriller,War",2009,153,0.0
+543,Hook,"Adventure,Fantasy,Comedy,Family",1991,144,1.0
+544,Die Hard 2,"Action,Thriller",1990,124,1.0
+545,S.W.A.T.,"Action,Thriller,Crime",2003,117,1.0
+546,Vanilla Sky,"Drama,Mystery,Romance,Science Fiction,Thriller",2001,136,1.0
+547,Lady in the Water,"Drama,Thriller,Fantasy,Mystery",2006,110,1.0
+548,AVP Alien vs. Predator,"Adventure,Science Fiction,Action",2004,101,0.0
+549,Alvin and the Chipmunks The Squeakquel,"Comedy,Family,Animation,Fantasy,Music",2009,88,1.0
+550,We Were Soldiers,"Action,History,War",2002,138,1.0
+551,Olympus Has Fallen,"Action,Thriller",2013,120,1.0
+552,Star Trek Insurrection,"Science Fiction,Action,Adventure,Thriller",1998,103,1.0
+553,Battle Los Angeles,"Action,Science Fiction",2011,116,1.0
+554,Big Fish,"Adventure,Fantasy,Drama",2003,125,1.0
+555,War Horse,"Drama,War",2011,146,1.0
+556,The Monuments Men,"War,Drama,History,Action",2014,118,1.0
+557,The Abyss,"Adventure,Action,Thriller,Science Fiction",1989,139,1.0
+558,Wall Street Money Never Sleeps,"Drama,Crime",2010,133,1.0
+559,Dracula Untold,"Horror,Action,Drama,Fantasy,War",2014,92,1.0
+560,The Siege,"Drama,Action,Thriller,Crime",1998,116,1.0
+561,Stardust,"Adventure,Fantasy,Romance,Family",2007,127,1.0
+562,Seven Years in Tibet,"Adventure,Drama,History",1997,136,0.0
+563,The Dilemma,"Comedy,Drama",2011,111,1.0
+564,Bad Company,"Action,Adventure,Comedy,Thriller",2002,116,1.0
+565,Doom,"Adventure,Action,Horror",2005,105,0.0
+566,I Spy,"Action,Adventure,Comedy,Thriller",2002,97,0.0
+567,Underworld Awakening,"Fantasy,Action,Horror",2012,88,1.0
+568,Rock of Ages,"Comedy,Drama,Music,Romance",2012,123,1.0
+569,Hart's War,"Drama,War",2002,125,0.0
+570,Killer Elite,"Action,Adventure,Thriller",2011,116,1.0
+571,Ballistic Ecks vs. Sever,"Action,Adventure,Thriller",2002,91,1.0
+572,Hard Rain,Thriller,1998,97,1.0
+573,Osmosis Jones,"Adventure,Animation,Action,Comedy,Family",2001,95,0.0
+574,Legends of Oz Dorothy's Return,"Animation,Music,Family",2013,88,1.0
+575,Blackhat,"Crime,Drama,Mystery",2015,133,1.0
+576,Sky Captain and the World of Tomorrow,"Mystery,Action,Thriller,Science Fiction,Adventure",2004,107,0.0
+577,Basic Instinct 2,"Crime,Mystery,Thriller",2006,114,0.0
+578,Escape Plan,"Action,Thriller",2013,115,0.0
+579,The Legend of Hercules,"Action,Adventure",2014,99,1.0
+580,The Sum of All Fears,"Thriller,Action,Drama",2002,124,1.0
+581,The Twilight Saga Eclipse,"Adventure,Fantasy,Drama,Romance",2010,124,0.0
+582,The Score,"Action,Crime,Thriller",2001,124,1.0
+583,Despicable Me,"Animation,Family",2010,95,1.0
+584,Money Train,"Action,Comedy,Crime",1995,103,1.0
+585,Ted 2,Comedy,2015,115,0.0
+586,Agora,"Adventure,Drama,History",2009,127,0.0
+587,Mystery Men,"Adventure,Fantasy,Action,Comedy,Science Fiction",1999,121,1.0
+588,Hall Pass,Comedy,2011,105,1.0
+589,The Insider,"Drama,Thriller",1999,157,1.0
+590,The Finest Hours,"Action,Drama,History,Thriller",2016,114,1.0
+591,Body of Lies,"Action,Drama,Thriller",2008,128,1.0
+592,Dinner for Schmucks,Comedy,2010,114,1.0
+593,Abraham Lincoln Vampire Hunter,"Action,Fantasy,Horror",2012,94,0.0
+594,Entrapment,"Romance,Drama,Mystery",1999,112,1.0
+595,The X Files,"Mystery,Science Fiction,Thriller",1998,121,1.0
+596,The Last Legion,"Action,Adventure,Fantasy,War",2007,102,0.0
+597,Saving Private Ryan,"Drama,History,War",1998,169,1.0
+598,Need for Speed,"Action,Crime,Drama,Thriller",2014,130,0.0
+599,What Women Want,"Comedy,Romance",2000,127,1.0
+600,Ice Age,"Animation,Comedy,Family,Adventure",2002,81,1.0
+601,Dreamcatcher,"Drama,Horror,Science Fiction,Thriller",2003,136,0.0
+602,Lincoln,"History,Drama",2012,149,0.0
+603,The Matrix,"Action,Science Fiction",1999,136,0.0
+604,Apollo 13,Drama,1995,140,1.0
+605,The Santa Clause 2,"Fantasy,Comedy,Family",2002,104,1.0
+606,Les Misrables,"Drama,Music,Romance",2012,157,0.0
+607,You've Got Mail,"Comedy,Romance",1998,119,1.0
+608,Step Brothers,Comedy,2008,98,0.0
+609,The Mask of Zorro,"Action,Adventure",1998,136,0.0
+610,Due Date,"Comedy,Drama",2010,95,1.0
+611,Unbroken,"Drama,War",2014,137,1.0
+612,Space Cowboys,"Action,Adventure,Thriller",2000,130,1.0
+613,Cliffhanger,"Action,Adventure,Thriller",1993,112,1.0
+614,Broken Arrow,"Action,Adventure,Drama,Thriller",1996,108,0.0
+615,The Kid,"Fantasy,Comedy,Family",2000,104,1.0
+616,World Trade Center,"Drama,History,Thriller",2006,128,1.0
+617,The Dictator,Comedy,2012,83,1.0
+618,Eyes Wide Shut,"Mystery,Drama",1999,159,1.0
+619,Annie,"Comedy,Drama,Family",2014,119,0.0
+620,Focus,"Romance,Comedy,Crime,Drama",2015,105,1.0
+621,This Means War,"Action,Comedy,Romance",2012,103,1.0
+622,Blade Trinity,"Science Fiction,Action,Horror,Thriller,Adventure,Fantasy",2004,123,1.0
+623,Red Dawn,"Action,Thriller",1984,114,0.0
+624,Resident Evil Retribution,"Action,Horror,Science Fiction",2012,95,1.0
+625,Death Race,"Action,Thriller,Science Fiction",2008,105,1.0
+626,The Long Kiss Goodnight,"Crime,Action,Mystery,Thriller",1996,120,0.0
+627,Zathura A Space Adventure,"Family,Fantasy,Science Fiction,Adventure",2005,101,1.0
+628,Fight Club,Drama,1999,139,0.0
+629,We Are Marshall,Drama,2006,124,0.0
+630,Hudson Hawk,"Action,Adventure,Comedy",1991,100,1.0
+631,"I, Frankenstein","Horror,Thriller",2014,92,0.0
+632,Oliver Twist,"Crime,Drama,Family",2005,130,0.0
+633,Elektra,"Action,Fantasy",2005,97,0.0
+634,Sin City A Dame to Kill For,"Crime,Thriller",2014,102,0.0
+635,Random Hearts,"Drama,Romance",1999,133,0.0
+636,Everest,"Adventure,Drama",2015,121,0.0
+637,Perfume The Story of a Murderer,"Crime,Fantasy,Drama",2006,147,0.0
+638,Austin Powers in Goldmember,"Comedy,Crime,Science Fiction",2002,94,0.0
+639,Astro Boy,"Animation,Action,Family,Science Fiction",2009,94,0.0
+640,Jurassic Park,"Adventure,Science Fiction",1993,127,0.0
+641,Wyatt Earp,"Drama,Action,Western",1994,191,0.0
+642,Clear and Present Danger,"Action,Drama,Thriller",1994,141,1.0
+643,Little Man,"Comedy,Crime",2006,98,0.0
+644,U571,"Action,Drama,Thriller,War",2000,116,0.0
+645,The American President,"Comedy,Drama,Romance",1995,106,0.0
+646,The Love Guru,"Comedy,Romance",2008,87,0.0
+647,3000 Miles to Graceland,"Action,Adventure,Comedy,Thriller,Crime",2001,125,1.0
+648,The Hateful Eight,"Crime,Drama,Mystery,Western",2015,167,0.0
+649,Hop,"Animation,Comedy,Family",2011,95,1.0
+650,300,"Action,Adventure,War",2006,117,1.0
+651,Meet the Fockers,"Comedy,Romance",2004,115,0.0
+652,Marley & Me,"Comedy,Family",2008,115,1.0
+653,The Green Mile,"Fantasy,Drama,Crime",1999,189,1.0
+654,Chicken Little,"Animation,Family,Comedy",2005,81,1.0
+655,Gone Girl,"Mystery,Thriller,Drama",2014,145,1.0
+656,The Bourne Identity,"Action,Drama,Mystery,Thriller",2002,119,1.0
+657,GoldenEye,"Adventure,Action,Thriller",1995,130,0.0
+658,The General's Daughter,"Crime,Drama,Mystery,Thriller",1999,116,1.0
+659,The Truman Show,"Comedy,Drama",1998,103,1.0
+660,The Prince of Egypt,"Adventure,Animation,Drama,Family,Music",1998,99,1.0
+661,Daddy Day Care,"Comedy,Family",2003,92,0.0
+662,2 Guns,"Action,Comedy,Crime",2013,109,1.0
+663,Cats & Dogs,"Comedy,Family",2001,87,0.0
+664,The Italian Job,"Action,Crime",2003,110,1.0
+665,Two Weeks Notice,"Romance,Comedy",2002,101,1.0
+666,Antz,"Adventure,Animation,Comedy,Family",1998,83,1.0
+667,Couples Retreat,"Comedy,Romance",2009,113,0.0
+668,Days of Thunder,Adventure,1990,107,1.0
+669,Cheaper by the Dozen 2,Comedy,2005,94,0.0
+670,Maze Runner The Scorch Trials,Action,2015,132,1.0
+671,Eat Pray Love,Drama,2010,133,1.0
+672,RED,"Action,Adventure,Comedy,Crime,Thriller",2010,111,1.0
+673,Any Given Sunday,Drama,1999,163,0.0
+674,The Horse Whisperer,"Drama,Romance",1998,170,0.0
+675,Collateral,"Drama,Crime,Thriller",2004,120,1.0
+676,The Scorpion King,"Action,Fantasy,Adventure",2002,92,1.0
+677,Ladder 49,"Drama,Action,Thriller",2004,115,0.0
+678,Jack Reacher,"Crime,Drama,Thriller",2012,130,0.0
+679,Deep Blue Sea,"Action,Science Fiction,Thriller",1999,105,1.0
+680,Contagion,"Drama,Thriller,Science Fiction",2011,106,2.0
+681,Coraline,"Animation,Family",2009,100,0.0
+682,The Happening,"Thriller,Science Fiction",2008,91,0.0
+683,Man on Fire,"Action,Drama,Thriller,Crime",2004,146,0.0
+684,The Shaggy Dog,"Comedy,Family",2006,98,0.0
+685,Starsky & Hutch,"Comedy,Crime",2004,101,1.0
+686,Jingle All the Way,"Family,Comedy",1996,89,1.0
+687,Hellboy,"Fantasy,Action,Science Fiction",2004,122,0.0
+688,A Civil Action,Drama,1998,115,1.0
+689,ParaNorman,"Family,Animation,Adventure,Comedy",2012,90,1.0
+690,The Jackal,"Action,Thriller,Adventure,Crime",1997,124,1.0
+691,Paycheck,"Action,Adventure,Mystery,Science Fiction,Thriller",2003,119,0.0
+692,The Tale of Despereaux,"Adventure,Animation,Family",2008,93,0.0
+693,Under Siege 2 Dark Territory,"Action,Thriller",1995,100,0.0
+694,Jack Ryan Shadow Recruit,"Action,Drama,Thriller",2014,105,0.0
+695,Joy,"Drama,Comedy",2015,124,0.0
+696,London Has Fallen,"Action,Crime,Thriller",2016,99,1.0
+697,Alien Resurrection,"Science Fiction,Horror,Action",1997,109,0.0
+698,Shooter,"Action,Drama,Mystery,Thriller,Crime",2007,124,0.0
+699,The Boxtrolls,"Animation,Comedy,Family,Fantasy",2014,97,0.0
+700,Practical Magic,"Drama,Fantasy,Comedy",1998,104,1.0
+701,The Lego Movie,"Adventure,Animation,Comedy,Family,Fantasy",2014,100,1.0
+702,Reign of Fire,"Adventure,Action,Fantasy",2002,101,0.0
+703,Gangster Squad,"Crime,Drama,Action,Thriller",2013,113,1.0
+704,Year One,"Comedy,Adventure",2009,97,1.0
+705,Invictus,"Drama,History",2009,134,1.0
+706,State of Play,Action,2009,127,0.0
+707,Duplicity,"Romance,Comedy,Crime",2009,125,0.0
+708,My Favorite Martian,"Comedy,Drama,Family,Science Fiction",1999,94,1.0
+709,The Sentinel,"Action,Thriller,Crime",2006,108,1.0
+710,Planet 51,"Science Fiction,Animation,Family,Comedy,Adventure",2009,91,0.0
+711,Star Trek Nemesis,"Science Fiction,Action,Adventure,Thriller",2002,117,0.0
+712,Intolerable Cruelty,"Crime,Comedy,Romance",2003,100,0.0
+713,Edge of Darkness,"Crime,Drama,Mystery,Thriller",2010,117,1.0
+714,The Relic,"Horror,Mystery,Thriller",1997,110,1.0
+715,Analyze That,"Comedy,Crime",2002,96,1.0
+716,Righteous Kill,"Action,Crime,Drama,Thriller",2008,101,0.0
+717,The Soloist,Drama,2009,109,1.0
+718,The Legend of Bagger Vance,"Fantasy,Drama",2000,126,1.0
+719,Almost Famous,"Drama,Music",2000,122,0.0
+720,xXx State of the Union,"Action,Adventure,Crime,Drama,Mystery,Thriller",2005,101,0.0
+721,Priest,"Action,Science Fiction,Fantasy,Thriller,Horror",2011,87,0.0
+722,Sinbad Legend of the Seven Seas,"Family,Animation,Adventure",2003,86,1.0
+723,Event Horizon,"Horror,Science Fiction,Mystery",1997,96,1.0
+724,Dragonfly,Drama,2002,104,1.0
+725,The Black Dahlia,Drama,2006,121,1.0
+726,Flyboys,"Action,Adventure,Drama,History,Romance,War",2006,140,0.0
+727,The Last Castle,"Action,Drama,Thriller",2001,131,1.0
+728,Supernova,"Horror,Science Fiction,Thriller",2000,91,0.0
+729,Winter's Tale,"Drama,Fantasy,Mystery,Romance",2014,118,0.0
+730,The Mortal Instruments City of Bones,"Action,Adventure,Drama,Mystery,Romance,Fantasy",2013,130,1.0
+731,Meet Dave,"Comedy,Science Fiction,Adventure,Family",2008,90,0.0
+732,Dark Water,"Drama,Horror,Thriller",2005,105,1.0
+733,Inkheart,"Adventure,Family,Fantasy",2008,106,0.0
+734,The Spirit,"Action,Comedy,Thriller,Crime,Science Fiction",2008,103,1.0
+735,Mortdecai,"Comedy,Adventure",2015,106,1.0
+736,The Great Raid,"Action,History,War",2005,132,1.0
+737,Deadpool,"Action,Adventure,Comedy",2016,108,1.0
+738,American Sniper,"War,Action",2014,133,0.0
+739,Goosebumps,"Adventure,Horror,Comedy",2015,103,1.0
+740,Just Like Heaven,"Comedy,Fantasy,Romance",2005,95,0.0
+741,The Flintstones in Viva Rock Vegas,"Science Fiction,Comedy,Family,Romance",2000,90,0.0
+742,Rambo III,"Action,Adventure,Thriller,War",1988,102,1.0
+743,Leatherheads,"Comedy,Romance,Drama",2008,114,0.0
+744,Did You Hear About the Morgans?,Comedy,2009,103,0.0
+745,The Internship,Comedy,2013,119,1.0
+746,Resident Evil Afterlife,"Action,Adventure,Horror,Science Fiction",2010,97,0.0
+747,Red Tails,"Drama,Action,Adventure,History,War",2012,125,1.0
+748,The Devil's Advocate,"Drama,Horror,Mystery,Thriller",1997,144,0.0
+749,That's My Boy,Comedy,2012,116,0.0
+750,DragonHeart,Fantasy,1996,103,1.0
+751,After the Sunset,"Action,Comedy,Crime,Drama",2004,97,1.0
+752,Ghost Rider Spirit of Vengeance,"Action,Fantasy,Thriller",2011,95,1.0
+753,Captain Corelli's Mandolin,"Drama,History,Romance",2001,131,0.0
+754,The Pacifier,"Action,Comedy,Drama,Family,Thriller",2005,95,0.0
+755,Walking Tall,"Adventure,Drama,Action,Thriller",2004,86,0.0
+756,Forrest Gump,"Comedy,Drama,Romance",1994,142,1.0
+757,Alvin and the Chipmunks,"Comedy,Music,Family,Fantasy,Animation",2007,92,0.0
+758,Meet the Parents,"Comedy,Romance",2000,108,1.0
+759,Pocahontas,"Adventure,Animation,Drama,Family",1995,81,0.0
+760,Superman,"Action,Adventure,Fantasy,Science Fiction",1978,143,1.0
+761,The Nutty Professor,"Fantasy,Comedy,Romance,Science Fiction",1996,95,1.0
+762,Hitch,"Comedy,Drama,Romance",2005,118,1.0
+763,American Wedding,"Comedy,Romance",2003,103,1.0
+764,Captain Phillips,"Action,Drama,Thriller",2013,134,1.0
+765,Date Night,Comedy,2010,97,1.0
+766,Casper,"Fantasy,Comedy,Family",1995,100,0.0
+767,The Equalizer,"Thriller,Action,Crime",2014,132,0.0
+768,Maid in Manhattan,"Comedy,Drama,Romance",2002,105,0.0
+769,Crimson Tide,"Action,Thriller,Drama",1995,116,1.0
+770,The Pursuit of Happyness,Drama,2006,117,2.0
+771,Flightplan,"Thriller,Drama,Mystery",2005,98,0.0
+772,Disclosure,"Drama,Thriller,Crime,Mystery,Romance",1994,123,1.0
+773,City of Angels,"Drama,Fantasy,Romance",1998,114,1.0
+774,Kill Bill Vol. 1,"Action,Crime",2003,111,1.0
+775,Kill Bill Vol. 2,"Action,Crime,Thriller",2004,136,0.0
+776,Tango & Cash,"Action,Adventure,Comedy",1989,104,1.0
+777,Death Becomes Her,"Fantasy,Comedy",1992,104,0.0
+778,Shanghai Noon,"Adventure,Action,Comedy,Western",2000,110,1.0
+779,Executive Decision,"Action,Adventure,Drama,Thriller",1996,133,0.0
+780,Mr. Popper's Penguins,"Comedy,Family",2011,94,1.0
+781,The Forbidden Kingdom,"Action,Adventure,Fantasy",2008,104,1.0
+782,Free Birds,"Animation,Comedy,Family",2013,91,1.0
+783,Alien�,"Science Fiction,Action,Horror",1992,114,0.0
+784,Evita,"History,Drama,Music",1996,134,0.0
+785,Ronin,"Action,Thriller,Crime,Adventure",1998,122,1.0
+786,The Ghost and the Darkness,Adventure,1996,109,1.0
+787,Paddington,"Family,Comedy",2014,95,1.0
+788,The Watch,Comedy,2012,98,1.0
+789,The Hunted,"Drama,Action,Thriller,Crime",2003,94,1.0
+790,Stuck on You,Comedy,2003,118,0.0
+791,The Pirates! In an Adventure with Scientists!,"Animation,Adventure,Family,Comedy",2012,88,1.0
+792,Changeling,"Crime,Drama,Mystery",2008,141,0.0
+793,Chain Reaction,"Action,Drama,Science Fiction,Thriller",1996,107,0.0
+794,The Fan,"Drama,Mystery,Thriller",1996,116,0.0
+795,The Phantom of the Opera,"Thriller,Drama,Romance",2004,143,0.0
+796,Elizabeth The Golden Age,"Drama,History,Romance",2007,114,1.0
+797,�on Flux,"Action,Science Fiction",2005,93,0.0
+798,Gods and Generals,"Drama,History,War",2003,214,1.0
+799,Turbulence,"Action,Thriller,Crime",1997,100,1.0
+800,Muppets Most Wanted,"Comedy,Adventure,Crime,Family",2014,112,0.0
+801,Thunderbirds,"Action,Adventure,Comedy,Family,Fantasy,Science Fiction",2004,95,0.0
+802,Burlesque,"Drama,Romance",2010,119,0.0
+803,Lolita,"Drama,Romance",1962,153,0.0
+804,DTox,"Action,Thriller",2002,96,0.0
+805,Blade II,"Fantasy,Horror,Action,Thriller",2002,117,1.0
+806,Seven Pounds,Drama,2008,123,2.0
+807,Bullet to the Head,"Action,Crime,Thriller",2013,92,1.0
+808,The Godfather Part III,"Crime,Drama,Thriller",1990,162,1.0
+809,Elizabethtown,"Comedy,Drama,Romance",2005,123,0.0
+810,"You, Me and Dupree","Comedy,Romance",2006,108,1.0
+811,Superman II,"Action,Adventure,Fantasy,Science Fiction",1980,127,0.0
+812,Gigli,Drama,2003,121,0.0
+813,All the King's Men,"Drama,Thriller",2006,125,1.0
+814,Shaft,"Action,Adventure,Crime,Thriller",2000,99,0.0
+815,Anastasia,"Animation,Family",1997,94,0.0
+816,Moulin Rouge!,"Drama,Music,Romance",2001,127,0.0
+817,Domestic Disturbance,"Mystery,Thriller,Crime",2001,89,1.0
+818,Black Mass,"Crime,Drama",2015,122,1.0
+819,Flags of Our Fathers,"War,Drama,History",2006,132,0.0
+820,Law Abiding Citizen,"Drama,Crime,Thriller",2009,109,0.0
+821,Grindhouse,"Thriller,Action,Horror",2007,191,0.0
+822,Catch Me If You Can,"Drama,Crime",2002,141,1.0
+823,Zero Dark Thirty,"Thriller,Drama,History",2012,157,0.0
+824,The BreakUp,"Romance,Comedy",2006,106,0.0
+825,Mamma Mia!,"Comedy,Romance",2008,108,0.0
+826,Valentine's Day,"Comedy,Romance",2010,125,1.0
+827,The Dukes of Hazzard,"Action,Adventure,Comedy",2005,104,0.0
+828,The Thin Red Line,"Drama,History,War",1998,170,0.0
+829,The ChangeUp,Comedy,2011,112,1.0
+830,Man on the Moon,"Comedy,Drama,Romance",1999,118,1.0
+831,Casino,"Drama,Crime",1995,178,1.0
+832,From Paris with Love,"Action,Crime,Thriller",2010,92,1.0
+833,"Me, Myself & Irene",Comedy,2000,116,1.0
+834,Barnyard,"Animation,Comedy,Family",2006,90,0.0
+835,The Twilight Saga New Moon,"Adventure,Fantasy,Drama,Romance",2009,130,1.0
+836,Shrek,"Adventure,Animation,Comedy,Family,Fantasy",2001,90,1.0
+837,The Adjustment Bureau,"Science Fiction,Thriller,Romance",2011,106,0.0
+838,Robin Hood Prince of Thieves,Adventure,1991,143,1.0
+839,Jerry Maguire,"Comedy,Drama,Romance",1996,139,0.0
+840,Ted,"Comedy,Fantasy",2012,106,1.0
+841,As Good as It Gets,"Comedy,Romance",1997,139,0.0
+842,Patch Adams,"Comedy,Drama",1998,115,1.0
+843,Anchorman 2 The Legend Continues,Comedy,2013,119,0.0
+844,Mr. Deeds,"Comedy,Romance",2002,96,0.0
+845,Super 8,"Thriller,Science Fiction,Mystery",2011,112,1.0
+846,Erin Brockovich,Drama,2000,131,0.0
+847,How to Lose a Guy in 10 Days,"Comedy,Romance",2003,116,0.0
+848,22 Jump Street,"Crime,Comedy,Action",2014,112,1.0
+849,Interview with the Vampire,"Horror,Romance",1994,123,0.0
+850,Yes Man,Comedy,2008,104,0.0
+851,Central Intelligence,"Action,Comedy",2016,107,1.0
+852,Daddy's Home,Comedy,2015,96,0.0
+853,Into the Woods,"Fantasy,Comedy,Music",2014,125,0.0
+854,Inside Man,"Crime,Drama,Thriller",2006,129,0.0
+855,Payback,"Drama,Action,Thriller,Crime",1999,100,1.0
+856,Congo,"Action,Adventure,Drama,Mystery,Science Fiction,Thriller",1995,109,0.0
+857,We Bought a Zoo,"Drama,Comedy,Family",2011,124,0.0
+858,Knowing,"Action,Adventure,Drama,Mystery,Science Fiction,Thriller",2009,121,1.0
+859,Failure to Launch,Comedy,2006,97,1.0
+860,The Ring Two,"Drama,Horror,Thriller",2005,110,1.0
+861,"Crazy, Stupid, Love.","Comedy,Drama,Romance",2011,118,1.0
+862,Garfield,"Animation,Comedy,Family",2004,80,1.0
+863,Moneyball,Drama,2011,133,0.0
+864,Outbreak,"Action,Drama,Science Fiction,Thriller",1995,127,0.0
+865,NonStop,"Action,Thriller,Mystery",2014,106,1.0
+866,Race to Witch Mountain,"Adventure,Family,Fantasy,Science Fiction,Thriller,Action",2009,98,1.0
+867,V for Vendetta,"Action,Thriller,Fantasy",2006,132,0.0
+868,Shanghai Knights,"Action,Adventure,Comedy,Western",2003,115,1.0
+869,Curious George,"Adventure,Animation,Comedy,Family",2006,86,1.0
+870,Herbie Fully Loaded,"Comedy,Family,Adventure,Fantasy,Romance",2005,101,0.0
+871,Don't Say a Word,Thriller,2001,113,1.0
+872,Hansel & Gretel Witch Hunters,"Fantasy,Horror,Action",2013,88,1.0
+873,Unfaithful,"Thriller,Drama",2002,124,0.0
+874,I Am Number Four,"Action,Thriller,Science Fiction,Adventure",2011,109,0.0
+875,Syriana,"Drama,Thriller",2005,128,1.0
+876,13 Hours The Secret Soldiers of Benghazi,"Action,Drama,History,Thriller,War",2016,144,0.0
+877,The Book of Life,"Romance,Animation,Adventure,Comedy,Family,Fantasy",2014,95,0.0
+878,Firewall,Thriller,2006,105,1.0
+879,Absolute Power,"Crime,Drama,Thriller",1997,121,1.0
+880,G.I. Jane,"Action,Drama",1997,125,1.0
+881,The Game,"Drama,Thriller,Mystery",1997,129,0.0
+882,Silent Hill,"Horror,Mystery",2006,125,0.0
+883,American Reunion,Comedy,2012,113,1.0
+884,The Negotiator,"Action,Adventure,Crime,Drama,Mystery,Thriller",1998,140,1.0
+885,Into the Storm,"Action,Thriller",2014,89,1.0
+886,Beverly Hills Cop III,"Action,Comedy,Crime",1994,104,1.0
+887,Gremlins 2 The New Batch,"Comedy,Horror,Fantasy",1990,106,1.0
+888,The Judge,Drama,2014,141,1.0
+889,Resident Evil Apocalypse,"Horror,Action,Science Fiction",2004,94,1.0
+890,Bridget Jones The Edge of Reason,"Comedy,Romance",2004,108,0.0
+891,Out of Time,"Thriller,Crime,Drama",2003,105,1.0
+892,On Deadly Ground,"Action,Thriller",1994,102,1.0
+893,The Adventures of Sharkboy and Lavagirl,"Adventure,Family,Science Fiction",2005,92,0.0
+894,The Beach,"Drama,Adventure,Romance,Thriller",2000,119,1.0
+895,Raising Helen,"Drama,Comedy,Romance",2004,119,0.0
+896,Ninja Assassin,"Action,Crime,Thriller",2009,99,1.0
+897,Striptease,"Drama,Thriller,Crime",1996,115,0.0
+898,Marmaduke,"Family,Comedy",2010,87,1.0
+899,Hereafter,"Drama,Fantasy",2010,129,0.0
+900,Murder by Numbers,"Crime,Drama,Thriller",2002,120,1.0
+901,Assassins,"Action,Adventure,Crime,Thriller",1995,132,0.0
+902,Hannibal Rising,"Crime,Drama,Thriller",2007,121,1.0
+903,The Story of Us,"Comedy,Drama,Romance",1999,95,1.0
+904,The Host,"Action,Adventure,Romance,Science Fiction,Thriller",2013,125,1.0
+905,Basic,"Action,Drama,Mystery,Thriller,Crime",2003,98,1.0
+906,Blood Work,"Crime,Drama,Mystery,Thriller",2002,110,1.0
+907,The International,"Drama,Thriller,Crime",2009,118,0.0
+908,Escape from L.A.,"Action,Adventure,Science Fiction,Thriller",1996,97,0.0
+909,The Iron Giant,"Adventure,Animation,Family,Fantasy,Science Fiction",1999,86,0.0
+910,The Life Aquatic with Steve Zissou,"Adventure,Comedy,Drama",2004,119,0.0
+911,Free State of Jones,"War,Action,Drama,History,Thriller",2016,139,0.0
+912,The Life of David Gale,"Drama,Thriller,Crime",2003,130,1.0
+913,Run All Night,"Action,Crime,Drama,Mystery,Thriller",2015,114,1.0
+914,Eastern Promises,"Thriller,Crime,Mystery",2007,100,1.0
+915,Into the Blue,"Action,Thriller,Adventure,Crime",2005,110,1.0
+916,Your Highness,Comedy,2011,102,1.0
+917,Dream House,"Drama,Thriller,Mystery",2011,84,0.0
+918,Mad City,"Action,Drama,Thriller",1997,114,0.0
+919,Baby's Day Out,"Action,Adventure,Comedy,Family",1994,99,0.0
+920,The Scarlet Letter,"Drama,History,Romance",1995,135,1.0
+921,Fair Game,"Drama,Thriller",2010,108,1.0
+922,Domino,"Action,Crime",2005,127,0.0
+923,Jade,"Action,Thriller,Mystery,Romance",1995,95,1.0
+924,Gamer,"Action,Thriller,Science Fiction",2009,95,0.0
+925,Beautiful Creatures,"Fantasy,Drama,Romance",2013,124,0.0
+926,Zoolander 2,Comedy,2016,100,1.0
+927,The Big Bounce,"Comedy,Crime",2004,88,0.0
+928,Drive Angry,"Fantasy,Thriller,Action,Crime",2011,105,0.0
+929,Street Fighter The Legend of ChunLi,"Action,Adventure,Science Fiction,Thriller",2009,97,1.0
+930,The One,"Action,Science Fiction,Thriller",2001,87,1.0
+931,The Adventures of Ford Fairlane,"Action,Comedy,Thriller,Crime,Mystery",1990,104,1.0
+932,The Boat That Rocked,"Drama,Comedy",2009,116,1.0
+933,Traffic,"Thriller,Drama,Crime",2000,147,0.0
+934,Indiana Jones and the Last Crusade,"Adventure,Action",1989,127,0.0
+935,Chappie,"Crime,Action,Science Fiction",2015,120,0.0
+936,The Bone Collector,"Drama,Mystery,Thriller,Crime",1999,118,1.0
+937,Panic Room,"Crime,Drama,Thriller",2002,111,1.0
+938,Three Kings,"Action,Adventure,Comedy",1999,114,1.0
+939,Child 44,"Crime,Thriller",2015,137,0.0
+940,Rat Race,"Adventure,Comedy",2001,112,0.0
+941,KPAX,"Drama,Science Fiction",2001,120,1.0
+942,Bedazzled,"Fantasy,Comedy,Romance",2000,93,0.0
+943,The Cotton Club,"Music,Drama,Crime,Romance",1984,127,0.0
+944,310 to Yuma,Western,2007,122,0.0
+945,Taken 3,"Thriller,Action",2014,109,1.0
+946,Out of Sight,"Romance,Comedy,Crime",1998,123,0.0
+947,The Cable Guy,"Comedy,Drama,Thriller",1996,96,0.0
+948,Dick Tracy,"Adventure,Action,Comedy,Thriller,Crime",1990,103,0.0
+949,The Thomas Crown Affair,"Drama,Crime,Romance",1999,113,1.0
+950,Riding in Cars with Boys,"Comedy,Drama,Romance",2001,132,0.0
+951,First Blood,"Action,Adventure,Thriller,War",1982,93,0.0
+952,Happily N'Ever After,"Animation,Comedy,Family,Fantasy,Science Fiction",2006,75,0.0
+953,Mary Reilly,"Drama,Horror,Thriller,Romance",1996,104,0.0
+954,My Best Friend's Wedding,"Comedy,Romance",1997,105,0.0
+955,Insomnia,"Crime,Mystery,Thriller",2002,118,0.0
+956,Star Trek First Contact,"Science Fiction,Action,Adventure,Thriller",1996,111,1.0
+957,Jonah Hex,"Action,Western,Drama,Fantasy,Thriller",2010,80,1.0
+958,Courage Under Fire,"Drama,Thriller,Mystery,War",1996,117,0.0
+959,Liar Liar,Comedy,1997,86,0.0
+960,The Infiltrator,"Crime,Drama,Thriller",2016,127,1.0
+961,Inchon,"Drama,History,War",1981,140,0.0
+962,The Flintstones,"Fantasy,Comedy,Family",1994,91,0.0
+963,Taken 2,"Action,Crime,Thriller",2012,91,1.0
+964,Scary Movie 3,Comedy,2003,84,0.0
+965,Miss Congeniality,"Comedy,Crime,Action",2000,111,1.0
+966,Journey to the Center of the Earth,"Action,Science Fiction,Adventure,Comedy,Family",2008,93,1.0
+967,The Princess Diaries 2 Royal Engagement,"Comedy,Drama,Family,Romance",2004,113,1.0
+968,The Pelican Brief,"Drama,Mystery,Thriller,Crime",1993,141,1.0
+969,The Client,"Drama,Thriller,Crime,Mystery",1994,119,0.0
+970,The Bucket List,"Drama,Comedy",2007,97,1.0
+971,Patriot Games,"Drama,Action,Thriller,Crime",1992,117,1.0
+972,MonsterinLaw,"Romance,Comedy",2005,101,1.0
+973,Prisoners,"Drama,Thriller,Crime",2013,153,1.0
+974,Training Day,"Action,Crime,Drama,Thriller",2001,122,0.0
+975,Galaxy Quest,"Comedy,Family,Science Fiction",1999,102,1.0
+976,Scary Movie 2,Comedy,2001,83,0.0
+977,The Muppets,"Comedy,Family,Music",2011,103,1.0
+978,Blade,"Horror,Action",1998,120,1.0
+979,Coach Carter,Drama,2005,136,1.0
+980,Changing Lanes,"Action,Adventure,Crime,Thriller",2002,89,0.0
+981,Anaconda,"Adventure,Horror,Thriller",1997,89,1.0
+982,Coyote Ugly,Comedy,2000,100,1.0
+983,Love Actually,"Comedy,Romance,Drama",2003,135,1.0
+984,A Bug's Life,"Adventure,Animation,Comedy,Family",1998,95,0.0
+985,From Hell,"Horror,Mystery,Thriller",2001,122,1.0
+986,The Specialist,"Action,Thriller",1994,110,0.0
+987,Tin Cup,"Comedy,Drama,Romance",1996,135,0.0
+988,Kicking & Screaming,"Romance,Comedy,Family",2005,95,1.0
+989,The Hitchhiker's Guide to the Galaxy,"Adventure,Comedy,Family,Science Fiction",2005,109,1.0
+990,Resident Evil Extinction,"Horror,Action,Science Fiction",2007,94,0.0
+991,Blended,Comedy,2014,117,1.0
+992,Last Holiday,"Adventure,Comedy,Drama",2006,112,0.0
+993,Savages,"Crime,Drama,Thriller",2012,131,1.0
+994,Cellular,"Action,Adventure,Crime,Thriller",2004,94,1.0
+995,Johnny English,"Adventure,Action,Comedy",2003,88,1.0
+996,The Ant Bully,"Fantasy,Adventure,Animation,Comedy,Family",2006,88,0.0
+997,Dune,"Action,Science Fiction,Adventure",1984,137,0.0
+998,Revolutionary Road,"Drama,Romance",2008,119,1.0
+999,16 Blocks,"Action,Adventure,Crime,Thriller",2006,105,0.0
+1000,Babylon A.D.,"Action,Adventure,Science Fiction,Thriller",2008,101,0.0
+1001,Aliens in the Attic,"Adventure,Comedy,Family,Fantasy,Science Fiction",2009,86,1.0
+1002,The Pledge,"Crime,Drama,Mystery,Thriller",2001,123,0.0
+1003,The Producers,"Comedy,Music",2005,134,0.0
+1004,The Phantom,"Adventure,Action",1996,100,0.0
+1005,Nixon,"History,Drama",1995,192,1.0
+1006,The Ghost Writer,"Thriller,Mystery",2010,128,1.0
+1007,Deep Rising,"Adventure,Action,Horror,Science Fiction",1998,106,0.0
+1008,Miracle at St. Anna,"Drama,War",2008,160,0.0
+1009,Bangkok Dangerous,"Action,Crime,Thriller",2008,99,0.0
+1010,Big Trouble,"Action,Comedy,Thriller",2002,85,1.0
+1011,Love in the Time of Cholera,"Drama,Romance",2007,139,1.0
+1012,Shadow Conspiracy,"Action,Thriller",1997,103,0.0
+1013,Johnny English Reborn,"Crime,Adventure,Action,Comedy,Thriller",2011,101,0.0
+1014,Foodfight!,"Animation,Action,Comedy,Family",2012,87,0.0
+1015,Argo,"Drama,Thriller",2012,120,1.0
+1016,The Fugitive,"Adventure,Action,Thriller,Crime,Mystery",1993,130,0.0
+1017,The Bounty Hunter,Action,2010,110,0.0
+1018,Sleepers,"Crime,Drama,Thriller",1996,147,0.0
+1019,Rambo First Blood Part II,"Action,Adventure,Thriller,War",1985,96,1.0
+1020,Pinocchio,"Animation,Family",1940,88,0.0
+1021,Heaven's Gate,"Action,Drama,History,Western",1980,219,0.0
+1022,Underworld Evolution,"Fantasy,Action,Science Fiction,Thriller",2006,106,1.0
+1023,Victor Frankenstein,"Drama,Science Fiction,Thriller",2015,109,1.0
+1024,Finding Forrester,Drama,2000,136,0.0
+1025,Unleashed,"Action,Crime",2005,103,1.0
+1026,The Sweetest Thing,"Romance,Comedy",2002,84,1.0
+1027,The Firm,"Drama,Mystery,Thriller",1993,154,1.0
+1028,Charlie St. Cloud,Drama,2010,99,1.0
+1029,The Mechanic,"Action,Thriller,Crime",2011,93,1.0
+1030,21 Jump Street,"Action,Comedy,Crime",2012,109,1.0
+1031,Notting Hill,"Romance,Comedy,Drama",1999,124,3.0
+1032,Chicken Run,"Animation,Comedy,Family",2000,84,0.0
+1033,Along Came Polly,"Comedy,Romance",2004,90,0.0
+1034,Boomerang,"Comedy,Romance",1992,117,0.0
+1035,The Heat,"Action,Comedy,Crime",2013,117,1.0
+1036,Cleopatra,"Drama,History,Romance",1963,248,0.0
+1037,High Crimes,"Drama,Mystery,Thriller,Crime",2002,115,0.0
+1038,The Mothman Prophecies,"Drama,Horror,Mystery",2002,119,1.0
+1039,Licence to Kill,"Adventure,Action,Thriller",1989,133,0.0
+1040,Red Riding Hood,"Fantasy,Thriller,Horror",2011,100,1.0
+1041,15 Minutes,"Action,Crime,Thriller",2001,120,0.0
+1042,Super Mario Bros.,"Adventure,Comedy,Family,Fantasy",1993,104,0.0
+1043,Lord of War,"Crime,Drama,Thriller",2005,122,1.0
+1044,One for the Money,"Action,Comedy,Crime",2012,91,0.0
+1045,The Interview,"Action,Comedy",2014,112,1.0
+1046,The Warrior's Way,"Adventure,Fantasy,Action,Western,Thriller",2010,100,1.0
+1047,8 Mile,Drama,2002,110,1.0
+1048,A Knight's Tale,"Adventure,Drama,Romance,Action",2001,132,0.0
+1049,The Sixth Sense,"Mystery,Thriller,Drama",1999,107,0.0
+1050,Man on a Ledge,"Action,Thriller,Crime",2012,102,1.0
+1051,The Big Year,Comedy,2011,100,0.0
+1052,The Karate Kid,Drama,1984,126,1.0
+1053,American Hustle,"Drama,Crime",2013,138,1.0
+1054,The Proposal,"Comedy,Romance,Drama",2009,108,0.0
+1055,Double Jeopardy,"Crime,Drama,Mystery,Thriller",1999,105,1.0
+1056,Back to the Future Part II,"Adventure,Comedy,Family,Science Fiction",1989,108,1.0
+1057,Lucy,"Action,Science Fiction",2014,89,0.0
+1058,Fifty Shades of Grey,"Drama,Romance,Thriller",2015,125,1.0
+1059,Spy Kids 3D Game Over,"Action,Adventure,Comedy,Family,Science Fiction",2003,84,0.0
+1060,A Time to Kill,"Crime,Drama,Thriller",1996,149,1.0
+1061,Cheaper by the Dozen,Comedy,2003,98,1.0
+1062,Lone Survivor,"Action,Drama,Thriller,War",2013,121,1.0
+1063,A League of Their Own,Comedy,1992,128,0.0
+1064,The Conjuring 2,Horror,2016,134,0.0
+1065,The Social Network,Drama,2010,120,1.0
+1066,He's Just Not That Into You,"Comedy,Romance,Drama",2009,129,1.0
+1067,Scary Movie 4,Comedy,2006,83,0.0
+1068,Scream 3,"Horror,Mystery",2000,116,0.0
+1069,Back to the Future Part III,"Adventure,Comedy,Family,Science Fiction",1990,118,1.0
+1070,Get Hard,Comedy,2015,100,0.0
+1071,Dracula,"Romance,Horror",1992,128,0.0
+1072,Julie & Julia,"Romance,Drama",2009,123,1.0
+1073,42,Drama,2013,128,0.0
+1074,The Talented Mr. Ripley,"Thriller,Crime,Drama",1999,139,1.0
+1075,Dumb and Dumber To,Comedy,2014,110,0.0
+1076,Eight Below,"Adventure,Drama,Family",2006,120,0.0
+1077,The Intern,Comedy,2015,121,0.0
+1078,Ride Along 2,"Action,Comedy",2016,102,1.0
+1079,The Last of the Mohicans,"Action,Adventure,Drama,History,Romance,War",1992,112,0.0
+1080,Ray,"Drama,Music",2004,152,0.0
+1081,Sin City,"Action,Thriller,Crime",2005,124,0.0
+1082,Vantage Point,"Drama,Action,Thriller,Crime",2008,90,1.0
+1083,"I Love You, Man",Comedy,2009,105,1.0
+1084,Shallow Hal,"Comedy,Romance",2001,114,1.0
+1085,JFK,"Drama,Thriller,History",1991,189,1.0
+1086,Big Momma's House 2,"Comedy,Crime",2006,99,0.0
+1087,The Mexican,"Action,Comedy,Crime,Romance",2001,123,1.0
+1088,17 Again,Comedy,2009,102,0.0
+1089,The Other Woman,"Comedy,Romance",2014,109,0.0
+1090,The Final Destination,"Horror,Mystery",2009,82,1.0
+1091,Bridge of Spies,"Thriller,Drama",2015,141,0.0
+1092,Behind Enemy Lines,"Action,Drama,Thriller,War",2001,106,1.0
+1093,Get Him to the Greek,Comedy,2010,109,0.0
+1094,Shall We Dance?,"Drama,Romance,Comedy",2004,107,0.0
+1095,Small Soldiers,"Comedy,Adventure,Fantasy,Science Fiction,Action",1998,110,1.0
+1096,Spawn,"Action,Adventure,Fantasy,Horror,Science Fiction,Thriller",1997,96,1.0
+1097,The Count of Monte Cristo,"Action,Adventure,Drama,Thriller",2002,131,0.0
+1098,The Lincoln Lawyer,"Crime,Drama,Thriller",2011,119,1.0
+1099,Unknown,"Action,Mystery,Thriller",2011,113,1.0
+1100,The Prestige,"Drama,Mystery,Thriller",2006,130,1.0
+1101,Horrible Bosses 2,Comedy,2014,108,1.0
+1102,Escape from Planet Earth,"Animation,Comedy,Adventure,Family,Science Fiction",2013,89,1.0
+1103,Apocalypto,"Action,Adventure,Drama,Thriller",2006,139,1.0
+1104,The Living Daylights,"Action,Adventure,Thriller",1987,130,1.0
+1105,Predators,"Action,Science Fiction,Adventure,Thriller",2010,107,1.0
+1106,Secret Window,"Thriller,Mystery",2004,96,0.0
+1107,The Lake House,"Romance,Drama,Mystery",2006,99,1.0
+1108,The Skeleton Key,"Drama,Horror,Mystery,Thriller",2005,104,1.0
+1109,Made of Honor,"Comedy,Romance",2008,101,0.0
+1110,Jersey Boys,"Music,Drama",2014,134,1.0
+1111,The Rainmaker,"Drama,Crime,Thriller",1997,135,0.0
+1112,Gothika,"Horror,Thriller",2003,98,0.0
+1113,Amistad,"Drama,History,Mystery",1997,155,0.0
+1114,Aliens vs Predator Requiem,"Fantasy,Action,Science Fiction,Thriller,Horror",2007,94,0.0
+1115,Music and Lyrics,"Comedy,Music,Romance",2007,96,3.0
+1116,Paul,"Adventure,Comedy,Science Fiction",2011,104,0.0
+1117,The Guilt Trip,Comedy,2012,95,1.0
+1118,Scream 4,"Horror,Mystery",2011,111,0.0
+1119,8MM,"Thriller,Crime,Mystery",1999,123,0.0
+1120,The Doors,"Drama,Music",1991,140,1.0
+1121,Sex Tape,Comedy,2014,97,1.0
+1122,Hanging Up,"Comedy,Drama",2000,94,0.0
+1123,Final Destination 5,"Horror,Mystery",2011,92,1.0
+1124,Pay It Forward,"Drama,Romance",2000,122,0.0
+1125,Fever Pitch,"Comedy,Drama,Romance",2005,103,1.0
+1126,The Shadow,"Adventure,Fantasy,Action,Thriller,Science Fiction",1994,108,1.0
+1127,Extremely Loud & Incredibly Close,Drama,2011,129,0.0
+1128,Morning Glory,"Comedy,Drama,Romance",2010,102,0.0
+1129,Get Rich or Die Tryin',Drama,2005,117,1.0
+1130,The Art of War,"Crime,Action,Adventure",2000,117,0.0
+1131,Rent,"Drama,Romance",2005,135,1.0
+1132,The OutofTowners,Comedy,1999,90,0.0
+1133,The Island of Dr. Moreau,"Fantasy,Horror,Science Fiction",1996,96,0.0
+1134,The Musketeer,"Action,Adventure,Drama",2001,104,0.0
+1135,Sweet November,"Drama,Romance",2001,119,0.0
+1136,The Reaping,Horror,2007,99,0.0
+1137,Mean Streets,"Drama,Crime",1973,110,1.0
+1138,Renaissance Man,"Comedy,War",1994,128,0.0
+1139,Colombiana,"Action,Thriller,Crime,Drama",2011,108,0.0
+1140,Quest for Camelot,"Fantasy,Animation,Drama,Romance,Family",1998,86,1.0
+1141,City By The Sea,"Crime,Drama,Mystery",2002,108,1.0
+1142,Torque,Action,2004,84,1.0
+1143,Showgirls,Drama,1995,128,0.0
+1144,Marie Antoinette,"Drama,History",2006,123,0.0
+1145,Get Carter,"Action,Drama,Thriller,Crime",2000,102,1.0
+1146,Lo imposible,"Thriller,Drama",2012,113,1.0
+1147,Ishtar,"Action,Adventure,Comedy",1987,107,0.0
+1148,Fantastic Mr. Fox,"Adventure,Animation,Comedy,Family",2009,87,0.0
+1149,Life or Something Like It,"Comedy,Drama,Romance",2002,103,1.0
+1150,Memoirs of an Invisible Man,"Comedy,Fantasy,Science Fiction",1992,99,1.0
+1151,Alfie,Comedy,2004,103,0.0
+1152,Big Miracle,"Adventure,Drama,Romance",2012,107,1.0
+1153,The Deep End of the Ocean,"Drama,Mystery",1999,106,0.0
+1154,FearDotCom,"Horror,Thriller",2002,101,1.0
+1155,Cirque du Freak The Vampire's Assistant,"Adventure,Fantasy,Action,Thriller",2009,109,1.0
+1156,Duplex,"Action,Comedy,Thriller",2003,89,1.0
+1157,Universal Soldier The Return,"Action,Science Fiction",1999,82,0.0
+1158,Pandorum,"Action,Horror,Mystery,Science Fiction,Thriller",2009,108,1.0
+1159,Extreme Ops,"Action,Adventure,Drama,Thriller",2002,93,0.0
+1160,Sunshine,"Science Fiction,Thriller",2007,107,1.0
+1161,A Thousand Words,"Drama,Comedy",2012,91,0.0
+1162,The Gunman,"Action,Drama,Crime",2015,115,1.0
+1163,Stormbreaker,"Adventure,Action,Family",2006,93,0.0
+1164,Disturbia,"Thriller,Drama,Mystery",2007,105,0.0
+1165,Hackers,"Action,Crime,Thriller,Drama",1995,107,1.0
+1166,The Crow,"Fantasy,Action,Thriller",1994,102,5.0
+1167,The Time Traveler's Wife,"Drama,Romance,Fantasy",2009,107,1.0
+1168,Frankenweenie,"Animation,Comedy,Family",2012,87,0.0
+1169,Serenity,"Science Fiction,Action,Adventure,Thriller",2005,119,1.0
+1170,Against the Ropes,"Romance,Drama",2004,106,0.0
+1171,Superman III,"Comedy,Action,Adventure,Fantasy,Science Fiction",1983,125,1.0
+1172,Grudge Match,Comedy,2013,113,1.0
+1173,Sweet Home Alabama,"Comedy,Romance",2002,108,0.0
+1174,The Ugly Truth,"Comedy,Romance",2009,96,1.0
+1175,Spy Kids 2 The Island of Lost Dreams,"Action,Adventure,Family",2002,100,0.0
+1176,Star Trek Generations,"Science Fiction,Action,Adventure,Thriller",1994,118,0.0
+1177,Water for Elephants,"Drama,Romance",2011,120,1.0
+1178,The Hurricane,Drama,1999,146,0.0
+1179,Enough,"Drama,Thriller",2002,114,1.0
+1180,Paul Blart Mall Cop 2,"Action,Comedy,Family",2015,94,1.0
+1181,Angel Eyes,"Drama,Romance,Thriller",2001,102,1.0
+1182,The Ninth Gate,"Horror,Mystery,Thriller",1999,133,0.0
+1183,Extreme Measures,"Drama,Thriller",1996,118,0.0
+1184,Rock Star,"Music,Drama,Comedy",2001,105,1.0
+1185,Precious,Drama,2009,110,1.0
+1186,White Squall,"Action,Drama",1996,129,1.0
+1187,The Thing,"Horror,Mystery,Science Fiction",1982,109,1.0
+1188,Riddick,"Science Fiction,Action,Thriller",2013,119,1.0
+1189,Switchback,"Action,Adventure,Mystery,Thriller",1997,118,1.0
+1190,City of Ember,"Adventure,Family,Fantasy",2008,90,1.0
+1191,The Master,Drama,2012,137,0.0
+1192,Virgin Territory,"Adventure,Action,Comedy,Romance",2007,93,1.0
+1193,The Express,Drama,2008,130,1.0
+1194,The 5th Wave,"Adventure,Science Fiction",2016,112,0.0
+1195,Creed,Drama,2015,133,1.0
+1196,The Town,"Crime,Drama,Thriller",2010,125,1.0
+1197,What to Expect When You're Expecting,"Romance,Comedy,Drama",2012,110,0.0
+1198,Burn After Reading,"Comedy,Drama",2008,96,1.0
+1199,Nim's Island,"Adventure,Comedy,Family,Fantasy",2008,96,0.0
+1200,Rush,"Drama,Action",2013,123,0.0
+1201,Magnolia,Drama,1999,188,0.0
+1202,Cop Out,"Action,Comedy,Crime",2010,107,1.0
+1203,How to Be Single,"Comedy,Romance",2016,110,1.0
+1204,Dolphin Tale,"Drama,Family",2011,113,1.0
+1205,Twilight,"Adventure,Fantasy,Drama,Romance",2008,122,0.0
+1206,John Q,"Drama,Thriller,Crime",2002,116,0.0
+1207,Blue Streak,"Action,Comedy,Crime",1999,93,1.0
+1208,We're the Millers,"Comedy,Crime",2013,110,1.0
+1209,Breakdown,"Drama,Action,Thriller",1997,95,0.0
+1210,Never Say Never Again,"Adventure,Action,Thriller",1983,134,1.0
+1211,Hot Tub Time Machine,"Science Fiction,Comedy,Adventure",2010,101,1.0
+1212,Dolphin Tale 2,"Family,Drama",2014,107,0.0
+1213,Reindeer Games,Thriller,2000,124,0.0
+1214,A Man Apart,"Action,Drama",2003,109,1.0
+1215,Aloha,"Drama,Comedy,Romance",2015,105,1.0
+1216,The Rite,"Drama,Thriller,Horror",2011,114,0.0
+1217,Gattaca,"Thriller,Science Fiction,Mystery,Romance",1997,106,1.0
+1218,Space Chimps,"Animation,Family",2008,81,1.0
+1219,The Hangover,Comedy,2009,100,1.0
+1220,Austin Powers The Spy Who Shagged Me,"Adventure,Comedy,Crime,Science Fiction",1999,95,1.0
+1221,Batman,"Fantasy,Action",1989,126,1.0
+1222,Lethal Weapon 3,"Adventure,Action,Comedy,Thriller,Crime",1992,118,1.0
+1223,The Blind Side,Drama,2009,129,1.0
+1224,Spy Kids,"Action,Comedy,Family,Adventure",2001,88,0.0
+1225,Horrible Bosses,"Comedy,Crime",2011,98,1.0
+1226,True Grit,"Drama,Adventure,Western",2010,110,0.0
+1227,The Devil Wears Prada,"Comedy,Drama,Romance",2006,109,0.0
+1228,Star Trek The Motion Picture,"Science Fiction,Adventure,Mystery",1979,132,1.0
+1229,Identity Thief,"Comedy,Crime",2013,111,1.0
+1230,Cape Fear,"Crime,Thriller",1991,128,0.0
+1231,21,"Drama,Crime",2008,123,0.0
+1232,Trainwreck,Comedy,2015,125,1.0
+1233,Guess Who,"Comedy,Romance",2005,105,1.0
+1234,The English Patient,"Drama,Romance,War",1996,162,0.0
+1235,L.A. Confidential,"Crime,Drama,Mystery,Thriller",1997,138,0.0
+1236,Sky High,"Adventure,Comedy,Family",2005,100,1.0
+1237,Species,"Science Fiction,Horror,Action",1995,108,0.0
+1238,A Nightmare on Elm Street,Horror,1984,91,1.0
+1239,The Cell,"Horror,Science Fiction,Thriller",2000,107,0.0
+1240,Secretariat,Drama,2010,123,0.0
+1241,TMNT,"Adventure,Animation,Comedy,Family",2007,90,0.0
+1242,Radio,Drama,2003,109,1.0
+1243,Friends with Benefits,"Romance,Comedy",2011,109,1.0
+1244,Neighbors 2 Sorority Rising,Comedy,2016,91,1.0
+1245,Saving Mr. Banks,"Comedy,Drama,History",2013,125,0.0
+1246,Malcolm X,"Drama,History",1992,202,0.0
+1247,This Is 40,Comedy,2012,134,1.0
+1248,Old Dogs,"Comedy,Family",2009,88,0.0
+1249,Underworld Rise of the Lycans,"Fantasy,Action,Adventure,Science Fiction,Thriller",2009,92,0.0
+1250,License to Wed,Comedy,2007,91,0.0
+1251,Must Love Dogs,"Comedy,Romance",2005,98,1.0
+1252,Donnie Brasco,"Crime,Drama,Thriller",1997,127,1.0
+1253,Resident Evil,"Horror,Action,Science Fiction",2002,100,0.0
+1254,Poltergeist,Horror,1982,114,0.0
+1255,Max Payne,Action,2008,100,1.0
+1256,In Time,"Action,Thriller,Science Fiction",2011,109,1.0
+1257,The BackUp Plan,"Comedy,Romance",2010,106,1.0
+1258,Something Borrowed,"Comedy,Drama,Romance",2011,112,1.0
+1259,The Bad News Bears,"Comedy,Family",1976,102,0.0
+1260,Street Fighter,"Action,Adventure,Thriller",1994,102,0.0
+1261,The Pianist,"Drama,War",2002,150,0.0
+1262,House of Wax,Horror,2005,113,1.0
+1263,Closer,"Drama,Romance",2004,104,1.0
+1264,J. Edgar,"Drama,Crime,History",2011,137,1.0
+1265,Mirrors,"Horror,Mystery,Thriller",2008,110,1.0
+1266,Queen of the Damned,"Drama,Fantasy,Horror",2002,101,0.0
+1267,Predator 2,"Science Fiction,Action,Thriller",1990,108,1.0
+1268,Untraceable,Drama,2008,101,1.0
+1269,Blast from the Past,"Comedy,Romance",1999,112,1.0
+1270,Flash Gordon,Science Fiction,1980,111,1.0
+1271,Jersey Girl,"Comedy,Romance",2004,102,0.0
+1272,Alex Cross,"Action,Thriller,Crime,Mystery",2012,101,1.0
+1273,Midnight in the Garden of Good and Evil,"Crime,Drama,Mystery,Thriller",1997,155,1.0
+1274,Heist,"Crime,Action,Thriller",2015,93,0.0
+1275,Nanny McPhee and the Big Bang,"Comedy,Fantasy",2010,109,1.0
+1276,The X Files I Want to Believe,"Drama,Mystery,Science Fiction,Thriller",2008,104,1.0
+1277,Ella Enchanted,"Family,Fantasy,Comedy",2004,96,1.0
+1278,Concussion,Drama,2015,123,0.0
+1279,Abduction,"Thriller,Action,Mystery",2011,106,0.0
+1280,Valiant,"Animation,Family,Adventure",2005,76,0.0
+1281,Superhero Movie,"Action,Comedy,Science Fiction",2008,85,1.0
+1282,Broken City,"Thriller,Crime,Drama",2013,109,0.0
+1283,Cursed,"Horror,Comedy",2005,97,1.0
+1284,Premium Rush,"Crime,Action,Thriller",2012,91,0.0
+1285,Hot Pursuit,"Action,Comedy,Crime",2015,87,1.0
+1286,The Four Feathers,"War,Adventure,Drama,Romance",2002,132,1.0
+1287,Parker,"Action,Crime",2013,118,1.0
+1288,Wimbledon,"Comedy,Romance",2004,98,0.0
+1289,Furry Vengeance,Comedy,2010,92,1.0
+1290,Krull,"Fantasy,Action,Adventure",1983,117,0.0
+1291,Lions for Lambs,"Action,Adventure,Drama,History",2007,92,0.0
+1292,Walk Hard The Dewey Cox Story,"Comedy,Music",2007,96,0.0
+1293,American Outlaws,"Action,Western",2001,94,0.0
+1294,The Young Victoria,"Drama,History,Romance",2009,105,0.0
+1295,Whiteout,"Action,Crime,Mystery,Thriller",2009,101,0.0
+1296,The Tree of Life,"Drama,Fantasy",2011,139,0.0
+1297,Sabotage,"Action,Drama,Thriller,Crime",2014,110,1.0
+1298,The Order,"Drama,Fantasy,Horror,Mystery,Romance,Thriller",2003,102,0.0
+1299,Punisher War Zone,"Action,Crime",2008,102,0.0
+1300,Zoom,"Family,Fantasy,Comedy",2006,83,0.0
+1301,The Walk,"Adventure,Drama,Thriller",2015,123,0.0
+1302,A Good Year,"Comedy,Drama,Romance",2006,118,0.0
+1303,Radio Flyer,Drama,1992,114,0.0
+1304,Femme Fatale,"Thriller,Crime,Romance",2002,114,0.0
+1305,Le Hussard sur le toit,"War,Adventure,Drama,Romance",1995,135,0.0
+1306,Ride with the Devil,"Drama,War,Romance,Western",1999,138,0.0
+1307,The Maze Runner,"Action,Mystery,Science Fiction,Thriller",2014,113,0.0
+1308,Unfinished Business,Comedy,2015,91,1.0
+1309,The Age of Innocence,"Drama,Romance",1993,139,1.0
+1310,The Fountain,"Drama,Adventure,Science Fiction,Romance",2006,96,0.0
+1311,Chill Factor,"Action,Comedy,Thriller",1999,101,0.0
+1312,Stolen,"Action,Crime,Drama,Thriller",2012,96,1.0
+1313,The Longest Ride,"Drama,Romance",2015,128,1.0
+1314,The Astronaut's Wife,"Drama,Science Fiction,Thriller",1999,109,1.0
+1315,Mandela Long Walk to Freedom,"Drama,History",2013,141,1.0
+1316,Reds,"Drama,History",1981,195,0.0
+1317,A Few Good Men,Drama,1992,138,1.0
+1318,Exit Wounds,"Action,Crime,Thriller",2001,101,1.0
+1319,Big Momma's House,"Crime,Comedy",2000,98,1.0
+1320,The Darkest Hour,"Horror,Action,Thriller,Science Fiction",2011,89,1.0
+1321,Step Up Revolution,"Music,Drama,Romance",2012,99,1.0
+1322,Snakes on a Plane,"Action,Crime,Horror,Thriller",2006,105,0.0
+1323,The Punisher,"Action,Crime,Drama",2004,124,1.0
+1324,Goal! The Dream Begins,Drama,2005,118,1.0
+1325,Safe,"Action,Crime,Thriller",2012,94,1.0
+1326,Return of the Jedi,"Adventure,Action,Science Fiction",1983,135,0.0
+1327,Doomsday,"Action,Thriller,Science Fiction",2008,108,0.0
+1328,The Reader,"Drama,Romance",2008,124,1.0
+1329,Wanderlust,Comedy,2012,98,1.0
+1330,Elf,"Comedy,Family,Fantasy",2003,97,1.0
+1331,Phenomenon,"Drama,Fantasy,Romance,Science Fiction",1996,123,1.0
+1332,Nacho Libre,"Comedy,Family",2006,92,0.0
+1333,Bridesmaids,"Comedy,Romance",2011,125,0.0
+1334,This Is the End,"Action,Comedy",2013,107,0.0
+1335,Stigmata,Horror,1999,103,0.0
+1336,Men of Honor,Drama,2000,129,0.0
+1337,Takers,"Action,Crime,Drama,Thriller",2010,107,1.0
+1338,The Big Wedding,Comedy,2013,90,1.0
+1339,"Big Mommas Like Father, Like Son","Crime,Comedy,Action",2011,107,1.0
+1340,Source Code,"Thriller,Science Fiction,Mystery",2011,93,0.0
+1341,Alive,"Action,Adventure,Drama,Thriller",1993,120,1.0
+1342,The Number 23,"Thriller,Drama,Mystery",2007,101,0.0
+1343,The Young and Prodigious T.S. Spivet,"Adventure,Drama,Family",2013,105,0.0
+1344,1941,"Action,Comedy",1979,113,0.0
+1345,A History of Violence,"Drama,Thriller,Crime",2005,96,1.0
+1346,Transporter 2,"Action,Thriller,Crime",2005,87,0.0
+1347,The Quick and the Dead,"Action,Western",1995,107,1.0
+1348,Laws of Attraction,"Action,Comedy,Romance,Thriller",2004,90,0.0
+1349,Repo Men,"Action,Science Fiction,Thriller,Crime",2010,111,0.0
+1350,The Incredible Burt Wonderstone,Comedy,2013,100,0.0
+1351,Cats Don't Dance,"Animation,Comedy,Family,Music",1997,75,1.0
+1352,The Good German,"War,Crime,Drama,Mystery,Romance,Thriller",2006,108,0.0
+1353,Apocalypse Now,"Drama,War",1979,153,1.0
+1354,Going the Distance,"Comedy,Drama,Romance",2010,102,0.0
+1355,Criminal,Action,2016,113,1.0
+1356,Out of Africa,Drama,1985,161,0.0
+1357,Flight,Drama,2012,138,0.0
+1358,Moonraker,"Action,Adventure,Thriller,Science Fiction",1979,126,1.0
+1359,The Grand Budapest Hotel,"Comedy,Drama",2014,99,0.0
+1360,Hearts in Atlantis,"Drama,Mystery",2001,101,0.0
+1361,Arachnophobia,"Comedy,Horror",1990,103,1.0
+1362,Frequency,"Crime,Drama,Science Fiction,Thriller",2000,118,1.0
+1363,Vacation,Comedy,2015,99,0.0
+1364,Get Shorty,"Comedy,Thriller,Crime",1995,105,1.0
+1365,Chicago,"Action,Comedy,Crime,Drama,Music",2002,113,0.0
+1366,Big Daddy,"Comedy,Drama",1999,93,1.0
+1367,American Pie 2,"Comedy,Romance",2001,108,0.0
+1368,Toy Story,"Animation,Comedy,Family",1995,81,0.0
+1369,Speed,"Action,Adventure,Crime",1994,116,1.0
+1370,The Vow,"Drama,Romance",2012,104,0.0
+1371,Extraordinary Measures,Drama,2010,105,1.0
+1372,Remember the Titans,Drama,2000,113,1.0
+1373,The Hunt for Red October,"Action,Adventure,Thriller",1990,134,0.0
+1374,The Butler,Drama,2013,132,1.0
+1375,DodgeBall A True Underdog Story,Comedy,2004,92,1.0
+1376,The Addams Family,"Horror,Comedy,Fantasy",1991,99,1.0
+1377,Ace Ventura When Nature Calls,"Crime,Comedy,Adventure",1995,90,1.0
+1378,The Princess Diaries,"Comedy,Family,Romance",2001,115,1.0
+1379,The First Wives Club,Comedy,1996,102,1.0
+1380,Se7en,"Crime,Mystery,Thriller",1995,127,0.0
+1381,District 9,Science Fiction,2009,112,1.0
+1382,The SpongeBob SquarePants Movie,"Animation,Comedy,Family",2004,87,0.0
+1383,Mystic River,"Thriller,Crime,Drama,Mystery",2003,138,0.0
+1384,Million Dollar Baby,Drama,2004,132,0.0
+1385,Analyze This,"Comedy,Crime",1999,103,0.0
+1386,The Notebook,"Romance,Drama",2004,123,2.0
+1387,27 Dresses,"Comedy,Romance",2008,111,1.0
+1388,Hannah Montana The Movie,"Comedy,Drama,Family,Music,Romance",2009,102,0.0
+1389,The Prince of Tides,"Drama,Romance",1991,132,1.0
+1390,Legends of the Fall,"Adventure,Drama,Romance,War",1994,133,1.0
+1391,Up in the Air,"Drama,Romance",2009,109,1.0
+1392,About Schmidt,"Drama,Comedy",2002,125,0.0
+1393,Warm Bodies,"Horror,Comedy,Romance",2013,97,0.0
+1394,Looper,"Action,Thriller,Science Fiction",2012,118,1.0
+1395,Babe,"Fantasy,Drama,Comedy,Family",1995,89,0.0
+1396,Hope Springs,"Drama,Comedy,Romance",2012,100,0.0
+1397,Forgetting Sarah Marshall,"Comedy,Romance,Drama",2008,111,1.0
+1398,Four Brothers,"Action,Crime",2005,109,1.0
+1399,Baby Mama,Comedy,2008,99,0.0
+1400,Bride Wars,Comedy,2009,89,1.0
+1401,Without a Paddle,"Action,Adventure,Comedy,Thriller",2004,95,0.0
+1402,13 Going on 30,"Comedy,Fantasy,Romance",2004,98,0.0
+1403,Midnight in Paris,"Fantasy,Comedy,Romance",2011,94,0.0
+1404,Blow,"Crime,Drama",2001,124,0.0
+1405,Message in a Bottle,"Romance,Drama",1999,131,3.0
+1406,Star Trek V The Final Frontier,"Science Fiction,Action,Adventure,Thriller",1989,107,0.0
+1407,The Naked Gun 33� The Final Insult,"Comedy,Crime",1994,83,0.0
+1408,A View to a Kill,"Adventure,Action,Thriller",1985,131,0.0
+1409,The Curse of the WereRabbit,"Adventure,Animation,Comedy,Family",2005,85,1.0
+1410,P.S. I Love You,"Drama,Romance",2007,126,0.0
+1411,Racing Stripes,Comedy,2005,102,0.0
+1412,Atonement,"Drama,Romance",2007,123,1.0
+1413,Black Rain,"Action,Thriller,Crime",1989,125,0.0
+1414,The Three Stooges,Comedy,2012,92,1.0
+1415,Corpse Bride,"Romance,Fantasy,Animation,Music",2005,77,1.0
+1416,Sicario,"Action,Crime,Drama,Mystery,Thriller",2015,121,1.0
+1417,Southpaw,"Action,Drama",2015,123,1.0
+1418,Drag Me to Hell,"Horror,Thriller",2009,99,1.0
+1419,The Age of Adaline,"Fantasy,Drama,Romance",2015,112,0.0
+1420,Step Up 3D,"Drama,Romance",2010,107,0.0
+1421,Blue Crush,Adventure,2002,104,0.0
+1422,Stranger Than Fiction,"Comedy,Drama,Fantasy,Romance",2006,113,1.0
+1423,30 Days of Night,"Horror,Thriller",2007,113,1.0
+1424,The Cabin in the Woods,"Horror,Thriller",2012,95,1.0
+1425,Meet the Spartans,Comedy,2008,84,0.0
+1426,Midnight Run,"Adventure,Comedy,Crime",1988,126,0.0
+1427,The Running Man,"Action,Science Fiction",1987,101,0.0
+1428,Little Shop of Horrors,"Horror,Comedy,Music",1986,94,1.0
+1429,Hanna,"Action,Thriller,Adventure",2011,111,0.0
+1430,Mortal Kombat Annihilation,"Action,Fantasy,Science Fiction",1997,95,1.0
+1431,Larry Crowne,"Comedy,Romance,Drama",2011,98,1.0
+1432,Carrie,"Drama,Horror",2013,100,1.0
+1433,Take the Lead,Music,2006,108,1.0
+1434,Gridiron Gang,"Action,Adventure,Crime,Drama",2006,125,0.0
+1435,9,"Action,Adventure,Animation,Science Fiction,Thriller",2009,79,1.0
+1436,Side Effects,"Thriller,Crime,Drama",2013,106,0.0
+1437,Winnie the Pooh,"Animation,Family",2011,63,1.0
+1438,Dumb and Dumberer When Harry Met Lloyd,Comedy,2003,85,0.0
+1439,Bulworth,"Comedy,Drama",1998,108,0.0
+1440,Virtuosity,"Action,Crime,Science Fiction,Thriller",1995,106,1.0
+1441,Sanctum,"Action,Thriller",2011,108,0.0
+1442,Little Black Book,"Comedy,Romance,Drama",2004,111,1.0
+1443,The FiveYear Engagement,Comedy,2012,124,0.0
+1444,Mr. 3000,"Comedy,Drama",2004,104,0.0
+1445,The Next Three Days,"Romance,Drama,Thriller,Crime",2010,133,0.0
+1446,Ultraviolet,"Science Fiction,Action,Thriller",2006,87,1.0
+1447,Assault on Precinct 13,Thriller,2005,109,1.0
+1448,The Replacement Killers,"Action,Drama,Crime,Thriller",1998,87,0.0
+1449,Fled,"Action,Comedy,Thriller",1996,98,1.0
+1450,Love & Other Drugs,"Drama,Comedy,Romance",2010,112,1.0
+1451,88 Minutes,"Crime,Mystery,Thriller",2007,108,0.0
+1452,North Country,Drama,2005,126,1.0
+1453,The Whole Ten Yards,"Comedy,Thriller,Crime",2004,98,0.0
+1454,Howard the Duck,"Comedy,Fantasy,Science Fiction",1986,110,0.0
+1455,Pride and Glory,"Thriller,Crime,Drama",2008,130,1.0
+1456,The Cave,"Action,Adventure,Horror,Thriller",2005,97,1.0
+1457,Alex & Emma,"Comedy,Romance",2003,96,1.0
+1458,Wicker Park,"Drama,Mystery,Romance,Thriller",2004,114,0.0
+1459,Fright Night,"Horror,Comedy",2011,106,0.0
+1460,The New World,"Drama,History,Romance",2005,135,0.0
+1461,Godsend,"Drama,Horror,Science Fiction,Thriller",2004,102,0.0
+1462,Chasing Liberty,"Comedy,Romance",2004,111,1.0
+1463,Hoodwinked Too! Hood VS. Evil,"Comedy,Animation,Family",2011,86,1.0
+1464,An Unfinished Life,Drama,2005,108,0.0
+1465,The Imaginarium of Doctor Parnassus,"Adventure,Fantasy,Mystery",2009,123,1.0
+1466,Barney's Version,"Comedy,Drama",2010,134,0.0
+1467,Runner Runner,"Crime,Thriller,Drama",2013,91,1.0
+1468,Antitrust,"Action,Crime,Drama",2001,108,1.0
+1469,Glory,War,1989,122,0.0
+1470,DOA Dead or Alive,"Adventure,Action,Thriller",2006,87,1.0
+1471,The Assassination of Jesse James by the Coward Robert Ford,"Action,Drama,Western",2007,160,0.0
+1472,Machine Gun Preacher,"Action,Thriller,Crime",2011,129,0.0
+1473,Sausage Party,"Adventure,Animation,Comedy,Fantasy",2016,83,1.0
+1474,Pitch Perfect 2,"Comedy,Music",2015,115,0.0
+1475,Walk the Line,"Drama,Music,Romance",2005,136,1.0
+1476,Keeping the Faith,Comedy,2000,127,0.0
+1477,Confessions of a Dangerous Mind,"Comedy,Crime,Drama,Romance,Thriller",2002,113,1.0
+1478,Serving Sara,"Comedy,Romance",2002,100,1.0
+1479,The Boss,Comedy,2016,91,1.0
+1480,Seed of Chucky,"Drama,Horror,Comedy",2004,87,1.0
+1481,The Jacket,"Drama,Mystery,Thriller,Fantasy",2005,103,0.0
+1482,Aladdin,"Animation,Family,Comedy,Adventure,Fantasy,Romance",1992,90,1.0
+1483,Straight Outta Compton,"Drama,Music",2015,147,1.0
+1484,Indiana Jones and the Temple of Doom,"Adventure,Action",1984,118,1.0
+1485,The Rugrats Movie,"Animation,Family",1998,79,0.0
+1486,Along Came a Spider,"Crime,Mystery,Thriller,Action",2001,104,1.0
+1487,Florence Foster Jenkins,"Comedy,Drama",2016,110,0.0
+1488,Once Upon a Time in Mexico,Action,2003,102,1.0
+1489,Die Hard,"Action,Thriller",1988,131,0.0
+1490,Role Models,Comedy,2008,99,1.0
+1491,The Big Short,"Comedy,Drama",2015,130,1.0
+1492,Miracle,"Drama,History",2004,135,0.0
+1493,Dawn of the Dead,"Fantasy,Horror,Action",2004,101,0.0
+1494,The Wedding Planner,Comedy,2001,103,0.0
+1495,The Royal Tenenbaums,"Comedy,Drama",2001,110,0.0
+1496,Identity,"Mystery,Thriller",2003,90,0.0
+1497,Last Vegas,Comedy,2013,105,0.0
+1498,For Your Eyes Only,"Adventure,Action,Thriller",1981,127,0.0
+1499,Serendipity,"Comedy,Romance",2001,90,3.0
+1500,Timecop,"Thriller,Science Fiction,Action,Crime",1994,99,1.0
+1501,Zoolander,Comedy,2001,89,0.0
+1502,Safe Haven,Romance,2013,115,3.0
+1503,Hocus Pocus,"Comedy,Family,Fantasy",1993,96,0.0
+1504,No Reservations,Comedy,2007,104,0.0
+1505,KickAss,"Action,Crime",2010,117,1.0
+1506,30 Minutes or Less,"Action,Adventure,Comedy",2011,83,0.0
+1507,Dracula 2000,"Thriller,Horror",2000,99,0.0
+1508,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Family,Comedy",2014,81,0.0
+1509,Pride & Prejudice,"Drama,Romance",2005,135,0.0
+1510,Blade Runner,"Science Fiction,Drama,Thriller",1982,117,1.0
+1511,Rob Roy,Adventure,1995,139,1.0
+1512,3 Days to Kill,"Action,Drama,Thriller,Crime",2014,113,1.0
+1513,We Own the Night,"Drama,Crime,Thriller",2007,117,0.0
+1514,Just My Luck,"Comedy,Drama,Family,Fantasy,Romance",2006,103,1.0
+1515,"Mystery, Alaska","Drama,Comedy",1999,119,1.0
+1516,The Spy Next Door,"Action,Comedy,Family",2010,94,1.0
+1517,A Simple Wish,"Adventure,Comedy,Family,Fantasy",1997,86,0.0
+1518,Ghosts of Mars,"Action,Horror,Science Fiction",2001,98,1.0
+1519,Our Brand Is Crisis,"Comedy,Drama",2015,108,1.0
+1520,Pride and Prejudice and Zombies,"Romance,Horror,Comedy,Thriller",2016,108,1.0
+1521,Kundun,Drama,1997,134,1.0
+1522,How to Lose Friends & Alienate People,"Comedy,Romance,Drama",2008,110,0.0
+1523,KickAss 2,"Action,Adventure,Crime",2013,103,0.0
+1524,Brick Mansions,"Action,Crime,Drama",2014,90,1.0
+1525,Octopussy,"Adventure,Action,Thriller",1983,131,0.0
+1526,Knocked Up,"Comedy,Romance,Drama",2007,129,0.0
+1527,My Sister's Keeper,Drama,2009,109,3.0
+1528,Welcome Home Roscoe Jenkins,"Comedy,Drama",2008,114,1.0
+1529,A Passage to India,"Drama,Adventure,History",1984,163,0.0
+1530,Notes on a Scandal,"Drama,Romance",2006,92,1.0
+1531,Rendition,"Drama,Thriller",2007,120,0.0
+1532,Star Trek VI The Undiscovered Country,"Science Fiction,Action,Adventure,Thriller",1991,113,0.0
+1533,Kiss the Girls,"Drama,Mystery,Thriller,Crime",1997,115,1.0
+1534,The Blues Brothers,"Music,Comedy,Action,Crime",1980,133,1.0
+1535,The Sisterhood of the Traveling Pants 2,"Adventure,Comedy,Drama,Family",2008,117,0.0
+1536,About a Boy,"Drama,Comedy,Romance",2002,101,3.0
+1537,Lake Placid,"Horror,Comedy,Action,Science Fiction,Thriller",1999,82,1.0
+1538,Lucky Number Slevin,"Drama,Thriller,Crime,Mystery",2006,110,0.0
+1539,The Right Stuff,"Drama,History",1983,193,1.0
+1540,Anonymous,"Drama,History,Thriller",2011,130,1.0
+1541,The Neverending Story,"Drama,Family,Fantasy,Adventure",1984,102,1.0
+1542,Dark City,"Mystery,Science Fiction",1998,100,1.0
+1543,Return to Oz,"Adventure,Family,Fantasy",1985,109,0.0
+1544,The Newton Boys,"Crime,Action,Drama",1998,113,0.0
+1545,Case 39,"Horror,Mystery,Thriller",2009,109,0.0
+1546,Suspect Zero,"Crime,Thriller",2004,99,1.0
+1547,Spy Kids All the Time in the World,"Family,Comedy,Action",2011,89,0.0
+1548,Money Monster,Thriller,2016,98,0.0
+1549,The 51st State,"Thriller,Action,Comedy,Crime",2001,93,1.0
+1550,Mindhunters,"Mystery,Thriller,Crime",2004,106,1.0
+1551,What Just Happened,"Comedy,Drama",2008,104,0.0
+1552,Paul Blart Mall Cop,"Action,Adventure,Comedy,Family",2009,91,1.0
+1553,Freaky Friday,Comedy,2003,97,1.0
+1554,The 40 Year Old Virgin,"Comedy,Romance",2005,116,1.0
+1555,Shakespeare in Love,"Romance,History",1998,122,0.0
+1556,A Walk Among the Tombstones,"Crime,Drama,Mystery,Thriller",2014,113,0.0
+1557,Kindergarten Cop,Comedy,1990,111,0.0
+1558,Pineapple Express,"Action,Comedy",2008,111,1.0
+1559,EverAfter,"Drama,Romance,Comedy",1998,121,1.0
+1560,Open Range,Western,2003,139,1.0
+1561,Flatliners,"Drama,Horror,Science Fiction,Thriller",1990,115,0.0
+1562,A Bridge Too Far,"Drama,History,War",1977,175,0.0
+1563,Red Eye,"Horror,Thriller",2005,85,0.0
+1564,Final Destination 2,"Horror,Mystery",2003,90,0.0
+1565,"O Brother, Where Art Thou?","Action,Adventure,Comedy",2000,106,1.0
+1566,Legion,Horror,2010,100,1.0
+1567,Pain & Gain,"Thriller,Crime,Action",2013,130,0.0
+1568,Clockstoppers,"Adventure,Family,Science Fiction,Thriller",2002,94,1.0
+1569,Brothers,"Drama,Thriller,War",2009,104,0.0
+1570,Agent Cody Banks 2 Destination London,Comedy,2004,100,0.0
+1571,New Year's Eve,"Comedy,Romance",2011,118,1.0
+1572,Original Sin,"Drama,Thriller,Mystery,Romance",2001,118,1.0
+1573,The Raven,"Crime,Thriller,Mystery",2012,111,1.0
+1574,Welcome to Mooseport,Comedy,2004,110,0.0
+1575,Highlander III The Sorcerer,"Action,Fantasy,Science Fiction",1994,99,0.0
+1576,Flipper,"Adventure,Family",1996,95,1.0
+1577,Selfless,"Science Fiction,Mystery,Thriller",2015,116,1.0
+1578,The Constant Gardener,"Drama,Mystery,Thriller",2005,129,0.0
+1579,The Passion of the Christ,Drama,2004,127,1.0
+1580,Mrs. Doubtfire,"Comedy,Drama,Family",1993,125,0.0
+1581,Rain Man,Drama,1988,133,0.0
+1582,Gran Torino,Drama,2008,116,1.0
+1583,W.,"Drama,History",2008,131,1.0
+1584,Taken,"Action,Thriller",2008,93,0.0
+1585,The Best of Me,"Drama,Romance",2014,117,1.0
+1586,The Bodyguard,"Thriller,Action,Drama,Music,Romance",1992,129,1.0
+1587,Schindler's List,"Drama,History,War",1993,195,0.0
+1588,The Help,Drama,2011,146,0.0
+1589,The Fifth Estate,"Drama,Thriller",2013,128,0.0
+1590,Freddy vs. Jason,Horror,2003,97,1.0
+1591,Jimmy Neutron Boy Genius,"Action,Adventure,Animation,Comedy,Family,Fantasy,Science Fiction",2001,83,0.0
+1592,Cloverfield,"Action,Thriller,Science Fiction",2008,85,1.0
+1593,Teenage Mutant Ninja Turtles II The Secret of the Ooze,"Science Fiction,Adventure,Action,Comedy,Family",1991,88,1.0
+1594,The Untouchables,"Crime,Drama,History,Thriller",1987,119,0.0
+1595,No Country for Old Men,"Crime,Drama,Thriller",2007,122,1.0
+1596,Ride Along,"Action,Comedy",2014,99,1.0
+1597,Bridget Jones's Diary,"Comedy,Romance,Drama",2001,97,0.0
+1598,Chocolat,"Comedy,Drama,Romance",2000,121,0.0
+1599,"Legally Blonde 2 Red, White & Blonde",Comedy,2003,95,0.0
+1600,Parental Guidance,Comedy,2012,104,0.0
+1601,No Strings Attached,"Comedy,Romance",2011,107,1.0
+1602,Tombstone,"Action,Adventure,Drama,History,Western",1993,130,1.0
+1603,Romeo Must Die,"Action,Crime,Thriller",2000,115,1.0
+1604,The Omen,"Horror,Thriller",1976,111,0.0
+1605,Final Destination 3,"Horror,Mystery",2006,93,1.0
+1606,The Lucky One,"Drama,Romance",2012,101,0.0
+1607,Bridge to Terabithia,"Adventure,Drama,Family",2007,96,0.0
+1608,Finding Neverland,Drama,2004,106,0.0
+1609,The Grey,"Action,Drama,Thriller",2012,117,0.0
+1610,Hide and Seek,"Horror,Mystery,Thriller",2005,101,0.0
+1611,Anchorman The Legend of Ron Burgundy,Comedy,2004,94,0.0
+1612,GoodFellas,"Drama,Crime",1990,145,0.0
+1613,Agent Cody Banks,Action,2003,102,1.0
+1614,Nanny McPhee,"Fantasy,Comedy,Family",2005,97,1.0
+1615,Scarface,"Action,Crime,Drama,Thriller",1983,170,1.0
+1616,The Last Emperor,"Drama,History",1987,163,1.0
+1617,Contraband,"Thriller,Action,Drama,Crime",2012,109,0.0
+1618,There Will Be Blood,Drama,2007,158,0.0
+1619,Undercover Brother,"Action,Comedy",2002,86,1.0
+1620,The Sisterhood of the Traveling Pants,"Drama,Comedy",2005,119,0.0
+1621,Kiss of the Dragon,"Action,Crime,Thriller",2001,98,0.0
+1622,The House Bunny,"Romance,Comedy",2008,97,1.0
+1623,Beauty Shop,"Comedy,Romance",2005,105,1.0
+1624,Million Dollar Arm,Drama,2014,124,1.0
+1625,The Giver,"Drama,Science Fiction",2014,94,1.0
+1626,Jeepers Creepers 2,"Horror,Thriller",2003,104,1.0
+1627,Good Luck Chuck,"Comedy,Drama,Romance",2007,101,1.0
+1628,Cradle 2 the Grave,"Action,Crime,Drama",2003,101,1.0
+1629,The Hours,Drama,2002,114,1.0
+1630,She's the Man,"Comedy,Drama,Family,Romance",2006,105,1.0
+1631,Mr. Bean's Holiday,"Family,Comedy",2007,90,0.0
+1632,Anacondas The Hunt for the Blood Orchid,"Adventure,Action,Horror,Science Fiction,Thriller",2004,97,0.0
+1633,Blood Ties,"Thriller,Crime,Drama",2013,128,1.0
+1634,August Rush,Drama,2007,114,0.0
+1635,Elizabeth,"Drama,History",1998,124,0.0
+1636,Bride of Chucky,"Horror,Comedy",1998,89,1.0
+1637,Tora! Tora! Tora!,"History,Action,Drama,Adventure,War",1970,144,0.0
+1638,Spice World,"Adventure,Fantasy,Drama,Comedy,Music",1997,93,0.0
+1639,The Sitter,Comedy,2011,81,0.0
+1640,The Shawshank Redemption,"Drama,Crime",1994,142,0.0
+1641,Crocodile Dundee in Los Angeles,"Adventure,Comedy",2001,92,1.0
+1642,Kingpin,Comedy,1996,113,1.0
+1643,The Gambler,"Thriller,Crime,Drama",2014,111,1.0
+1644,August Osage County,"Comedy,Drama",2013,121,0.0
+1645,Ice Princess,"Drama,Comedy,Family",2005,98,0.0
+1646,A Lot Like Love,Comedy,2005,107,1.0
+1647,Eddie the Eagle,"Comedy,Drama,History",2016,106,0.0
+1648,He Got Game,Drama,1998,136,0.0
+1649,Don Juan DeMarco,"Romance,Drama,Comedy",1994,97,0.0
+1650,Dear John,"Drama,Romance,War",2010,115,1.0
+1651,The Losers,"Action,Adventure,Crime,Mystery,Thriller",2010,97,1.0
+1652,Don't Be Afraid of the Dark,"Fantasy,Horror,Thriller",2010,99,0.0
+1653,War,"Action,Thriller,Crime",2007,103,1.0
+1654,PunchDrunk Love,"Comedy,Drama,Romance",2002,95,0.0
+1655,EuroTrip,Comedy,2004,93,0.0
+1656,The Greatest Game Ever Played,"Drama,Family",2005,120,1.0
+1657,The Box,"Thriller,Science Fiction",2009,115,0.0
+1658,The Next Best Thing,Comedy,2000,108,1.0
+1659,My Soul to Take,"Drama,Horror,Mystery,Thriller",2010,107,0.0
+1660,The Girl Next Door,Comedy,2004,108,1.0
+1661,Maximum Risk,"Action,Adventure,Thriller",1996,100,0.0
+1662,Legend,"Crime,Thriller",2015,131,1.0
+1663,Shark Night,"Horror,Thriller",2011,91,0.0
+1664,Angela's Ashes,Drama,1999,145,0.0
+1665,Draft Day,Drama,2014,109,0.0
+1666,The Conspirator,"Crime,Drama,History",2010,122,1.0
+1667,Lords of Dogtown,Drama,2005,107,0.0
+1668,The 33,"Drama,History",2015,120,0.0
+1669,Big Trouble in Little China,"Action,Adventure,Comedy,Fantasy",1986,99,1.0
+1670,Warrior,"Action,Drama",2011,140,0.0
+1671,Michael Collins,"Drama,Thriller",1996,132,1.0
+1672,StopLoss,"Drama,War",2008,113,0.0
+1673,Abandon,"Drama,Mystery,Thriller",2002,99,0.0
+1674,Brokedown Palace,"Drama,Thriller",1999,100,1.0
+1675,The Possession,"Horror,Thriller",2012,92,1.0
+1676,Mrs. Winterbourne,"Comedy,Romance,Drama",1996,105,1.0
+1677,Straw Dogs,"Drama,Thriller",2011,110,0.0
+1678,The Hoax,"Comedy,Drama",2006,116,0.0
+1679,The Road,"Adventure,Drama",2009,111,0.0
+1680,Sheena,"Action,Adventure,Comedy,Fantasy,Science Fiction",1984,117,0.0
+1681,Tank Girl,"Action,Comedy,Fantasy,Science Fiction",1995,98,0.0
+1682,Blindness,"Drama,Mystery,Science Fiction,Thriller",2008,121,0.0
+1683,BloodRayne,"Action,Adventure,Fantasy,Horror",2005,95,1.0
+1684,Carnage,"Comedy,Drama",2011,80,0.0
+1685,Without Limits,Drama,1998,117,0.0
+1686,Me and Orson Welles,"Comedy,Drama,Romance",2009,114,1.0
+1687,La migliore offerta,"Drama,Romance,Crime,Mystery",2013,124,1.0
+1688,The Bad Lieutenant Port of Call  New Orleans,"Drama,Crime",2009,122,1.0
+1689,The Counselor,"Thriller,Crime,Drama",2013,117,1.0
+1690,Waterloo,"History,Action,Drama",1970,128,0.0
+1691,Dangerous Liaisons,"Drama,Romance",1988,119,1.0
+1692,On the Road,"Adventure,Drama",2012,137,0.0
+1693,Star Trek IV The Voyage Home,"Science Fiction,Adventure",1986,119,1.0
+1694,Rocky Balboa,Drama,2006,102,1.0
+1695,Scream 2,"Horror,Mystery",1997,120,0.0
+1696,Jane Got a Gun,"Action,Drama,Western",2016,98,0.0
+1697,Think Like a Man Too,"Comedy,Romance",2014,105,0.0
+1698,The Whole Nine Yards,"Comedy,Crime",2000,98,1.0
+1699,Footloose,"Drama,Family,Music,Romance",1984,107,1.0
+1700,Old School,Comedy,2003,91,0.0
+1701,The Fisher King,"Comedy,Drama",1991,137,0.0
+1702,I Still Know What You Did Last Summer,"Horror,Mystery,Thriller",1998,100,1.0
+1703,Return to Me,"Romance,Comedy,Drama",2000,115,0.0
+1704,Zack and Miri Make a Porno,Comedy,2008,102,1.0
+1705,The Men Who Stare at Goats,"Comedy,War",2009,93,0.0
+1706,Win a Date with Tad Hamilton!,"Comedy,Romance",2004,95,0.0
+1707,Muppets from Space,"Fantasy,Comedy,Science Fiction,Family",1999,87,1.0
+1708,The Wiz,"Adventure,Family,Fantasy,Music",1978,134,1.0
+1709,Ready to Rumble,"Action,Comedy,Drama",2000,107,0.0
+1710,Play It to the Bone,"Comedy,Drama",1999,124,0.0
+1711,I Don't Know How She Does It,"Romance,Comedy",2011,89,1.0
+1712,Piranha 3D,"Comedy,Horror",2010,88,0.0
+1713,Meet the Deedles,"Animation,Comedy,Family",1998,93,1.0
+1714,The Thief and the Cobbler,"Adventure,Fantasy,Animation,Science Fiction,Family",1993,72,1.0
+1715,Faster,"Crime,Drama,Action,Thriller",2010,98,1.0
+1716,Zombieland,"Comedy,Horror",2009,88,1.0
+1717,The Waterboy,Comedy,1998,90,0.0
+1718,The Empire Strikes Back,"Adventure,Action,Science Fiction",1980,124,0.0
+1719,Bad Boys,"Action,Comedy,Crime,Thriller",1995,118,1.0
+1720,The Naked Gun 2� The Smell of Fear,"Comedy,Crime",1991,85,1.0
+1721,Final Destination,Horror,2000,98,0.0
+1722,The Ides of March,Drama,2011,101,1.0
+1723,Pitch Black,"Thriller,Science Fiction,Action",2000,108,1.0
+1724,Her,"Romance,Science Fiction,Drama",2013,126,1.0
+1725,Joy Ride,"Mystery,Thriller,Drama",2001,97,0.0
+1726,The Adventurer The Curse of the Midas Box,"Fantasy,Adventure,Family",2013,99,0.0
+1727,Anywhere But Here,"Drama,Comedy,Romance",1999,114,0.0
+1728,Haywire,"Action,Thriller",2011,93,1.0
+1729,Jaws The Revenge,"Adventure,Thriller",1987,89,1.0
+1730,The End of the Affair,Drama,1999,102,1.0
+1731,Harley Davidson and the Marlboro Man,"Action,Thriller",1991,98,1.0
+1732,In the Valley of Elah,"History,Drama,Thriller,Crime,Mystery",2007,124,1.0
+1733,Chri,"Drama,Comedy,Romance",2009,86,0.0
+1734,Vanity Fair,"Drama,Romance",2004,141,3.0
+1735,1408,"Horror,Thriller",2007,104,1.0
+1736,Spaceballs,"Comedy,Science Fiction",1987,96,1.0
+1737,The Water Diviner,"War,Drama",2014,112,1.0
+1738,Ghost,"Fantasy,Drama,Thriller,Mystery,Romance",1990,127,1.0
+1739,There's Something About Mary,"Romance,Comedy",1998,119,1.0
+1740,The Santa Clause,"Fantasy,Drama,Comedy,Family",1994,97,1.0
+1741,The Rookie,"Drama,Family",2002,127,1.0
+1742,The Game Plan,"Comedy,Family",2007,110,1.0
+1743,The Bridges of Madison County,"Drama,Romance",1995,135,0.0
+1744,The Animal,"Action,Comedy",2001,84,0.0
+1745,Gandhi,"Drama,History",1982,191,0.0
+1746,The HundredFoot Journey,Drama,2014,122,0.0
+1747,The Net,"Crime,Drama,Mystery,Thriller,Action",1995,114,0.0
+1748,I Am Sam,Drama,2001,132,0.0
+1749,Son of God,Drama,2014,138,0.0
+1750,Underworld,"Fantasy,Action,Thriller",2003,121,0.0
+1751,Derailed,"Drama,Thriller",2005,108,1.0
+1752,The Informant!,"Drama,Comedy,Crime",2009,108,0.0
+1753,Deuce Bigalow European Gigolo,Comedy,2005,83,0.0
+1754,Delivery Man,Comedy,2013,105,0.0
+1755,Saving Silverman,"Comedy,Crime,Romance",2001,90,1.0
+1756,Diary of a Wimpy Kid Dog Days,"Comedy,Family",2012,94,1.0
+1757,Jay and Silent Bob Strike Back,Comedy,2001,104,1.0
+1758,The Glass House,"Drama,Thriller",2001,106,0.0
+1759,"Hail, Caesar!","Comedy,Drama,Mystery",2016,106,0.0
+1760,Homefront,"Action,Thriller",2013,100,1.0
+1761,The Little Vampire,"Family,Horror",2000,95,0.0
+1762,RoboCop 3,"Action,Adventure,Crime,Science Fiction,Thriller",1993,104,0.0
+1763,The Transporter Refueled,"Thriller,Action,Crime",2015,96,1.0
+1764,Hit & Run,"Action,Comedy,Romance",2012,100,1.0
+1765,Before I Go to Sleep,"Mystery,Thriller",2014,92,0.0
+1766,Sorcerer,"Action,Thriller,Adventure",1977,121,1.0
+1767,Stone,Drama,2010,105,0.0
+1768,Out of the Furnace,"Thriller,Drama,Crime",2013,116,1.0
+1769,Michael Clayton,"Drama,Mystery,Crime",2007,119,0.0
+1770,To Rome with Love,"Romance,Comedy",2012,111,1.0
+1771,Firefox,"Science Fiction,Action,Adventure,Thriller",1982,136,1.0
+1772,Death at a Funeral,"Comedy,Drama",2007,90,1.0
+1773,Teenage Mutant Ninja Turtles III,"Action,Adventure,Comedy,Family,Fantasy,Science Fiction",1993,96,1.0
+1774,Hardball,"Comedy,Romance",2001,106,1.0
+1775,Silver Linings Playbook,"Drama,Comedy,Romance",2012,122,0.0
+1776,Freedom Writers,"Crime,Drama",2007,123,0.0
+1777,The Transporter,"Action,Crime,Thriller",2002,92,0.0
+1778,Never Back Down,"Drama,Action",2008,115,1.0
+1779,The Rage Carrie 2,"Horror,Thriller,Science Fiction",1999,104,0.0
+1780,Away We Go,"Drama,Comedy,Romance",2009,98,0.0
+1781,Swing Vote,"Drama,Comedy",2008,120,0.0
+1782,Moonlight Mile,"Romance,Drama",2002,117,1.0
+1783,The Beaver,Drama,2011,91,0.0
+1784,The Best Little Whorehouse in Texas,Comedy,1982,114,0.0
+1785,eXistenZ,"Action,Thriller,Science Fiction,Horror",1999,97,0.0
+1786,Raiders of the Lost Ark,"Adventure,Action",1981,115,0.0
+1787,Home Alone 2 Lost in New York,"Comedy,Family,Adventure,Crime",1992,120,1.0
+1788,Close Encounters of the Third Kind,"Science Fiction,Drama",1977,135,1.0
+1789,Pulse,"Horror,Thriller",2006,90,1.0
+1790,Beverly Hills Cop II,"Action,Comedy,Crime",1987,100,1.0
+1791,Bringing Down the House,Comedy,2003,105,1.0
+1792,The Silence of the Lambs,"Crime,Drama,Thriller",1991,119,1.0
+1793,Wayne's World,"Music,Comedy",1992,94,1.0
+1794,Jackass 3D,"Comedy,Documentary,Action",2010,94,0.0
+1795,Jaws 2,"Horror,Thriller",1978,116,0.0
+1796,Beverly Hills Chihuahua,"Adventure,Comedy,Family",2008,91,0.0
+1797,The Conjuring,"Horror,Thriller",2013,112,0.0
+1798,Are We There Yet?,"Adventure,Comedy,Family,Romance",2005,95,1.0
+1799,Tammy,Comedy,2014,97,0.0
+1800,School of Rock,"Comedy,Music",2003,108,0.0
+1801,Mortal Kombat,"Action,Fantasy",1995,101,1.0
+1802,White Chicks,Comedy,2004,109,1.0
+1803,The Descendants,"Comedy,Drama",2011,115,0.0
+1804,12 Years a Slave,"Drama,History",2013,134,1.0
+1805,Drumline,"Drama,Romance,Comedy,Music",2002,118,0.0
+1806,Why Did I Get Married Too?,"Comedy,Romance",2010,121,0.0
+1807,Edward Scissorhands,"Fantasy,Drama,Romance",1990,105,0.0
+1808,Me Before You,"Drama,Romance",2016,110,0.0
+1809,The French Connection,"Action,Crime,Thriller",1971,104,1.0
+1810,Bad Moms,Comedy,2016,100,0.0
+1811,Date Movie,Comedy,2006,83,0.0
+1812,Return to Never Land,"Adventure,Fantasy,Animation,Family",2002,72,0.0
+1813,Selma,"History,Drama",2014,127,0.0
+1814,The Jungle Book 2,"Family,Animation,Adventure",2003,72,1.0
+1815,Boogeyman,"Thriller,Horror,Drama,Mystery",2005,89,1.0
+1816,Premonition,"Thriller,Drama,Mystery",2007,96,1.0
+1817,The Tigger Movie,"Animation,Family",2000,77,1.0
+1818,Orphan,"Horror,Thriller,Mystery",2009,123,1.0
+1819,Max,"Adventure,Drama,Family",2015,111,0.0
+1820,Epic Movie,"Action,Adventure,Comedy",2007,86,1.0
+1821,Spotlight,"Drama,Thriller,History",2015,128,0.0
+1822,Lakeview Terrace,"Drama,Crime,Thriller",2008,110,1.0
+1823,The Grudge 2,"Horror,Thriller",2006,102,1.0
+1824,How Stella Got Her Groove Back,"Comedy,Drama,Romance",1998,124,1.0
+1825,Man of the Year,"Comedy,Drama,Romance,Thriller",2006,115,0.0
+1826,The Black Hole,"Adventure,Family,Science Fiction,Action",1979,98,0.0
+1827,The American,"Crime,Drama,Thriller",2010,104,1.0
+1828,Selena,Drama,1997,127,2.0
+1829,Vampires Suck,"Horror,Comedy",2010,82,1.0
+1830,Babel,Drama,2006,143,1.0
+1831,This Is Where I Leave You,"Drama,Comedy",2014,103,1.0
+1832,Doubt,"Drama,Mystery",2008,104,0.0
+1833,Team America World Police,"Music,Adventure,Animation,Action,Comedy",2004,98,0.0
+1834,Texas Chainsaw 3D,"Horror,Thriller",2013,92,1.0
+1835,Scary Movie 5,Comedy,2013,86,1.0
+1836,Paint Your Wagon,"Drama,Action,Comedy,Western,Music",1969,158,0.0
+1837,Milk,"History,Drama",2008,128,1.0
+1838,Risen,Action,2016,107,0.0
+1839,Ghost Ship,"Horror,Mystery,Thriller",2002,91,0.0
+1840,A Very Harold & Kumar Christmas,Comedy,2011,108,1.0
+1841,Wild Things,"Crime,Drama,Mystery",1998,108,0.0
+1842,The Debt,"Drama,Thriller",2010,113,1.0
+1843,High Fidelity,"Comedy,Drama,Romance,Music",2000,113,0.0
+1844,The Bank Job,"Thriller,Crime,Drama",2008,112,1.0
+1845,Eternal Sunshine of the Spotless Mind,"Science Fiction,Drama,Romance",2004,108,1.0
+1846,You Again,"Comedy,Romance",2010,105,1.0
+1847,Street Kings,"Action,Crime,Drama,Thriller",2008,109,0.0
+1848,The World's End,"Comedy,Action,Science Fiction",2013,109,1.0
+1849,Daybreakers,"Fantasy,Horror,Action,Thriller,Science Fiction",2009,98,0.0
+1850,She's Out of My League,"Comedy,Romance",2010,104,1.0
+1851,Monte Carlo,"Adventure,Comedy,Romance",2011,109,0.0
+1852,Stay Alive,"Horror,Thriller",2006,100,1.0
+1853,Alpha and Omega,"Family,Animation",2010,88,0.0
+1854,The Covenant,"Action,Adventure,Fantasy,Horror,Science Fiction,Thriller",2006,97,1.0
+1855,Shorts,"Comedy,Family",2009,89,0.0
+1856,To Die For,"Fantasy,Drama,Comedy,Thriller",1995,106,1.0
+1857,Nerve,"Mystery,Adventure,Crime",2016,96,0.0
+1858,Appaloosa,"Drama,Western,Crime",2008,115,0.0
+1859,Psycho,"Drama,Horror,Thriller",1960,109,0.0
+1860,My Best Friend's Girl,"Romance,Comedy",2008,101,1.0
+1861,Endless Love,"Drama,Romance",2014,103,1.0
+1862,Under the Rainbow,Comedy,1981,98,1.0
+1863,Ladyhawke,"Adventure,Drama,Fantasy,Romance",1985,121,1.0
+1864,Simon Birch,"Comedy,Drama,Family",1998,114,1.0
+1865,Reign Over Me,Drama,2007,124,1.0
+1866,Into the Wild,"Adventure,Drama",2007,148,0.0
+1867,School for Scoundrels,"Comedy,Drama,Romance",2006,100,0.0
+1868,Silent Hill Revelation 3D,"Thriller,Horror,Mystery",2012,94,1.0
+1869,From Dusk Till Dawn,"Horror,Action,Thriller,Crime",1996,108,0.0
+1870,The Kite Runner,Drama,2007,128,1.0
+1871,21 Grams,"Drama,Crime,Thriller",2003,124,0.0
+1872,Paparazzi,"Action,Drama,Thriller",2004,84,1.0
+1873,A Guy Thing,"Comedy,Romance",2003,101,0.0
+1874,Capitalism A Love Story,Documentary,2009,120,1.0
+1875,The Greatest Story Ever Told,"Drama,History",1965,199,0.0
+1876,Secret in Their Eyes,"Crime,Drama,Mystery",2015,111,1.0
+1877,Disaster Movie,"Action,Comedy",2008,87,1.0
+1878,Armored,"Action,Crime,Drama,Thriller",2009,88,1.0
+1879,The Man Who Knew Too Little,"Comedy,Thriller,Crime,Action",1997,97,1.0
+1880,What's Your Number?,"Comedy,Romance",2011,106,1.0
+1881,Lockout,"Action,Thriller,Science Fiction",2012,95,1.0
+1882,Crank High Voltage,"Action,Thriller,Crime",2009,96,0.0
+1883,One Night with the King,Drama,2006,123,1.0
+1884,The Quiet American,"Drama,Action,Thriller,Romance",2002,101,0.0
+1885,The Weather Man,"Comedy,Drama",2005,101,1.0
+1886,Undisputed,"Action,Adventure,Drama,Thriller",2002,96,0.0
+1887,12 Rounds,"Action,Adventure,Drama,Thriller",2009,108,1.0
+1888,Let Me In,"Drama,Horror,Mystery",2010,116,0.0
+1889,Triple 9,"Action,Thriller",2016,115,1.0
+1890,Deconstructing Harry,"Comedy,Drama",1997,96,1.0
+1891,Burnt,Drama,2015,100,0.0
+1892,Death Sentence,"Action,Crime,Drama,Thriller",2007,105,1.0
+1893,Code Name The Cleaner,"Action,Comedy,Crime",2007,84,1.0
+1894,Connie and Carla,Comedy,2004,98,1.0
+1895,Sweet Charity,"Comedy,Drama,Music,Romance",1969,149,1.0
+1896,Inherent Vice,"Comedy,Romance,Crime,Drama,Mystery",2014,148,1.0
+1897,Battle of the Year,"Music,Drama",2013,110,0.0
+1898,An American Carol,"Comedy,Fantasy",2008,83,0.0
+1899,Machete Kills,"Action,Crime,Thriller",2013,107,1.0
+1900,Little Boy,"Comedy,Drama,War",2015,106,0.0
+1901,A Dangerous Method,"Drama,Thriller",2011,99,1.0
+1902,A Scanner Darkly,"Animation,Science Fiction,Thriller",2006,100,1.0
+1903,Alone in the Dark,"Action,Fantasy,Horror,Thriller",2005,96,0.0
+1904,Bandslam,"Comedy,Drama,Family,Music",2009,111,1.0
+1905,A Most Violent Year,"Crime,Drama,Thriller",2014,125,1.0
+1906,I'm Not There.,"Drama,Music",2007,135,1.0
+1907,The Cold Light of Day,"Action,Thriller",2012,93,1.0
+1908,The Brothers Bloom,"Adventure,Comedy,Drama,Romance",2008,114,1.0
+1909,The Proposition,"Action,Adventure,Crime,Drama,Thriller,Western",2005,104,1.0
+1910,Marci X,Comedy,2003,84,0.0
+1911,Equilibrium,"Action,Science Fiction,Thriller",2002,107,1.0
+1912,By the Sea,"Drama,Romance",2015,122,0.0
+1913,Rapa Nui,Adventure,1994,107,0.0
+1914,Dylan Dog Dead of Night,"Action,Comedy,Horror,Mystery,Science Fiction,Thriller",2011,107,0.0
+1915,The Tempest,"Drama,Fantasy",2010,110,1.0
+1916,The Frozen Ground,"Thriller,Crime",2013,105,1.0
+1917,Dances with Wolves,"Adventure,Drama,Western",1990,181,1.0
+1918,Bad Teacher,Comedy,2011,92,0.0
+1919,Sea of Love,"Drama,Crime,Mystery",1989,113,1.0
+1920,A Cinderella Story,Comedy,2004,95,0.0
+1921,Scream,"Crime,Horror,Mystery",1996,111,1.0
+1922,The Shining,"Horror,Thriller",1980,144,0.0
+1923,Back to the Future,"Adventure,Comedy,Science Fiction,Family",1985,116,1.0
+1924,House on Haunted Hill,"Horror,Mystery,Thriller",1999,93,1.0
+1925,The Switch,"Comedy,Romance,Drama",2010,101,0.0
+1926,Just Married,Comedy,2003,95,0.0
+1927,The Devil's Double,"Drama,Action,Thriller,Crime,War",2011,109,0.0
+1928,The Crazies,"Mystery,Horror,Action",2010,101,1.0
+1929,The Bounty,"Action,Drama,History",1984,132,0.0
+1930,Sex Drive,"Comedy,Adventure,Romance",2008,109,1.0
+1931,Leap Year,"Romance,Comedy",2010,100,1.0
+1932,The Fall of the Roman Empire,"Drama,History",1964,188,1.0
+1933,Take Me Home Tonight,"Comedy,Drama,Romance",2011,97,1.0
+1934,The Nutcracker,"Family,Fantasy,Music",1993,93,1.0
+1935,The Amityville Horror,"Horror,Thriller,Drama",2005,90,0.0
+1936,Adaptation.,"Comedy,Crime,Drama",2002,114,0.0
+1937,Land of the Dead,Horror,2005,93,0.0
+1938,Fear and Loathing in Las Vegas,"Adventure,Drama,Comedy",1998,118,0.0
+1939,The Invention of Lying,"Comedy,Romance,Fantasy",2009,100,0.0
+1940,Neighbors,Comedy,2014,96,1.0
+1941,The Mask,"Romance,Comedy,Crime,Fantasy",1994,101,0.0
+1942,Big,"Fantasy,Drama,Comedy,Romance,Family",1988,104,0.0
+1943,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,2006,82,0.0
+1944,Legally Blonde,Comedy,2001,96,1.0
+1945,Star Trek III The Search for Spock,"Science Fiction,Action,Adventure,Thriller",1984,105,1.0
+1946,The Exorcism of Emily Rose,"Crime,Drama,Horror,Thriller",2005,122,0.0
+1947,Deuce Bigalow Male Gigolo,Comedy,1999,88,1.0
+1948,Left Behind,"Thriller,Action,Science Fiction",2014,110,1.0
+1949,Barbershop 2  Back in Business,"Comedy,Drama",2004,106,1.0
+1950,Bad Santa,"Drama,Comedy,Crime",2003,91,1.0
+1951,Austin Powers International Man of Mystery,"Science Fiction,Comedy,Crime",1997,94,0.0
+1952,My Big Fat Greek Wedding 2,"Romance,Comedy,Family",2016,94,1.0
+1953,Diary of a Wimpy Kid Rodrick Rules,"Family,Comedy",2011,99,1.0
+1954,Predator,"Science Fiction,Action,Adventure,Thriller",1987,107,0.0
+1955,Amadeus,"Drama,History,Music",1984,160,1.0
+1956,Mean Girls,Comedy,2004,97,1.0
+1957,Gosford Park,"Drama,Mystery,Thriller",2001,137,0.0
+1958,Peggy Sue Got Married,"Comedy,Drama,Fantasy,Romance",1986,103,0.0
+1959,Birdman,"Drama,Comedy",2014,119,0.0
+1960,Blue Jasmine,"Comedy,Drama",2013,98,0.0
+1961,United 93,"Drama,History,Crime,Thriller,Action",2006,111,0.0
+1962,Honey,"Romance,Music,Family",2003,94,0.0
+1963,The Fog,Horror,1980,89,0.0
+1964,Soul Surfer,"Action,Drama",2011,106,2.0
+1965,Catch22,"War,Comedy,Drama",1970,121,1.0
+1966,Conan the Destroyer,"Adventure,Fantasy,Action",1984,103,1.0
+1967,Raging Bull,Drama,1980,129,0.0
+1968,Love Happens,"Drama,Romance",2009,109,1.0
+1969,127 Hours,"Adventure,Drama,Thriller",2010,94,1.0
+1970,Center Stage,"Drama,Music",2000,115,1.0
+1971,Love the Coopers,"Comedy,Family",2015,107,1.0
+1972,Catch That Kid,"Family,Action,Adventure",2004,92,0.0
+1973,Steve Jobs,"Drama,History",2015,122,1.0
+1974,The Legend of the Lone Ranger,"Action,Adventure,Romance,Western",1981,98,0.0
+1975,The Tailor of Panama,"Drama,Thriller",2001,109,0.0
+1976,Blow Out,"Drama,Mystery,Thriller",1981,108,1.0
+1977,Getaway,"Action,Crime",2013,90,1.0
+1978,The Ice Storm,Drama,1997,112,1.0
+1979,And So It Goes,"Comedy,Drama,Romance",2014,94,0.0
+1980,Nine 12 Weeks,"Drama,Romance",1986,117,0.0
+1981,Dragonslayer,Fantasy,1981,108,0.0
+1982,Ed Wood,"Comedy,Drama,History",1994,127,0.0
+1983,Labor Day,Drama,2013,111,1.0
+1984,RockNRolla,"Action,Crime,Thriller",2008,114,1.0
+1985,Mao's Last Dancer,"Drama,Romance",2009,117,1.0
+1986,Midnight Special,"Adventure,Drama,Science Fiction",2016,112,0.0
+1987,The Railway Man,"Drama,History",2013,116,1.0
+1988,The Wraith,"Romance,Science Fiction,Horror,Action,Crime",1986,93,1.0
+1989,Salton Sea,"Drama,Mystery,Thriller",2002,103,1.0
+1990,Metallica Through the Never,Music,2013,93,0.0
+1991,The Informers,Drama,2008,98,1.0
+1992,Carlos,"Crime,Drama,Thriller,History",2010,338,0.0
+1993,Day of the Dead,"Horror,Science Fiction",1985,96,0.0
+1994,Red Sonja,"Adventure,Fantasy,Action",1985,89,1.0
+1995,Red Lights,Thriller,2012,119,1.0
+1996,Superbad,Comedy,2007,113,0.0
+1997,Step Up 2 The Streets,"Music,Drama,Romance",2008,98,1.0
+1998,Hoodwinked!,"Animation,Comedy,Family",2005,80,1.0
+1999,Hotel Rwanda,"Drama,History,War",2004,121,0.0
+2000,Hitman,"Action,Crime,Drama,Thriller",2007,89,1.0
+2001,Black Nativity,"Drama,Music",2013,93,0.0
+2002,The Prince,"Thriller,Action",2014,93,0.0
+2003,Aliens,"Horror,Action,Thriller,Science Fiction",1986,137,1.0
+2004,My Fair Lady,"Drama,Family,Music,Romance",1964,170,1.0
+2005,I Know What You Did Last Summer,"Horror,Thriller,Mystery",1997,100,1.0
+2006,Let's Be Cops,Comedy,2014,104,0.0
+2007,Sideways,"Comedy,Drama,Romance",2004,126,1.0
+2008,Beerfest,Comedy,2006,110,1.0
+2009,Halloween,"Horror,Thriller",1978,91,1.0
+2010,The Best Man Holiday,Comedy,2013,123,1.0
+2011,Smokin' Aces,"Action,Comedy,Crime,Thriller",2006,109,0.0
+2012,Saw 3D,"Horror,Crime",2010,90,0.0
+2013,A Night at the Roxbury,Comedy,1998,81,1.0
+2014,Beastly,"Drama,Fantasy,Romance",2011,86,1.0
+2015,The Hills Have Eyes,"Horror,Thriller",2006,107,1.0
+2016,ATL,Drama,2006,105,1.0
+2017,Pitch Perfect,"Comedy,Music,Romance",2012,112,1.0
+2018,Summer Catch,"Drama,Comedy,Romance",2001,108,0.0
+2019,Brooklyn's Finest,"Crime,Drama,Thriller",2009,133,0.0
+2020,55 Days at Peking,"Action,Drama,History",1963,154,0.0
+2021,Evil Dead,Horror,2013,91,1.0
+2022,My Life in Ruins,"Comedy,Romance",2009,95,0.0
+2023,American Dreamz,"Comedy,Drama,Family",2006,107,0.0
+2024,Superman IV The Quest for Peace,"Action,Adventure,Science Fiction",1987,90,1.0
+2025,Running Scared,"Action,Crime,Drama,Thriller",2006,122,0.0
+2026,The Illusionist,"Fantasy,Drama,Thriller,Romance",2006,110,0.0
+2027,Roar,"Adventure,Thriller",1981,102,0.0
+2028,Veronica Guerin,"Drama,Crime,Thriller",2003,98,1.0
+2029,Escobar Paradise Lost,"Thriller,Romance",2014,120,1.0
+2030,Southland Tales,"Action,Adventure,Comedy,Drama,Science Fiction,Thriller",2006,144,1.0
+2031,Damnation Alley,"Action,Adventure,Science Fiction",1977,91,0.0
+2032,The Apparition,"Horror,Thriller",2012,82,1.0
+2033,Fur An Imaginary Portrait of Diane Arbus,"Drama,Mystery,Romance",2006,122,0.0
+2034,Wall Street,"Crime,Drama",1987,126,0.0
+2035,Sense and Sensibility,"Drama,Romance",1995,136,0.0
+2036,Becoming Jane,"Drama,Romance",2007,120,3.0
+2037,Sydney White,Comedy,2007,108,0.0
+2038,House of Sand and Fog,Drama,2003,126,1.0
+2039,Dead Poets Society,Drama,1989,129,0.0
+2040,Dumb and Dumber,Comedy,1994,107,1.0
+2041,When Harry Met Sally,"Comedy,Romance,Drama",1989,96,1.0
+2042,The Verdict,Drama,1982,129,0.0
+2043,Road Trip,"Comedy,Adventure",2000,93,1.0
+2044,The Artist,"Drama,Comedy,Romance",2011,100,1.0
+2045,The Unborn,"Horror,Thriller,Mystery",2009,87,0.0
+2046,Moonrise Kingdom,"Comedy,Drama,Romance",2012,94,0.0
+2047,The Young Messiah,Drama,2016,120,1.0
+2048,Baby Boy,"Crime,Drama,Romance",2001,130,1.0
+2049,The Roommate,"Thriller,Drama,Horror",2011,91,1.0
+2050,Joe Dirt,"Mystery,Adventure,Comedy,Romance,Drama",2001,91,0.0
+2051,Double Impact,"Thriller,Action,Crime,Drama",1991,110,0.0
+2052,Hot Fuzz,"Crime,Action,Comedy",2007,121,1.0
+2053,The Women,"Comedy,Drama,Romance",2008,114,0.0
+2054,Vicky Cristina Barcelona,"Drama,Romance",2008,96,0.0
+2055,Boys and Girls,"Comedy,Drama,Romance",2000,94,1.0
+2056,Jennifer's Body,"Comedy,Horror",2009,100,0.0
+2057,Drowning Mona,"Comedy,Crime,Mystery",2000,96,0.0
+2058,My Stepmother is an Alien,"Comedy,Science Fiction",1988,108,1.0
+2059,Philadelphia,Drama,1993,125,1.0
+2060,The Thirteenth Floor,"Thriller,Science Fiction,Mystery",1999,100,0.0
+2061,The Cookout,"Comedy,Drama",2004,97,0.0
+2062,Detroit Rock City,"Comedy,Music",1999,95,1.0
+2063,Highlander,"Adventure,Action,Fantasy",1986,116,0.0
+2064,Things We Lost in the Fire,Drama,2007,113,0.0
+2065,Steel,"Science Fiction,Action,Adventure",1997,97,1.0
+2066,The Immigrant,"Drama,Romance",2013,117,0.0
+2067,Trance,"Thriller,Crime,Drama,Mystery",2013,101,1.0
+2068,Soul Plane,"Romance,Comedy",2004,86,0.0
+2069,Enter the Void,"Fantasy,Drama",2009,161,0.0
+2070,Hachi A Dog's Tale,"Drama,Family",2009,93,1.0
+2071,The Homesman,"Western,Drama",2014,122,0.0
+2072,Slow Burn,"Mystery,Crime,Drama,Thriller",2005,93,1.0
+2073,Beverly Hills Cop,"Action,Comedy,Crime",1984,105,0.0
+2074,Home Alone,"Comedy,Family",1990,103,1.0
+2075,Tootsie,"Comedy,Romance",1982,116,0.0
+2076,Top Gun,"Action,Romance,War",1986,110,1.0
+2077,American Beauty,Drama,1999,122,0.0
+2078,The King's Speech,"Drama,History",2010,118,0.0
+2079,Twins,Comedy,1988,107,1.0
+2080,The Yellow Handkerchief,"Drama,Romance",2008,102,0.0
+2081,The Color Purple,Drama,1985,154,1.0
+2082,The Imitation Game,"History,Drama,Thriller,War",2014,113,0.0
+2083,Coal Miner's Daughter,"Drama,Music",1980,125,0.0
+2084,Diary of a Wimpy Kid,"Comedy,Family",2010,92,1.0
+2085,Mama,Horror,2013,100,1.0
+2086,National Lampoon's Vacation,"Comedy,Adventure,Romance",1983,98,1.0
+2087,Jackass Presents Bad Grandpa,Comedy,2013,92,0.0
+2088,The Queen,Drama,2006,103,0.0
+2089,Beetlejuice,"Fantasy,Comedy",1988,92,1.0
+2090,Why Did I Get Married?,"Comedy,Drama",2007,113,1.0
+2091,The Woman in Black,"Drama,Horror,Thriller",2012,95,0.0
+2092,When a Stranger Calls,"Horror,Thriller",2006,87,1.0
+2093,Big Fat Liar,"Comedy,Family",2002,88,1.0
+2094,The Deer Hunter,"Drama,War",1978,183,1.0
+2095,Wag the Dog,"Comedy,Drama",1997,97,1.0
+2096,The Lizzie McGuire Movie,"Family,Comedy",2003,94,1.0
+2097,Snitch,"Thriller,Drama",2013,112,0.0
+2098,Krampus,"Horror,Comedy,Fantasy",2015,98,1.0
+2099,The Faculty,"Horror,Mystery,Science Fiction",1998,104,1.0
+2100,Cop Land,"Action,Crime,Drama",1997,104,1.0
+2101,Not Another Teen Movie,Comedy,2001,89,1.0
+2102,End of Watch,"Crime,Drama,Thriller",2012,109,1.0
+2103,The Skulls,"Crime,Drama,Thriller",2000,106,1.0
+2104,The Theory of Everything,"Drama,Romance",2014,123,1.0
+2105,Where the Heart Is,"Comedy,Drama,Romance",2000,120,0.0
+2106,Lawrence of Arabia,"Adventure,Drama,History,War",1962,216,1.0
+2107,Halloween II,Horror,2009,105,1.0
+2108,Wild,Drama,2014,115,0.0
+2109,The Last House on the Left,"Crime,Thriller,Horror,Drama",2009,110,1.0
+2110,The Wedding Date,"Comedy,Romance",2005,88,0.0
+2111,Halloween Resurrection,"Horror,Thriller",2002,94,0.0
+2112,The Princess Bride,"Adventure,Family,Fantasy,Comedy,Romance",1987,98,0.0
+2113,The Great Debaters,Drama,2007,126,1.0
+2114,Drive,"Drama,Action,Thriller,Crime",2011,100,0.0
+2115,Confessions of a Teenage Drama Queen,Comedy,2004,89,1.0
+2116,The Object of My Affection,"Comedy,Drama,Romance",1998,111,0.0
+2117,28 Weeks Later,"Horror,Thriller,Science Fiction",2007,100,0.0
+2118,When the Game Stands Tall,Drama,2014,115,1.0
+2119,Because of WinnDixie,"Comedy,Drama,Family",2005,106,0.0
+2120,Love & Basketball,"Action,Comedy,Drama,Romance",2000,124,1.0
+2121,All About Steve,Comedy,2009,99,1.0
+2122,The Craft,"Drama,Fantasy,Horror,Thriller",1996,101,1.0
+2123,Match Point,"Drama,Thriller,Crime,Romance",2005,124,0.0
+2124,The Remains of the Day,"Drama,Romance",1993,134,0.0
+2125,Boogie Nights,Drama,1997,155,0.0
+2126,Flicka,Drama,2006,95,0.0
+2127,Urban Legends Final Cut,Horror,2000,97,0.0
+2128,The Marine,"Action,Adventure,Drama,Thriller",2006,92,0.0
+2129,Keanu,"Action,Comedy",2016,94,1.0
+2130,Country Strong,"Drama,Romance",2010,117,1.0
+2131,Disturbing Behavior,"Mystery,Horror,Science Fiction",1998,84,1.0
+2132,The Place Beyond the Pines,"Drama,Crime",2013,140,1.0
+2133,The November Man,"Crime,Action,Thriller",2014,108,1.0
+2134,The Hurt Locker,"Drama,Thriller,War",2008,131,1.0
+2135,Firestarter,"Fantasy,Drama,Horror,Action,Thriller",1984,114,1.0
+2136,Killing Them Softly,"Crime,Thriller",2012,97,0.0
+2137,A Most Wanted Man,Thriller,2014,121,0.0
+2138,U2 3D,"Music,Documentary",2007,85,1.0
+2139,Highlander Endgame,"Action,Fantasy,Science Fiction",2000,87,1.0
+2140,One Day,"Drama,Romance",2011,107,1.0
+2141,Whip It,Drama,2009,111,0.0
+2142,Knockaround Guys,"Crime,Thriller",2001,92,1.0
+2143,The Man with the Iron Fists,Action,2012,96,0.0
+2144,Home Fries,"Drama,Comedy,Romance",1998,93,0.0
+2145,Raise Your Voice,"Music,Drama,Romance",2004,103,1.0
+2146,The Big Lebowski,"Comedy,Crime",1998,117,1.0
+2147,Black Snake Moan,Drama,2006,116,1.0
+2148,Dark Blue,"Action,Crime,Drama,Thriller",2002,118,1.0
+2149,A Mighty Heart,"Drama,Thriller",2007,100,1.0
+2150,Whatever It Takes,"Drama,Comedy,Romance",2000,94,0.0
+2151,Boat Trip,Comedy,2002,94,1.0
+2152,In Bruges,"Comedy,Drama,Crime",2008,107,0.0
+2153,The Rocker,"Comedy,Music",2008,102,0.0
+2154,Post Grad,Comedy,2009,89,1.0
+2155,Promised Land,Drama,2012,106,1.0
+2156,Whatever Works,"Comedy,Romance",2009,92,1.0
+2157,The In Crowd,Thriller,2000,105,0.0
+2158,The Three Burials of Melquiades Estrada,"Adventure,Crime,Drama,Mystery,Western",2005,121,0.0
+2159,Kiss Kiss Bang Bang,"Action,Comedy,Crime,Mystery",2005,103,1.0
+2160,Idle Hands,"Thriller,Comedy,Horror",1999,92,1.0
+2161,Mulholland Drive,"Thriller,Drama,Mystery",2001,147,0.0
+2162,Never Let Me Go,"Drama,Romance,Science Fiction",2010,104,0.0
+2163,Transsiberian,"Thriller,Crime,Mystery",2008,111,1.0
+2164,Funny Games,"Horror,Thriller,Crime",2007,112,0.0
+2165,Things to Do in Denver When You're Dead,"Drama,Crime",1995,116,1.0
+2166,Centurion,"Adventure,Action,Drama",2010,97,0.0
+2167,Silent Trigger,"Drama,Action,Thriller",1996,93,0.0
+2168,The Midnight Meat Train,"Mystery,Drama,Crime,Thriller,Horror",2008,98,0.0
+2169,All The Queen's Men,"Action,Comedy,Drama,History",2001,99,0.0
+2170,The Good Night,"Comedy,Drama,Romance,Fantasy,Music",2007,93,0.0
+2171,Khumba,"Animation,Adventure,Family",2013,85,1.0
+2172,Groundhog Day,"Romance,Fantasy,Drama,Comedy",1993,101,1.0
+2173,Magic Mike XXL,"Comedy,Drama,Music",2015,115,0.0
+2174,Romeo + Juliet,"Drama,Romance",1996,120,1.0
+2175,Unforgiven,Western,1992,131,1.0
+2176,Slumdog Millionaire,"Drama,Romance",2008,120,1.0
+2177,Fatal Attraction,"Drama,Romance,Thriller",1987,119,1.0
+2178,Pretty Woman,"Romance,Comedy",1990,119,0.0
+2179,Born on the Fourth of July,"Drama,War",1989,145,0.0
+2180,Cool Runnings,Comedy,1993,98,3.0
+2181,My Bloody Valentine,"Mystery,Horror",2009,101,1.0
+2182,Stomp the Yard,"Drama,Music",2007,114,1.0
+2183,The Spy Who Loved Me,"Adventure,Action,Thriller",1977,125,0.0
+2184,Urban Legend,"Horror,Thriller",1998,99,1.0
+2185,White Fang,"Action,Adventure,Drama,Family",1991,107,1.0
+2186,The Iron Lady,"History,Drama",2011,105,1.0
+2187,Poetic Justice,"Drama,Romance",1993,109,0.0
+2188,All About the Benjamins,"Action,Adventure,Comedy",2002,95,1.0
+2189,Vampire in Brooklyn,"Comedy,Horror,Romance",1995,100,0.0
+2190,Exorcist II The Heretic,"Horror,Thriller,Fantasy",1977,118,0.0
+2191,A Perfect Getaway,"Thriller,Mystery,Adventure",2009,98,0.0
+2192,Our Family Wedding,Comedy,2010,103,0.0
+2193,Tea with Mussolini,"Comedy,Drama,War",1999,117,0.0
+2194,I Think I Love My Wife,"Comedy,Romance",2007,90,1.0
+2195,Jason X,"Horror,Science Fiction",2001,91,1.0
+2196,Head Over Heels,"Comedy,Romance",2001,86,1.0
+2197,Fun Size,Comedy,2012,87,0.0
+2198,Little Children,"Romance,Drama",2006,136,0.0
+2199,Gossip,"Drama,Mystery,Thriller",2000,90,0.0
+2200,Jefferson in Paris,"Drama,Romance",1995,139,0.0
+2201,Margaret,Drama,2011,149,0.0
+2202,Flipped,"Romance,Drama",2010,89,0.0
+2203,Brokeback Mountain,"Drama,Romance",2005,134,2.0
+2204,Far from Heaven,"Drama,Romance",2002,107,0.0
+2205,Hot Tub Time Machine 2,Comedy,2015,93,1.0
+2206,Quills,Drama,2000,124,0.0
+2207,Seven Psychopaths,"Comedy,Crime",2012,110,1.0
+2208,Under the Skin,"Thriller,Science Fiction,Drama",2014,108,1.0
+2209,"Good Morning, Vietnam","Comedy,Drama,War",1987,121,0.0
+2210,The Last Godfather,"Action,Comedy,Thriller",2010,100,0.0
+2211,Justin Bieber Never Say Never,"Documentary,Music,Family",2011,105,0.0
+2212,Black Swan,"Drama,Thriller",2010,108,1.0
+2213,The Godfather Part II,"Drama,Crime",1974,200,1.0
+2214,Save the Last Dance,"Drama,Family,Romance,Music",2001,112,1.0
+2215,A Nightmare on Elm Street 4 The Dream Master,"Horror,Thriller",1988,99,1.0
+2216,Miracles from Heaven,Drama,2016,117,0.0
+2217,"Dude, Wheres My Car?",Comedy,2000,83,1.0
+2218,Young Guns,"Crime,Action,Adventure,Drama,Western",1988,107,0.0
+2219,St. Vincent,Comedy,2014,102,0.0
+2220,About Last Night,"Comedy,Romance",2014,100,0.0
+2221,10 Things I Hate About You,"Comedy,Romance,Drama",1999,97,0.0
+2222,The Shallows,"Horror,Drama,Thriller",2016,86,0.0
+2223,The Butterfly Effect,"Science Fiction,Thriller",2004,113,1.0
+2224,Baby Geniuses,"Science Fiction,Comedy,Family",1999,97,0.0
+2225,The Big Hit,"Action,Adventure,Comedy,Thriller",1998,91,1.0
+2226,Child's Play 2,"Drama,Horror",1990,84,1.0
+2227,No Good Deed,"Crime,Thriller",2014,83,0.0
+2228,The Mist,"Science Fiction,Horror,Thriller",2007,126,1.0
+2229,Ex Machina,"Drama,Science Fiction",2015,108,0.0
+2230,Being John Malkovich,"Fantasy,Drama,Comedy",1999,112,0.0
+2231,Earth to Echo,"Family,Adventure,Science Fiction",2014,89,1.0
+2232,CrazyBeautiful,"Drama,Romance",2001,99,0.0
+2233,Letters from Iwo Jima,"Action,Adventure,Drama,War",2006,141,0.0
+2234,The Astronaut Farmer,"Adventure,Comedy,Drama,Science Fiction",2006,104,1.0
+2235,Woo,"Comedy,Romance",1998,84,0.0
+2236,Room,"Drama,Thriller",2015,117,2.0
+2237,Serial Mom,"Comedy,Crime,Horror,Thriller",1994,95,0.0
+2238,Dick,Comedy,1999,94,1.0
+2239,54,"Music,Drama",1998,106,0.0
+2240,21 & Over,Comedy,2013,93,1.0
+2241,Admission,"Comedy,Drama,Romance",2013,107,1.0
+2242,Chloe,"Drama,Thriller,Mystery",2009,96,1.0
+2243,Faithful,"Comedy,Crime,Drama",1996,91,0.0
+2244,Find Me Guilty,"Drama,Action,Comedy,Crime",2006,125,0.0
+2245,The Perks of Being a Wallflower,"Drama,Romance",2012,102,1.0
+2246,Excessive Force,Action,1993,87,1.0
+2247,Infamous,Drama,2006,110,1.0
+2248,The Vatican Tapes,"Thriller,Horror",2015,91,0.0
+2249,Attack the Block,"Action,Comedy,Science Fiction",2011,88,1.0
+2250,In the Land of Blood and Honey,"Drama,Romance,War",2011,127,0.0
+2251,The Call,"Crime,Thriller",2013,94,1.0
+2252,I Love You Phillip Morris,"Comedy,Drama,Romance",2009,98,0.0
+2253,Antwone Fisher,"Drama,Romance",2002,120,0.0
+2254,True Romance,"Action,Thriller,Crime,Romance",1993,120,0.0
+2255,Glengarry Glen Ross,"Crime,Drama,Mystery",1992,100,0.0
+2256,Sorority Row,"Horror,Mystery,Thriller",2009,101,0.0
+2257,Lars and the Real Girl,"Comedy,Romance,Drama",2007,106,1.0
+2258,The Boy in the Striped Pyjamas,"War,Drama",2008,94,0.0
+2259,Dancer in the Dark,"Drama,Crime,Music",2000,140,0.0
+2260,The Funeral,"Crime,Drama",1996,99,0.0
+2261,Solitary Man,"Comedy,Drama,Romance",2009,90,1.0
+2262,Machete,"Action,Comedy,Thriller",2010,105,1.0
+2263,Casino Jack,"Crime,Comedy,Drama",2010,108,1.0
+2264,The Land Before Time,"Animation,Adventure,Family",1988,69,0.0
+2265,The Perfect Game,"Drama,Family",2010,118,0.0
+2266,The Exorcist,"Drama,Horror,Thriller",1973,122,1.0
+2267,Jaws,"Horror,Thriller,Adventure",1975,124,1.0
+2268,American Pie,"Comedy,Romance",1999,95,1.0
+2269,The Golden Child,"Action,Adventure,Comedy",1986,94,1.0
+2270,Think Like a Man,"Comedy,Romance",2012,122,1.0
+2271,Barbershop,"Comedy,Drama",2002,102,0.0
+2272,Star Trek II The Wrath of Khan,"Action,Adventure,Science Fiction,Thriller",1982,113,1.0
+2273,Ace Ventura Pet Detective,"Comedy,Mystery",1994,86,1.0
+2274,WarGames,"Thriller,Science Fiction",1983,114,1.0
+2275,Witness,"Crime,Drama,Romance,Thriller",1985,113,0.0
+2276,Act of Valor,"Action,Thriller,War",2012,110,1.0
+2277,Step Up,"Music,Drama,Romance,Crime",2006,104,0.0
+2278,Jackie Brown,"Comedy,Crime,Romance",1997,154,0.0
+2279,Harold & Kumar Escape from Guantanamo Bay,"Comedy,Adventure",2008,107,0.0
+2280,Chronicle,"Science Fiction,Drama,Thriller",2012,84,1.0
+2281,Yentl,"Music,Drama,Romance",1983,132,0.0
+2282,Time Bandits,"Family,Fantasy,Science Fiction,Adventure,Comedy",1981,116,1.0
+2283,Crossroads,"Action,Adventure,Comedy,Drama,Family,Music,Romance",2002,93,0.0
+2284,Project X,"Comedy,Crime",2012,88,0.0
+2285,Patton,"Drama,History,War",1970,172,0.0
+2286,One Hour Photo,"Horror,Thriller",2002,96,0.0
+2287,Quarantine,"Horror,Science Fiction,Thriller",2008,89,1.0
+2288,The Eye,"Drama,Horror,Thriller",2008,98,1.0
+2289,Johnson Family Vacation,"Comedy,Family",2004,97,0.0
+2290,How High,Comedy,2001,93,1.0
+2291,Frida,"Drama,Romance",2002,123,0.0
+2292,Katy Perry Part of Me,"Documentary,Music",2012,93,0.0
+2293,The Fault in Our Stars,"Romance,Drama",2014,125,0.0
+2294,Rounders,"Drama,Crime",1998,121,1.0
+2295,Prophecy,"Horror,Science Fiction",1979,102,0.0
+2296,Stir of Echoes,"Horror,Mystery,Thriller",1999,99,0.0
+2297,Philomena,Drama,2013,98,1.0
+2298,Aquamarine,"Fantasy,Romance,Family,Comedy",2006,104,1.0
+2299,Paper Towns,"Drama,Mystery,Romance",2015,109,1.0
+2300,Nebraska,"Drama,Adventure",2013,115,0.0
+2301,Max Keeble's Big Move,"Comedy,Family,Fantasy,Science Fiction",2001,86,0.0
+2302,Young Adult,"Comedy,Drama",2011,94,1.0
+2303,Crank,"Action,Thriller,Crime",2006,88,0.0
+2304,Living Out Loud,"Comedy,Drama,Romance",1998,100,1.0
+2305,Arbitrage,"Drama,Thriller",2012,100,0.0
+2306,Project Almanac,"Science Fiction,Thriller",2015,106,1.0
+2307,Fortress,"Action,Thriller,Science Fiction",1992,95,0.0
+2308,For Your Consideration,"Comedy,Drama",2006,86,0.0
+2309,Running with Scissors,"Drama,Comedy",2006,116,1.0
+2310,From Justin to Kelly,"Comedy,Romance",2003,90,2.0
+2311,Girl 6,Comedy,1996,108,1.0
+2312,In the Cut,"Mystery,Thriller",2003,119,0.0
+2313,Two Lovers,"Drama,Romance",2008,110,1.0
+2314,Stoker,"Drama,Horror,Thriller",2013,99,1.0
+2315,Ondine,"Drama,Romance",2009,111,1.0
+2316,5 Days of War,"War,Drama",2011,113,1.0
+2317,Heaven is for Real,Drama,2014,99,1.0
+2318,Snatch,"Thriller,Crime",2000,103,0.0
+2319,Pet Sematary,"Drama,Horror",1989,103,0.0
+2320,Gremlins,"Fantasy,Horror,Comedy",1984,106,0.0
+2321,Star Wars,"Adventure,Action,Science Fiction",1977,121,1.0
+2322,Dirty Grandpa,Comedy,2016,102,1.0
+2323,Doctor Zhivago,"Drama,Romance,War",1965,197,1.0
+2324,The Fighter,Drama,2010,116,1.0
+2325,Jackass Number Two,"Action,Comedy,Documentary",2006,95,0.0
+2326,My Cousin Vinny,"Comedy,Drama",1992,120,1.0
+2327,If I Stay,Drama,2014,106,1.0
+2328,Major League,Comedy,1989,107,0.0
+2329,Phone Booth,"Thriller,Drama",2002,81,0.0
+2330,A Walk to Remember,"Drama,Romance",2002,101,1.0
+2331,Dead Man Walking,Drama,1995,122,1.0
+2332,Cruel Intentions,"Drama,Romance,Thriller",1999,97,1.0
+2333,Saw VI,"Horror,Mystery",2009,90,1.0
+2334,History of the World Part I,Comedy,1981,92,1.0
+2335,The Secret Life of Bees,Adventure,2008,114,1.0
+2336,Corky Romano,"Action,Comedy,Crime",2001,86,1.0
+2337,Raising Cain,"Drama,Horror,Thriller,Crime",1992,91,1.0
+2338,F.I.S.T.,"Drama,Action",1978,145,1.0
+2339,Invaders from Mars,Science Fiction,1986,100,0.0
+2340,Brooklyn,"Drama,Romance",2015,111,0.0
+2341,Barry Lyndon,"Drama,Romance,War",1975,184,0.0
+2342,Out Cold,Comedy,2001,89,0.0
+2343,The Ladies Man,Comedy,2000,84,0.0
+2344,Quartet,"Drama,Comedy,Romance",2012,98,1.0
+2345,Tomcats,"Comedy,Romance",2001,95,1.0
+2346,Frailty,"Drama,Thriller,Crime",2001,100,1.0
+2347,Woman in Gold,Drama,2015,120,0.0
+2348,Slackers,"Comedy,Romance",2002,86,1.0
+2349,What's Eating Gilbert Grape,"Romance,Drama",1993,118,1.0
+2350,The Visual Bible The Gospel of John,"Drama,History",2003,125,1.0
+2351,The Perez Family,"Comedy,Drama,Romance",1995,113,0.0
+2352,Inside Llewyn Davis,"Drama,Music",2013,105,0.0
+2353,Return to the Blue Lagoon,"Drama,Adventure,Romance",1991,98,0.0
+2354,The Molly Maguires,"Drama,History",1970,124,1.0
+2355,Saw V,"Horror,Thriller,Crime",2008,92,0.0
+2356,An Ideal Husband,"Drama,Comedy,Romance",1999,97,0.0
+2357,2001 A Space Odyssey,"Science Fiction,Mystery,Adventure",1968,149,0.0
+2358,E.T. the ExtraTerrestrial,"Science Fiction,Adventure,Family,Fantasy",1982,115,0.0
+2359,In the Land of Women,"Romance,Comedy,Drama",2007,97,1.0
+2360,There Goes My Baby,"Drama,Comedy",1994,99,0.0
+2361,For Greater Glory  The True Story of Cristiada,"History,Drama",2012,145,1.0
+2362,Good Will Hunting,Drama,1997,126,0.0
+2363,Saw III,"Horror,Thriller,Crime",2006,108,0.0
+2364,Stripes,"Action,Comedy",1981,106,0.0
+2365,Bring It On,Comedy,2000,98,1.0
+2366,The Purge Election Year,"Action,Horror,Thriller",2016,105,1.0
+2367,She's All That,"Comedy,Romance",1999,95,1.0
+2368,Saw IV,"Horror,Thriller,Crime",2007,93,1.0
+2369,White Noise,"Drama,Horror,Thriller",2005,101,1.0
+2370,Madea's Family Reunion,"Drama,Comedy,Romance",2006,110,0.0
+2371,The Color of Money,Drama,1986,119,0.0
+2372,The Longest Day,"Action,Drama,History,War",1962,178,0.0
+2373,The Mighty Ducks,"Comedy,Family",1992,101,0.0
+2374,The Grudge,"Horror,Mystery,Thriller",2004,92,1.0
+2375,Happy Gilmore,Comedy,1996,92,0.0
+2376,Jeepers Creepers,"Horror,Thriller",2001,90,0.0
+2377,Bill & Ted's Excellent Adventure,"Adventure,Comedy,Science Fiction",1989,90,1.0
+2378,Oliver!,"Drama,Family,Music",1968,153,1.0
+2379,The Best Exotic Marigold Hotel,"Drama,Comedy",2011,124,1.0
+2380,Recess School's Out,"Science Fiction,Animation,Comedy,Family",2001,83,0.0
+2381,Mad Max Beyond Thunderdome,"Action,Adventure,Science Fiction",1985,107,1.0
+2382,Commando,"Action,Adventure,Thriller",1985,90,1.0
+2383,The Boy,"Horror,Mystery,Thriller",2016,97,1.0
+2384,Devil,"Horror,Mystery,Thriller",2010,80,1.0
+2385,Friday After Next,Comedy,2002,85,1.0
+2386,Insidious Chapter 3,"Drama,Horror,Thriller",2015,97,1.0
+2387,The Last Dragon,"Action,Adventure,Comedy",1985,108,1.0
+2388,The Lawnmower Man,"Horror,Thriller,Science Fiction",1992,108,1.0
+2389,Nick and Norah's Infinite Playlist,"Comedy,Music,Romance",2008,89,1.0
+2390,Dogma,"Fantasy,Comedy,Adventure",1999,130,1.0
+2391,Twilight Zone The Movie,"Drama,Fantasy,Horror,Science Fiction,Thriller",1983,101,1.0
+2392,Road House,"Action,Thriller",1989,114,0.0
+2393,A Low Down Dirty Shame,"Action,Comedy,Crime",1994,100,1.0
+2394,Swimfan,"Drama,Thriller",2002,84,1.0
+2395,Employee of the Month,"Comedy,Romance",2006,103,0.0
+2396,Can't Hardly Wait,"Comedy,Drama,Romance",1998,100,1.0
+2397,The Outsiders,"Crime,Drama",1983,91,1.0
+2398,Pete's Dragon,"Adventure,Family,Fantasy",2016,102,1.0
+2399,The Dead Zone,"Horror,Science Fiction,Thriller",1983,103,1.0
+2400,Sinister 2,Horror,2015,97,0.0
+2401,Sparkle,"Drama,Music",2012,116,0.0
+2402,The Fourth Kind,"Mystery,Science Fiction,Thriller",2009,98,0.0
+2403,Rushmore,"Comedy,Drama",1998,93,1.0
+2404,Skyline,Science Fiction,2010,100,1.0
+2405,The Second Best Exotic Marigold Hotel,"Drama,Comedy",2015,122,0.0
+2406,Mo' Better Blues,"Drama,Romance",1990,129,1.0
+2407,Tremors,"Action,Horror",1990,96,1.0
+2408,Wrong Turn,"Horror,Thriller",2003,84,0.0
+2409,The Long Riders,"Western,History",1980,99,1.0
+2410,The Corruptor,"Action,Crime,Mystery,Thriller",1999,110,1.0
+2411,Mud,Drama,2013,130,1.0
+2412,Reno 911! Miami,"Action,Adventure,Comedy,Crime",2007,84,0.0
+2413,My Week with Marilyn,Drama,2011,99,0.0
+2414,The Matador,"Action,Comedy,Crime,Drama,Thriller",2005,96,1.0
+2415,The Gift,"Thriller,Mystery",2015,108,0.0
+2416,Office Space,"Comedy,Crime",1999,89,1.0
+2417,Drop Dead Gorgeous,Comedy,1999,98,0.0
+2418,Big Eyes,Drama,2014,105,1.0
+2419,Very Bad Things,"Comedy,Crime,Thriller",1998,100,1.0
+2420,Body Double,"Crime,Mystery,Horror,Thriller",1984,114,0.0
+2421,MacGruber,"Action,Adventure,Comedy",2010,90,1.0
+2422,Movie 43,Comedy,2013,90,0.0
+2423,Seeking a Friend for the End of the World,"Comedy,Drama,Romance,Science Fiction",2012,101,1.0
+2424,American History X,Drama,1998,119,1.0
+2425,The Red Violin,"Drama,Thriller,Mystery,Music,Romance",1998,131,0.0
+2426,Bad Words,Comedy,2013,88,0.0
+2427,Run Fatboy Run,"Comedy,Romance",2007,100,0.0
+2428,Heartbeeps,"Comedy,Romance,Family",1981,79,1.0
+2429,Black or White,Drama,2014,121,1.0
+2430,Rescue Dawn,"Adventure,Drama,War",2006,126,1.0
+2431,Danny Collins,"Comedy,Drama,Music",2015,107,1.0
+2432,"Jeff, Who Lives at Home","Drama,Comedy",2011,83,1.0
+2433,Romeo Is Bleeding,"Action,Crime,Drama,Thriller",1993,100,0.0
+2434,The Limey,"Action,Crime,Drama,Mystery,Thriller",1999,89,0.0
+2435,Crash,Drama,2004,112,1.0
+2436,The House of Mirth,"Drama,Romance",2000,140,0.0
+2437,The Forest,"Horror,Thriller",2016,95,0.0
+2438,Sphinx,"Adventure,Mystery,Thriller",1981,118,1.0
+2439,While We're Young,"Comedy,Drama,Mystery",2015,97,0.0
+2440,A Better Life,Drama,2011,98,0.0
+2441,Gun Shy,"Action,Comedy,Romance,Thriller",2000,101,1.0
+2442,The Iceman,"Thriller,Crime,Drama",2012,105,1.0
+2443,Killer Joe,"Crime,Drama,Thriller",2011,102,1.0
+2444,The Joneses,"Comedy,Drama",2009,96,1.0
+2445,My Blueberry Nights,"Drama,Romance",2007,111,0.0
+2446,Swept Away,"Comedy,Romance",2002,89,1.0
+2447,"War, Inc.","Action,Adventure,Comedy,Thriller",2008,106,0.0
+2448,Coriolanus,"Drama,Thriller",2011,123,0.0
+2449,World's Greatest Dad,"Comedy,Romance",2009,99,0.0
+2450,"An Alan Smithee Film Burn, Hollywood, Burn",Comedy,1998,86,1.0
+2451,Strangerland,"Drama,Thriller",2015,111,1.0
+2452,Janky Promoters,Comedy,2009,85,0.0
+2453,Nurse 3D,"Horror,Thriller",2013,99,0.0
+2454,Adventureland,Comedy,2009,107,0.0
+2455,The Lost City,"Drama,Romance",2005,144,0.0
+2456,Next Friday,Comedy,2000,98,1.0
+2457,You Only Live Twice,"Action,Thriller,Adventure",1967,117,0.0
+2458,Poltergeist III,"Horror,Thriller",1988,98,1.0
+2459,"It's a Mad, Mad, Mad, Mad World","Action,Adventure,Comedy,Crime",1963,163,0.0
+2460,Alien,"Horror,Action,Thriller,Science Fiction",1979,117,0.0
+2461,The Texas Chain Saw Massacre,Horror,1974,83,0.0
+2462,The Runaways,"Drama,Music",2010,106,1.0
+2463,Fiddler on the Roof,"Drama,Romance",1971,181,0.0
+2464,Thunderball,"Adventure,Action,Thriller",1965,130,1.0
+2465,Set It Off,"Drama,Action,Crime",1996,118,1.0
+2466,The Best Man,"Drama,Comedy",1999,120,1.0
+2467,Child's Play,"Horror,Thriller",1988,87,0.0
+2468,Sicko,Documentary,2007,123,1.0
+2469,The Purge Anarchy,"Horror,Thriller",2014,104,1.0
+2470,Harold & Kumar Go to White Castle,"Comedy,Adventure",2004,88,1.0
+2471,Boiler Room,"Crime,Drama,Thriller",2000,118,0.0
+2472,Trading Places,Comedy,1983,116,0.0
+2473,Black Christmas,"Horror,Thriller",2006,84,1.0
+2474,The Way of the Gun,"Action,Crime,Drama,Thriller",2000,119,0.0
+2475,Igby Goes Down,"Comedy,Drama",2002,97,0.0
+2476,PCU,Comedy,1994,79,1.0
+2477,Gracie,Drama,2007,97,1.0
+2478,Glee The Concert Movie,"Documentary,Music,Family",2011,84,0.0
+2479,Princess Kaiulani,Drama,2010,130,0.0
+2480,Opal Dream,"Drama,Family,Foreign",2006,86,0.0
+2481,Undiscovered,"Comedy,Romance",2005,97,1.0
+2482,Crocodile Dundee,"Adventure,Comedy",1986,97,1.0
+2483,Awake,"Thriller,Crime,Mystery",2007,84,1.0
+2484,The Lost Boys,"Horror,Comedy",1987,97,1.0
+2485,Crazy Heart,"Drama,Music,Romance",2009,112,0.0
+2486,The Rose,"Drama,Music,Romance",1979,125,0.0
+2487,Baggage Claim,Comedy,2013,96,0.0
+2488,Barbarella,Science Fiction,1968,98,1.0
+2489,The Namesake,Drama,2006,122,0.0
+2490,The DUFF,"Romance,Comedy",2015,100,1.0
+2491,Glitter,"Drama,Romance",2001,104,0.0
+2492,Bright Star,"Drama,Romance",2009,119,1.0
+2493,My Name Is Khan,"Drama,Romance",2010,145,0.0
+2494,All Is Lost,"Action,Adventure,Drama",2013,106,0.0
+2495,Limbo,"Adventure,Drama,Thriller",1999,126,1.0
+2496,The Wind That Shakes the Barley,"Drama,History,War",2006,124,0.0
+2497,Quo Vadis,"Drama,History,Romance",1951,171,1.0
+2498,Pulp Fiction,"Thriller,Crime",1994,154,0.0
+2499,Nightcrawler,"Crime,Drama,Thriller",2014,117,1.0
+2500,Club Dread,"Comedy,Horror",2004,104,1.0
+2501,The Sound of Music,"Drama,Family,Music,Romance",1965,174,1.0
+2502,Splash,"Comedy,Fantasy,Romance",1984,111,1.0
+2503,Little Miss Sunshine,"Comedy,Drama",2006,102,0.0
+2504,Stand by Me,"Crime,Drama",1986,89,1.0
+2505,28 Days Later,"Horror,Thriller,Science Fiction",2002,113,0.0
+2506,Escape from Alcatraz,"Crime,Drama",1979,111,1.0
+2507,Brown Sugar,"Comedy,Romance",2002,109,0.0
+2508,5050,"Comedy,Drama",2011,100,0.0
+2509,That Awkward Moment,"Comedy,Romance",2014,94,0.0
+2510,On Her Majesty's Secret Service,"Adventure,Action,Thriller",1969,142,0.0
+2511,New Nightmare,"Horror,Thriller,Mystery,Fantasy",1994,112,1.0
+2512,Drive Me Crazy,"Drama,Comedy,Romance,Family",1999,91,0.0
+2513,Akeelah and the Bee,Drama,2006,112,0.0
+2514,Half Baked,"Comedy,Crime",1998,82,1.0
+2515,New in Town,Comedy,2009,97,1.0
+2516,American Psycho,"Thriller,Drama,Crime",2000,102,1.0
+2517,The Good Girl,"Drama,Comedy,Romance",2002,93,1.0
+2518,The Boondock Saints II All Saints Day,"Action,Thriller,Crime",2009,118,1.0
+2519,Easy A,Comedy,2010,92,1.0
+2520,Shadow of the Vampire,"Drama,Horror",2000,92,0.0
+2521,Prom,Comedy,2011,104,1.0
+2522,Anomalisa,"Animation,Comedy,Drama,Romance",2015,90,1.0
+2523,Another Year,"Comedy,Drama",2010,129,1.0
+2524,Showdown in Little Tokyo,"Action,Thriller",1991,79,1.0
+2525,It's Kind of a Funny Story,"Comedy,Drama",2010,101,0.0
+2526,Prefontaine,"Drama,Romance",1997,106,0.0
+2527,Begin Again,"Comedy,Music,Romance,Drama",2013,104,0.0
+2528,Down in the Valley,"Drama,Romance",2005,112,0.0
+2529,Brooklyn Rules,"Drama,Action,Thriller",2007,99,0.0
+2530,Fido,"Romance,Comedy,Drama,Horror",2006,91,0.0
+2531,Wild Target,"Action,Comedy",2010,98,0.0
+2532,10th & Wolf,"Action,Crime,Drama,Mystery,Thriller",2006,107,1.0
+2533,Aloft,Drama,2014,112,1.0
+2534,The Death and Life of Bobby Z,"Drama,Action,Thriller,Crime",2007,97,1.0
+2535,Swimming Pool,"Thriller,Crime",2003,102,0.0
+2536,Driving Miss Daisy,"Comedy,Drama",1989,99,0.0
+2537,Thank You for Smoking,"Comedy,Drama",2005,92,1.0
+2538,Hostel Part II,Horror,2007,93,0.0
+2539,An Education,"Drama,Romance",2009,100,1.0
+2540,Shopgirl,"Comedy,Drama,Romance",2005,104,0.0
+2541,Narc,"Action,Crime,Drama,Thriller",2002,105,1.0
+2542,Men with Brooms,Comedy,2002,102,1.0
+2543,The Work and the Glory,"Drama,Romance",2004,110,0.0
+2544,Extract,Comedy,2009,92,1.0
+2545,Albert Nobbs,Drama,2011,113,1.0
+2546,The Neon Demon,"Thriller,Horror",2016,117,0.0
+2547,Harry Brown,"Thriller,Crime,Drama,Action",2009,103,0.0
+2548,Juno,"Comedy,Drama,Romance",2007,96,0.0
+2549,Diamonds Are Forever,"Adventure,Action,Thriller",1971,120,0.0
+2550,The Godfather,"Drama,Crime",1972,175,1.0
+2551,Flashdance,"Drama,Music,Romance",1983,95,0.0
+2552,(500) Days of Summer,"Comedy,Drama,Romance",2009,95,1.0
+2553,The Piano,"Drama,Romance",1993,121,0.0
+2554,Magic Mike,"Drama,Comedy",2012,110,0.0
+2555,Live and Let Die,"Adventure,Action,Thriller",1973,121,0.0
+2556,Jumping the Broom,Comedy,2011,112,1.0
+2557,"Good Night, and Good Luck.","Drama,History",2005,93,0.0
+2558,Capote,"Crime,Drama",2005,114,1.0
+2559,Desperado,"Thriller,Action,Crime",1995,104,1.0
+2560,Logan's Run,"Adventure,Action,Romance,Science Fiction",1976,119,1.0
+2561,The Man with the Golden Gun,"Adventure,Action,Thriller",1974,125,1.0
+2562,Action Jackson,"Action,Adventure,Comedy,Crime,Drama",1988,96,1.0
+2563,Devil's Due,Horror,2014,89,1.0
+2564,Flirting with Disaster,"Comedy,Romance",1996,92,1.0
+2565,Dope,"Crime,Drama,Comedy",2015,103,1.0
+2566,In Too Deep,"Drama,Action,Thriller,Crime",1999,97,1.0
+2567,House of 1000 Corpses,Horror,2003,89,0.0
+2568,A Serious Man,"Comedy,Drama",2009,105,1.0
+2569,Beyond the Lights,"Romance,Drama",2014,116,1.0
+2570,The Last Temptation of Christ,Drama,1988,164,0.0
+2571,Outside Providence,"Romance,Comedy,Drama",1999,96,1.0
+2572,Split Second,"Thriller,Action,Horror,Science Fiction,Crime",1992,90,1.0
+2573,The Other Side of Heaven,"Action,Adventure,Drama,Family",2001,113,0.0
+2574,Auto Focus,"Drama,Crime",2002,104,1.0
+2575,We Need to Talk About Kevin,"Drama,Thriller",2011,112,0.0
+2576,Losin' It,Comedy,1983,100,1.0
+2577,I Hope They Serve Beer in Hell,"Comedy,Drama",2009,106,0.0
+2578,Hesher,Drama,2010,106,0.0
+2579,Freeheld,"Romance,Drama",2015,103,1.0
+2580,The Extra Man,Comedy,2010,108,0.0
+2581,Ca$h,"Crime,Thriller,Comedy",2010,108,0.0
+2582,The Boondock Saints,"Action,Thriller,Crime",1999,108,1.0
+2583,Stargate The Ark of Truth,"Adventure,Science Fiction",2008,97,1.0
+2584,Dazed and Confused,"Comedy,Drama",1993,102,1.0
+2585,House at the End of the Street,"Horror,Thriller",2012,101,0.0
+2586,Annabelle,Horror,2014,99,0.0
+2587,Bran Nue Dae,"Comedy,Drama,Foreign,Romance",2009,82,1.0
+2588,Boyz n the Hood,"Crime,Drama",1991,112,1.0
+2589,La Bamba,"Drama,Music",1987,108,1.0
+2590,Dressed to Kill,"Horror,Mystery,Thriller",1980,105,0.0
+2591,Go,"Crime,Comedy,Thriller",1999,98,0.0
+2592,Friends with Money,"Comedy,Drama,Romance",2006,88,1.0
+2593,The Andromeda Strain,"Science Fiction,Thriller",1971,131,1.0
+2594,Shame,Drama,2011,100,0.0
+2595,Layer Cake,"Drama,Thriller,Crime",2004,105,1.0
+2596,The Work and the Glory II American Zion,Drama,2005,100,0.0
+2597,The East,"Drama,Thriller",2013,116,1.0
+2598,A Home at the End of the World,"Romance,Drama",2004,96,1.0
+2599,The Messenger,"Drama,History",2009,113,0.0
+2600,The Terminator,"Action,Thriller,Science Fiction",1984,108,0.0
+2601,The Return of the Living Dead,"Comedy,Horror",1985,91,1.0
+2602,Mallrats,"Romance,Comedy",1995,94,0.0
+2603,Grease,Romance,1978,110,1.0
+2604,Platoon,"Drama,War,Action",1986,120,0.0
+2605,Fahrenheit 911,Documentary,2004,122,0.0
+2606,Butch Cassidy and the Sundance Kid,"History,Drama,Western,Crime",1969,110,1.0
+2607,Mary Poppins,"Comedy,Family,Fantasy",1964,139,0.0
+2608,West Side Story,"Crime,Drama,Music",1961,152,1.0
+2609,Caddyshack,Comedy,1980,98,0.0
+2610,The Wood,"Comedy,Drama,Romance",1999,106,1.0
+2611,The Usual Suspects,"Drama,Crime,Thriller",1995,106,1.0
+2612,A Nightmare on Elm Street 5 The Dream Child,"Horror,Thriller",1989,89,0.0
+2613,National Lampoons Van Wilder,"Comedy,Romance",2002,92,1.0
+2614,The Wrestler,"Drama,Romance",2008,109,0.0
+2615,Duel in the Sun,Western,1946,144,1.0
+2616,Escape from New York,"Science Fiction,Action",1981,99,0.0
+2617,Daddy Day Camp,"Comedy,Family",2007,89,0.0
+2618,A Mighty Wind,"Comedy,Music",2003,91,1.0
+2619,Sliding Doors,"Comedy,Drama,Fantasy,Romance",1998,99,1.0
+2620,Tales from the Hood,"Crime,Horror,Thriller",1995,98,1.0
+2621,The Last King of Scotland,Drama,2006,121,0.0
+2622,Halloween 5 The Revenge of Michael Myers,"Horror,Thriller",1989,96,0.0
+2623,Bernie,"Comedy,Crime,Drama",2012,100,1.0
+2624,Dolphins and Whales Tribes of the Ocean,Documentary,2008,42,0.0
+2625,200 Cigarettes,"Comedy,Drama,Romance",1999,101,0.0
+2626,The Words,"Drama,Thriller",2012,96,1.0
+2627,City Island,"Drama,Comedy",2009,104,1.0
+2628,The Guard,"Action,Comedy,Thriller,Crime",2011,96,1.0
+2629,College,Comedy,2008,94,0.0
+2630,The Virgin Suicides,"Drama,Romance",1999,97,0.0
+2631,Wish I Was Here,"Drama,Comedy",2014,120,1.0
+2632,Simply Irresistible,Comedy,1999,95,0.0
+2633,Only the Strong,Action,1993,99,1.0
+2634,Shattered Glass,"Drama,History",2003,94,0.0
+2635,Novocaine,"Comedy,Crime,Thriller",2001,95,0.0
+2636,The Wild Bunch,"Adventure,Western",1969,145,1.0
+2637,The Wackness,Drama,2008,99,0.0
+2638,Beastmaster 2 Through the Portal of Time,"Action,Adventure,Fantasy,Science Fiction",1991,107,1.0
+2639,The 5th Quarter,Drama,2011,97,1.0
+2640,Snow Flower and the Secret Fan,"Drama,History",2011,104,1.0
+2641,"Surfer, Dude",Comedy,2008,85,1.0
+2642,Deadfall,"Crime,Drama,Thriller",2012,95,0.0
+2643,Videodrome,"Horror,Mystery,Science Fiction",1983,87,0.0
+2644,Song One,Drama,2014,86,1.0
+2645,The Train,"Action,Drama,Thriller,War",1964,133,0.0
+2646,Bend It Like Beckham,"Comedy,Drama,Romance",2002,112,0.0
+2647,Crossover,"Action,Adventure,Drama",2006,95,1.0
+2648,The Sting,"Comedy,Crime,Drama",1973,129,1.0
+2649,Chariots of Fire,"Drama,History",1981,123,0.0
+2650,High Plains Drifter,Western,1973,105,0.0
+2651,Galaxina,"Comedy,Science Fiction",1980,95,0.0
+2652,Mambo Italiano,"Comedy,Romance",2003,92,1.0
+2653,Wonderland,"Crime,Drama,Mystery,Thriller",2003,104,0.0
+2654,Do the Right Thing,Drama,1989,120,1.0
+2655,Miss Julie,Drama,2014,120,0.0
+2656,Saw II,Horror,2005,92,1.0
+2657,10 Cloverfield Lane,"Thriller,Science Fiction,Drama",2016,103,0.0
+2658,Jackass The Movie,"Documentary,Comedy",2002,87,0.0
+2659,Lights Out,"Horror,Thriller",2016,81,1.0
+2660,Paranormal Activity 3,Horror,2011,83,1.0
+2661,Ouija,Horror,2014,89,1.0
+2662,A Nightmare on Elm Street 3 Dream Warriors,"Horror,Thriller",1987,96,0.0
+2663,Paranormal Activity 4,Horror,2012,95,0.0
+2664,The Robe,Drama,1953,135,1.0
+2665,The Return of the Pink Panther,Comedy,1975,113,0.0
+2666,Freddy's Dead The Final Nightmare,"Horror,Thriller,Comedy",1991,89,0.0
+2667,Monster,"Crime,Drama",2003,110,0.0
+2668,"20,000 Leagues Under the Sea","Adventure,Drama,Science Fiction",1954,127,0.0
+2669,Paranormal Activity The Marked Ones,"Horror,Thriller",2014,84,1.0
+2670,The Elephant Man,"Drama,History",1980,124,1.0
+2671,Dallas Buyers Club,"Drama,History",2013,117,1.0
+2672,The Lazarus Effect,"Thriller,Horror",2015,83,0.0
+2673,Memento,"Mystery,Thriller",2000,113,1.0
+2674,Oculus,Horror,2013,104,1.0
+2675,Clerks II,Comedy,2006,97,1.0
+2676,Billy Elliot,"Drama,Comedy,Music",2000,110,0.0
+2677,The Way Way Back,"Comedy,Drama",2013,103,1.0
+2678,The Man from Snowy River,"Family,Drama,Action,Western,Romance",1982,104,0.0
+2679,Our Idiot Brother,"Comedy,Drama",2011,90,1.0
+2680,Race,"Action,Drama",2016,134,1.0
+2681,"As Above, So Below","Horror,Thriller",2014,93,0.0
+2682,Still Alice,Drama,2014,99,0.0
+2683,The Egyptian,"History,Drama",1954,139,1.0
+2684,Nighthawks,"Action,Crime,Thriller",1981,99,1.0
+2685,Friday the 13th Part VIII Jason Takes Manhattan,"Horror,Thriller",1989,100,0.0
+2686,My Big Fat Greek Wedding,"Comedy,Drama,Romance",2002,95,0.0
+2687,Spring Breakers,"Drama,Crime",2013,94,0.0
+2688,Halloween The Curse of Michael Myers,"Horror,Thriller",1995,88,0.0
+2689,Shaun of the Dead,"Horror,Comedy",2004,99,1.0
+2690,Lone Star,"Drama,Mystery,Romance",1996,135,0.0
+2691,Halloween 4 The Return of Michael Myers,"Horror,Thriller",1988,88,1.0
+2692,Lone Wolf McQuade,"Action,Crime,Drama,Romance,Thriller,Western",1983,107,1.0
+2693,Apollo 18,"Horror,Thriller,Science Fiction",2011,86,0.0
+2694,Sunshine Cleaning,"Comedy,Drama",2008,102,0.0
+2695,No Escape,"Action,Thriller",2015,103,0.0
+2696,Solomon and Sheba,"Drama,History,Romance,War",1959,139,0.0
+2697,Fifty Shades of Black,"Romance,Comedy",2016,92,1.0
+2698,A Farewell to Arms,"Drama,Romance,War",1932,89,0.0
+2699,Force 10 from Navarone,"Action,Adventure,War,Thriller",1978,118,0.0
+2700,Made,"Action,Comedy,Thriller",2001,94,1.0
+2701,Moon,"Science Fiction,Drama",2009,97,1.0
+2702,Sea Rex 3D Journey to a Prehistoric World,Documentary,2010,41,0.0
+2703,The Sweet Hereafter,Drama,1997,112,1.0
+2704,Bottle Shock,"Comedy,Drama",2008,110,0.0
+2705,Heavenly Creatures,"Drama,Fantasy",1994,99,0.0
+2706,90 Minutes in Heaven,Drama,2015,121,1.0
+2707,Everything Must Go,"Comedy,Drama,Romance",2010,97,0.0
+2708,Zero Effect,"Comedy,Crime,Mystery,Thriller",1998,116,0.0
+2709,The Machinist,"Thriller,Drama",2004,101,0.0
+2710,Kill the Messenger,"Thriller,Crime,Drama,Mystery",2014,112,1.0
+2711,Rabbit Hole,Drama,2010,91,0.0
+2712,Party Monster,"Comedy,Drama,Crime",2003,98,0.0
+2713,Green Room,"Horror,Crime,Thriller",2016,95,0.0
+2714,Atlas Shrugged Part III Who is John Galt?,"Drama,Science Fiction,Mystery",2014,99,1.0
+2715,Bottle Rocket,"Comedy,Crime,Drama",1996,91,1.0
+2716,Tucker and Dale vs Evil,"Comedy,Horror",2010,89,0.0
+2717,The Visit,"Horror,Thriller",2015,94,0.0
+2718,Redacted,"Drama,War",2007,90,1.0
+2719,Sling Blade,Drama,1996,135,0.0
+2720,The Awakening,"Horror,Thriller",2011,107,0.0
+2721,Hostel,Horror,2005,94,0.0
+2722,Take Shelter,"Thriller,Drama",2011,120,0.0
+2723,The Texas Chainsaw Massacre 2,Horror,1986,101,0.0
+2724,Pat Garrett & Billy the Kid,Western,1973,106,0.0
+2725,Only God Forgives,"Drama,Thriller,Crime",2013,90,0.0
+2726,Police Academy,"Comedy,Crime",1984,96,1.0
+2727,The Blue Lagoon,"Romance,Adventure,Drama",1980,104,0.0
+2728,Four Weddings and a Funeral,"Comedy,Drama,Romance",1994,117,3.0
+2729,Fast Times at Ridgemont High,Comedy,1982,90,0.0
+2730,Moby Dick,"Adventure,Drama",1956,116,0.0
+2731,25th Hour,"Crime,Drama",2002,135,0.0
+2732,Bound,"Crime,Drama,Romance,Thriller",1996,108,1.0
+2733,Requiem for a Dream,"Crime,Drama",2000,102,1.0
+2734,Moms' Night Out,Comedy,2014,98,1.0
+2735,Donnie Darko,"Fantasy,Drama,Mystery",2001,113,0.0
+2736,Life During Wartime,"Comedy,Drama",2009,97,0.0
+2737,After.Life,"Drama,Horror,Mystery,Thriller",2010,104,0.0
+2738,One Flew Over the Cuckoo's Nest,Drama,1975,133,0.0
+2739,The Sweeney,"Action,Drama,Crime",2012,112,1.0
+2740,Whale Rider,"Drama,Family",2003,101,0.0
+2741,The Crying Game,"Romance,Crime,Drama,Thriller",1992,112,0.0
+2742,Porky's,Comedy,1981,94,1.0
+2743,Night of the Living Dead,Horror,1968,96,0.0
+2744,Lost in Translation,Drama,2003,102,0.0
+2745,Annie Hall,"Comedy,Drama,Romance",1977,93,1.0
+2746,The Greatest Show on Earth,"Action,Drama,Romance",1952,152,0.0
+2747,Monster's Ball,"Drama,Romance",2001,111,0.0
+2748,Maggie,Horror,2015,95,0.0
+2749,Leaving Las Vegas,"Drama,Romance",1995,112,1.0
+2750,The Boy Next Door,Thriller,2015,91,1.0
+2751,Trapeze,Drama,1956,105,1.0
+2752,The Kids Are All Right,"Comedy,Drama",2010,106,0.0
+2753,They Live,"Action,Horror,Science Fiction,Thriller",1988,94,1.0
+2754,The Great Escape,"Adventure,Drama,History,Thriller,War",1963,172,1.0
+2755,The Last Exorcism Part II,"Horror,Thriller",2013,88,1.0
+2756,Boyhood,Drama,2014,164,0.0
+2757,Scoop,"Comedy,Mystery",2006,96,0.0
+2758,The Wash,"Action,Comedy",2001,93,0.0
+2759,3 Strikes,"Action,Comedy,Romance",2000,82,1.0
+2760,The Misfits,"Drama,Action,Romance",1961,124,1.0
+2761,Topaz,"Action,Drama,Mystery,Thriller",1969,143,1.0
+2762,Let's Go to Prison,"Comedy,Crime",2006,84,1.0
+2763,Four Rooms,"Crime,Comedy",1995,98,0.0
+2764,Secretary,"Comedy,Drama,Romance",2002,104,0.0
+2765,Talk Radio,Drama,1988,110,0.0
+2766,You Kill Me,"Comedy,Crime,Thriller,Romance",2007,90,1.0
+2767,Red State,"Horror,Action,Thriller",2011,88,1.0
+2768,Mirrormask,Fantasy,2005,101,0.0
+2769,Joe,Drama,2014,118,1.0
+2770,Shooting Fish,"Crime,Comedy,Romance",1997,109,1.0
+2771,Prison,"Crime,Drama,Horror,Thriller",1988,102,0.0
+2772,Trust,"Crime,Drama,Thriller",2010,104,0.0
+2773,Adore,Drama,2013,100,0.0
+2774,Stake Land,"Drama,Horror,Action,Thriller,Science Fiction",2010,98,0.0
+2775,Another Happy Day,"Comedy,Drama",2011,119,0.0
+2776,A Lonely Place to Die,"Adventure,Action,Thriller,Crime",2011,99,0.0
+2777,Hell's Angels,"Action,Drama,History",1930,127,1.0
+2778,A Man for All Seasons,"Drama,History",1966,120,1.0
+2779,Network,Drama,1976,121,0.0
+2780,Gone with the Wind,"Drama,Romance,War",1939,238,0.0
+2781,Major Dundee,"War,Western",1965,123,0.0
+2782,Annie Get Your Gun,"Action,Comedy,Music,Romance,Western",1950,107,0.0
+2783,Four Lions,"Comedy,Crime,Drama",2010,101,0.0
+2784,Defendor,"Drama,Action,Comedy,Crime",2009,101,1.0
+2785,The Pirate,"Music,Romance",1948,102,1.0
+2786,The History Boys,"Comedy,Drama",2006,109,0.0
+2787,Midnight Cowboy,Drama,1969,113,0.0
+2788,The Full Monty,Comedy,1997,91,1.0
+2789,Airplane!,Comedy,1980,88,0.0
+2790,Friday,Comedy,1995,91,1.0
+2791,Menace II Society,"Drama,Action,Crime",1993,97,1.0
+2792,Creepshow 2,Horror,1987,92,1.0
+2793,The Ballad of Cable Hogue,"Action,Comedy,Western",1970,121,1.0
+2794,In Cold Blood,"Crime,Drama",1967,134,0.0
+2795,The Nun's Story,Drama,1959,149,0.0
+2796,Harper,"Action,Drama,Thriller,Crime,Mystery",1966,121,0.0
+2797,Frenzy,"Crime,Drama,Mystery,Thriller",1972,116,1.0
+2798,The Witch,"Mystery,Horror",2016,92,0.0
+2799,She's the One,"Comedy,Romance",1996,96,1.0
+2800,Gods and Monsters,Drama,1998,105,1.0
+2801,Evil Dead II,"Horror,Comedy,Fantasy",1987,84,1.0
+2802,Winter Passing,"Comedy,Drama",2006,98,0.0
+2803,High Anxiety,"Comedy,Music",1977,94,0.0
+2804,Margin Call,"Thriller,Drama",2011,107,0.0
+2805,Choke,"Comedy,Drama",2008,92,1.0
+2806,Whiplash,Drama,2014,105,0.0
+2807,Human Traffic,"Comedy,Drama",1999,99,1.0
+2808,Opposite Sex,Comedy,2014,96,0.0
+2809,Dreaming of Joseph Lees,"Romance,Drama",1999,92,1.0
+2810,Rosemary's Baby,"Horror,Drama,Mystery",1968,136,0.0
+2811,The Man Who Shot Liberty Valance,Western,1962,123,0.0
+2812,Beginners,"Drama,Romance,Comedy",2010,105,1.0
+2813,Animal House,Comedy,1978,109,1.0
+2814,Goldfinger,"Adventure,Action,Thriller",1964,110,1.0
+2815,It's a Wonderful Life,"Drama,Family,Fantasy",1946,130,0.0
+2816,Trainspotting,"Drama,Crime",1996,93,0.0
+2817,Paranormal Activity 2,"Horror,Thriller",2010,91,0.0
+2818,Bowling for Columbine,Documentary,2002,120,1.0
+2819,A Nightmare on Elm Street Part 2 Freddy's Revenge,Horror,1985,87,0.0
+2820,A Room with a View,"Drama,Romance",1985,117,0.0
+2821,The Purge,"Science Fiction,Horror,Thriller",2013,86,0.0
+2822,Sinister,"Horror,Thriller,Mystery",2012,110,1.0
+2823,Martin Lawrence Live Runteldat,Comedy,2002,113,1.0
+2824,Cat on a Hot Tin Roof,"Drama,Romance",1958,108,1.0
+2825,Beneath the Planet of the Apes,"Adventure,Science Fiction,Mystery",1970,95,1.0
+2826,Air Bud,"Comedy,Family,Drama",1997,98,1.0
+2827,Friday the 13th Part VI Jason Lives,"Horror,Mystery,Thriller",1986,86,0.0
+2828,The Bridge on the River Kwai,"Drama,History,War",1957,161,0.0
+2829,Spaced Invaders,"Comedy,Family,Science Fiction",1990,100,0.0
+2830,Family Plot,"Comedy,Crime,Thriller",1976,121,0.0
+2831,The Apartment,"Comedy,Drama,Romance",1960,125,0.0
+2832,Jason Goes to Hell The Final Friday,"Fantasy,Horror,Thriller",1993,87,1.0
+2833,Torn Curtain,"Mystery,Thriller",1966,128,0.0
+2834,Dave Chappelle's Block Party,"Comedy,Documentary,Music",2005,100,0.0
+2835,Elmer Gantry,Drama,1960,146,1.0
+2836,Judgment at Nuremberg,"Drama,History",1961,186,0.0
+2837,Red River,Western,1948,133,0.0
+2838,Before Midnight,"Romance,Drama",2013,108,0.0
+2839,Phantasm II,"Action,Horror,Science Fiction,Thriller",1988,97,1.0
+2840,Woman Thou Art Loosed,Drama,2004,94,0.0
+2841,East Is East,Comedy,1999,97,0.0
+2842,Kama Sutra  A Tale of Love,"Drama,History,Romance",1996,117,0.0
+2843,Willy Wonka & the Chocolate Factory,"Family,Fantasy",1971,100,0.0
+2844,Jawbreaker,Comedy,1999,87,1.0
+2845,Basquiat,"Drama,History",1996,108,0.0
+2846,Happiness,"Comedy,Drama",1998,139,1.0
+2847,Tusk,"Comedy,Horror",2014,102,0.0
+2848,Hobo with a Shotgun,"Action,Comedy,Thriller",2011,86,0.0
+2849,Fish Tank,Drama,2009,123,1.0
+2850,Bachelorette,"Comedy,Romance",2012,87,0.0
+2851,The Divide,Science Fiction,2011,112,1.0
+2852,Demonic,"Thriller,Horror",2015,83,1.0
+2853,Point Blank,"Action,Crime,Drama,Thriller",1967,92,1.0
+2854,Pocketful of Miracles,"Comedy,Drama",1961,136,0.0
+2855,Freakonomics,Documentary,2010,93,1.0
+2856,Hustle & Flow,Drama,2005,116,0.0
+2857,Some Like It Hot,"Comedy,Romance",1959,122,0.0
+2858,Friday the 13th Part VII The New Blood,"Horror,Thriller",1988,88,0.0
+2859,The Wizard of Oz,"Adventure,Family,Fantasy",1939,102,0.0
+2860,Young Frankenstein,"Comedy,Science Fiction",1974,106,0.0
+2861,Diary of the Dead,"Horror,Action,Science Fiction",2007,95,0.0
+2862,The Black Stallion,"Adventure,Family",1979,118,1.0
+2863,Donovan's Reef,"Adventure,Comedy,Romance",1963,109,1.0
+2864,A Guy Named Joe,"Drama,Romance,War",1944,120,1.0
+2865,Blazing Saddles,"Western,Comedy",1974,93,1.0
+2866,Friday the 13th The Final Chapter,"Horror,Thriller",1984,91,1.0
+2867,Riding Giants,Documentary,2004,105,0.0
+2868,Singin' in the Rain,"Comedy,Music,Romance",1952,103,1.0
+2869,A Haunted House,"Comedy,Horror",2013,86,1.0
+2870,2016 Obama's America,Documentary,2012,87,0.0
+2871,Halloween III Season of the Witch,"Horror,Mystery,Science Fiction",1982,98,0.0
+2872,Escape from the Planet of the Apes,"Action,Science Fiction",1971,98,0.0
+2873,Hud,"Action,Drama,Western",1963,112,0.0
+2874,Garden State,"Comedy,Drama,Romance",2004,102,1.0
+2875,Before Sunrise,"Drama,Romance",1995,105,0.0
+2876,Robot & Frank,"Science Fiction,Comedy,Drama,Crime",2012,85,0.0
+2877,The Spectacular Now,"Comedy,Drama,Romance",2013,95,1.0
+2878,Eye of the Dolphin,Drama,2007,100,0.0
+2879,Sleep Dealer,"Drama,Science Fiction,Thriller",2008,90,1.0
+2880,Super,"Comedy,Action,Drama",2010,96,0.0
+2881,Get on the Bus,Drama,1996,120,1.0
+2882,Idiocracy,"Adventure,Comedy,Science Fiction",2006,84,0.0
+2883,This Is England,"Drama,Crime",2006,101,0.0
+2884,Bathing Beauty,"Comedy,Music",1944,101,0.0
+2885,Show Boat,"Music,Romance",1951,107,0.0
+2886,Fantasia,"Animation,Family,Music",1940,124,0.0
+2887,Friday the 13th Part III,"Horror,Thriller",1982,95,1.0
+2888,Friday the 13th A New Beginning,"Horror,Thriller",1985,92,0.0
+2889,The Valley of Decision,Drama,1945,119,0.0
+2890,The Best Years of Our Lives,"Drama,History,Romance",1946,172,0.0
+2891,Mi America,"Drama,Crime",2015,126,1.0
+2892,From Russia with Love,"Action,Thriller,Adventure",1963,115,1.0
+2893,Sleeper,"Comedy,Romance,Science Fiction",1973,89,0.0
+2894,It Follows,"Horror,Thriller",2015,100,1.0
+2895,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,Comedy,1972,88,0.0
+2896,To Kill a Mockingbird,"Crime,Drama",1962,129,1.0
+2897,Mad Max 2,"Adventure,Action,Thriller,Science Fiction",1981,95,1.0
+2898,Boys Don't Cry,"Crime,Drama",1999,118,0.0
+2899,Silent House,"Horror,Mystery",2011,85,0.0
+2900,Courageous,Drama,2011,129,1.0
+2901,The Hustler,Drama,1961,134,0.0
+2902,Boom Town,"Adventure,Drama,Romance",1940,119,0.0
+2903,Before Sunset,"Drama,Romance",2004,80,1.0
+2904,Thirteen,"Crime,Drama",2003,100,0.0
+2905,Gentleman's Agreement,"Drama,Romance",1947,118,0.0
+2906,Winter's Bone,Drama,2010,100,1.0
+2907,Alexander's Ragtime Band,"Drama,Music,Romance",1938,106,0.0
+2908,Inside Job,Documentary,2010,109,1.0
+2909,We Are Your Friends,"Drama,Music,Romance",2015,96,0.0
+2910,Harsh Times,"Crime,Drama,Thriller,Action",2005,120,0.0
+2911,Captive,"Crime,Drama,Thriller",2015,97,1.0
+2912,Full Frontal,"Comedy,Drama,Romance",2002,96,1.0
+2913,Shortbus,"Romance,Drama,Comedy",2006,101,0.0
+2914,"The Book of Mormon Movie, Volume 1 The Journey",,2003,120,0.0
+2915,No End in Sight,Documentary,2007,102,1.0
+2916,The Diary of a Teenage Girl,"Drama,Romance",2015,98,0.0
+2917,Inside Deep Throat,"History,Documentary",2005,92,1.0
+2918,The Virginity Hit,Comedy,2010,120,0.0
+2919,SixString Samurai,"Action,Adventure,Science Fiction",1998,91,1.0
+2920,It's All Gone Pete Tong,"Drama,Comedy,Music",2004,90,0.0
+2921,Saint John of Las Vegas,Comedy,2009,84,1.0
+2922,Stonewall,Drama,2015,129,0.0
+2923,Roadside Romeo,"Animation,Family,Foreign",2008,93,0.0
+2924,Return of the Living Dead 3,"Comedy,Science Fiction,Romance,Horror",1993,97,0.0
+2925,Sherrybaby,Drama,2006,96,1.0
+2926,Stitches,Horror,2012,86,0.0
+2927,Bananas,Comedy,1971,82,0.0
+2928,Buried,"Drama,Thriller,Mystery",2010,94,0.0
+2929,The Last Exorcism,"Horror,Drama,Thriller",2010,87,1.0
+2930,A Streetcar Named Desire,Drama,1951,125,1.0
+2931,Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb,"Drama,Comedy,War",1964,95,0.0
+2932,Beasts of the Southern Wild,"Drama,Fantasy",2012,93,0.0
+2933,Battle for the Planet of the Apes,"Action,Science Fiction",1973,93,0.0
+2934,Higher Ground,"Drama,Thriller",2011,109,1.0
+2935,Hang 'em High,Western,1968,114,0.0
+2936,May,"Drama,Horror,Thriller,Romance",2002,93,0.0
+2937,Conquest of the Planet of the Apes,"Action,Science Fiction",1972,88,1.0
+2938,I Spit on Your Grave,"Thriller,Crime,Horror",2010,108,0.0
+2939,"Happy, Texas","Comedy,Crime",1999,98,1.0
+2940,You Can't Take It With You,"Comedy,Romance",1938,126,1.0
+2941,From Here to Eternity,"War,Drama,Romance",1953,118,0.0
+2942,She Wore a Yellow Ribbon,Western,1949,103,0.0
+2943,The Conversation,"Crime,Drama,Mystery",1974,113,1.0
+2944,Waitress,Comedy,2007,108,1.0
+2945,Bloodsport,Action,1988,92,0.0
+2946,Mr. Smith Goes to Washington,"Comedy,Drama",1939,129,0.0
+2947,Kids,"Drama,Crime",1995,91,0.0
+2948,The Squid and the Whale,"Comedy,Drama",2005,81,0.0
+2949,Kissing Jessica Stein,Comedy,2001,97,0.0
+2950,Spellbound,"Drama,Mystery,Thriller",1945,111,1.0
+2951,Buffalo '66,"Romance,Comedy,Crime,Drama",1998,110,0.0
+2952,Insidious,"Horror,Thriller",2010,103,1.0
+2953,Repo Man,"Comedy,Crime,Science Fiction,Thriller",1984,92,1.0
+2954,The Ballad of Jack and Rose,Drama,2005,111,0.0
+2955,The To Do List,"Comedy,Romance",2013,104,0.0
+2956,Killing Zoe,"Action,Crime,Drama,Thriller",1993,96,0.0
+2957,The Believer,Drama,2001,98,1.0
+2958,Session 9,"Horror,Mystery",2001,100,0.0
+2959,Modern Times,"Drama,Comedy",1936,87,0.0
+2960,My Name Is Bruce,"Comedy,Horror",2007,86,1.0
+2961,Pontypool,"Horror,Mystery,Science Fiction",2009,93,0.0
+2962,The Lords of Salem,"Horror,Thriller",2012,101,1.0
+2963,Snow White and the Seven Dwarfs,"Fantasy,Animation,Family",1937,83,1.0
+2964,Shalako,Western,1968,113,0.0
+2965,"Lock, Stock and Two Smoking Barrels","Comedy,Crime",1998,105,1.0
+2966,Rebecca,"Drama,Mystery",1940,130,0.0
+2967,Friday the 13th Part 2,"Horror,Thriller",1981,87,1.0
+2968,The Lost Weekend,Drama,1945,101,0.0
+2969,C.H.U.D.,"Horror,Science Fiction",1984,88,0.0
+2970,Niagara,"Crime,Drama,Thriller",1953,92,1.0
+2971,How Green Was My Valley,Drama,1941,118,1.0
+2972,Saw,"Horror,Mystery,Crime",2004,103,0.0
+2973,Super Troopers,"Comedy,Crime,Mystery",2001,100,1.0
+2974,The Trouble with Harry,"Comedy,Mystery,Thriller",1955,99,0.0
+2975,Home Run,Drama,2013,114,0.0
+2976,Reservoir Dogs,"Crime,Thriller",1992,99,1.0
+2977,"Pink Ribbons, Inc.",Documentary,2011,97,1.0
+2978,The Charge of the Light Brigade,"Action,Adventure,Drama,War",1936,115,1.0
+2979,Airborne,"Action,Adventure,Comedy",1993,91,1.0
+2980,Waiting,Comedy,2005,94,0.0
+2981,From a Whisper to a Scream,"Comedy,Horror",1987,99,1.0
+2982,Casablanca,"Drama,Romance",1942,102,0.0
+2983,Rocky,Drama,1976,119,1.0
+2984,Tom Jones,"Adventure,Comedy,History,Romance",1963,128,1.0
+2985,Unfriended,"Horror,Thriller",2015,82,1.0
+2986,Taxi Driver,"Crime,Drama",1976,114,0.0
+2987,The Howling,"Drama,Horror",1981,91,0.0
+2988,Dr. No,"Adventure,Action,Thriller",1962,110,0.0
+2989,Hellraiser,Horror,1987,94,1.0
+2990,God's Not Dead 2,Drama,2016,121,1.0
+2991,CryWolf,"Horror,Thriller",2005,90,1.0
+2992,Blue Valentine,"Drama,Romance",2010,112,0.0
+2993,Transamerica,Drama,2005,103,1.0
+2994,The Devil Inside,"Thriller,Horror",2012,83,1.0
+2995,Beyond the Valley of the Dolls,"Comedy,Drama,Thriller",1970,109,0.0
+2996,Love Me Tender,"Drama,Action,Western,Music,Romance",1956,89,0.0
+2997,An Inconvenient Truth,Documentary,2006,100,1.0
+2998,Sands of Iwo Jima,"Action,Drama,History,War",1949,100,1.0
+2999,The Green Inferno,"Action,Adventure,Horror,Thriller",2014,100,1.0
+3000,The Sessions,"Drama,Romance,Comedy",2012,98,1.0
+3001,Two Girls and a Guy,"Drama,Romance",1997,84,0.0
+3002,Who Killed the Electric Car?,Documentary,2006,92,0.0
+3003,The Broken Hearts Club A Romantic Comedy,"Comedy,Drama,Romance",2000,94,0.0
+3004,Brigham City,"Crime,Drama,Mystery,Thriller",2001,119,1.0
+3005,Blue Car,Drama,2002,92,0.0
+3006,Taxi to the Dark Side,Documentary,2007,106,0.0
+3007,Alone With Her,"Crime,Drama,Romance,Thriller",2006,78,1.0
+3008,Special,"Drama,Fantasy,Science Fiction",2006,81,0.0
+3009,Charly,"Drama,Romance,Science Fiction",1968,103,1.0
+3010,On the Waterfront,"Crime,Drama",1954,108,0.0
+3011,L!fe Happens,Comedy,2011,100,0.0
+3012,Hard Candy,"Drama,Thriller",2005,103,1.0
+3013,The Quiet,"Drama,Thriller",2005,96,1.0
+3014,Bambi,"Animation,Drama,Family",1942,70,1.0
+3015,Latter Days,"Drama,Comedy,Romance",2003,107,0.0
+3016,"For a Good Time, Call",Comedy,2012,85,1.0
+3017,Ruby in Paradise,"Drama,Romance",1993,114,1.0
+3018,Raising Victor Vargas,"Drama,Romance",2002,88,1.0
+3019,The Mudge Boy,Drama,2003,94,1.0
+3020,American Graffiti,"Comedy,Drama",1973,110,1.0
+3021,Safety Not Guaranteed,"Comedy,Romance,Science Fiction,Drama",2012,85,0.0
+3022,Kill List,"Horror,Thriller,Crime",2011,95,0.0
+3023,The Innkeepers,"Horror,Thriller",2011,102,0.0
+3024,High Noon,Western,1952,85,1.0
+3025,Hoop Dreams,Documentary,1994,171,1.0
+3026,L.I.E. Long Island Expressway,Drama,2001,97,0.0
+3027,Half Nelson,Drama,2006,107,1.0
+3028,Naturally Native,Drama,1999,107,0.0
+3029,Top Hat,"Comedy,Music,Romance",1935,101,0.0
+3030,The Blair Witch Project,"Horror,Mystery",1999,81,0.0
+3031,Woodstock,"History,Documentary,Music",1970,225,1.0
+3032,A Hard Day's Night,"Comedy,Music",1964,88,1.0
+3033,Fireproof,Drama,2008,122,1.0
+3034,Open Water,"Drama,Thriller",2004,79,0.0
+3035,Kingdom of the Spiders,"Horror,Science Fiction",1977,97,0.0
+3036,The Station Agent,"Drama,Comedy",2003,88,1.0
+3037,Beyond the Mat,Documentary,1999,102,1.0
+3038,Sholem Aleichem Laughing In The Darkness,Documentary,2012,93,1.0
+3039,Mean Creek,"Crime,Drama",2004,90,0.0
+3040,Rubber,"Comedy,Drama,Fantasy,Horror,Mystery",2010,85,0.0
+3041,Monsters,"Drama,Thriller,Science Fiction",2010,94,0.0
+3042,Conversations with Other Women,"Drama,Romance",2006,84,0.0
+3043,42nd Street,"Music,Comedy,Romance",1933,89,1.0
+3044,Napoleon Dynamite,Comedy,2004,95,1.0
+3045,Paranormal Activity,"Horror,Mystery",2007,86,0.0
+3046,Monty Python and the Holy Grail,"Adventure,Comedy,Fantasy",1975,91,0.0
+3047,Tarnation,"Documentary,Drama",2003,91,0.0
+3048,My Beautiful Laundrette,"Romance,Drama,Comedy",1985,97,1.0
+3049,Intolerance,Drama,1916,197,1.0
+3050,The Broadway Melody,"Drama,Music,Romance",1929,100,1.0
+3051,The Evil Dead,Horror,1981,85,0.0
+3052,Maniac,Horror,2012,89,1.0
+3053,Murderball,Documentary,2005,88,0.0
+3054,12 Angry Men,Drama,1957,96,0.0
+3055,It Happened One Night,"Comedy,Romance",1934,105,1.0
+3056,Tupac Resurrection,"Music,Documentary",2003,112,0.0
+3057,Tumbleweeds,"Comedy,Drama",1999,102,0.0
+3058,The Prophecy,"Fantasy,Horror,Thriller",1995,98,1.0
+3059,Ayurveda Art of Being,Documentary,2001,101,1.0
+3060,"First Love, Last Rites",Drama,1998,94,1.0
+3061,Death Race 2000,"Action,Comedy,Science Fiction",1975,80,0.0
+3062,Chasing Amy,"Comedy,Drama,Romance",1997,113,1.0
+3063,Lovely & Amazing,"Comedy,Drama,Romance",2001,91,0.0
+3064,Cube,"Thriller,Science Fiction,Mystery",1997,90,1.0
+3065,I Married a Strange Person!,"Drama,Comedy,Animation",1998,72,1.0
+3066,Like Crazy,"Drama,Romance",2011,90,0.0
+3067,The Canyons,"Thriller,Drama",2013,99,0.0
+3068,The Big Parade,"Drama,Romance,War",1925,151,0.0
+3069,Bronson,"Drama,Action,Crime",2008,92,1.0
+3070,Burn,"Foreign,Documentary",2012,86,1.0
+3071,The Stewardesses,Comedy,1969,69,0.0
+3072,"The Beast from 20,000 Fathoms","Adventure,Horror,Science Fiction",1953,80,0.0
+3073,Mad Max,"Adventure,Action,Thriller,Science Fiction",1979,93,5.0
+3074,Swingers,"Comedy,Romance",1996,94,0.0
+3075,She Done Him Wrong,Comedy,1933,66,0.0
+3076,The Grace Card,Drama,2011,101,1.0
+3077,Weekend,"Drama,Romance",2011,96,1.0
+3078,Another Earth,"Drama,Science Fiction",2011,92,1.0
+3079,Sweet Sweetback's Baadasssss Song,"Action,Drama,Romance",1971,97,0.0
+3080,Tadpole,"Comedy,Drama,Romance",2002,78,1.0
+3081,Once,"Drama,Music,Romance",2007,85,1.0
+3082,Roger & Me,"Documentary,History",1989,91,0.0
+3083,Your Sister's Sister,"Drama,Comedy",2011,90,0.0
+3084,The Birth of a Nation,Drama,2016,120,0.0
+3085,Facing the Giants,Drama,2006,111,0.0
+3086,The Gallows,"Horror,Thriller",2015,87,0.0
+3087,Eraserhead,"Drama,Fantasy,Horror,Science Fiction",1977,89,1.0
+3088,Pi,"Mystery,Drama,Thriller",1998,84,1.0
+3089,Super Size Me,"Documentary,Comedy,Drama",2004,100,0.0
+3090,Tiny Furniture,"Romance,Comedy,Drama",2010,99,0.0
+3091,The Signal,"Thriller,Science Fiction",2014,95,0.0
+3092,Down Terrace,"Drama,Action,Comedy",2009,89,0.0
+3093,Clerks,Comedy,1994,92,0.0
+3094,Pink Flamingos,"Horror,Comedy,Crime",1972,93,0.0
+3095,Primer,"Science Fiction,Drama,Thriller",2004,77,1.0
