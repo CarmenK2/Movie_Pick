@@ -11,10 +11,10 @@ Enter your mood in the interactive dashboard and it will give you a top 5 movie 
 
 Link to Movie Pick website: https://movie-pick-uwa-project.herokuapp.com/
 
-![Website home page](Images\index.png)
+![Website home page](Images/index.png)
 ![Website visualisation page part 1](Images/vis1.png)
-![Website visualisation page part 2](Images\visualisation2.png)
-![Website visualisation page part 3](Images\visualisation3.png)
+![Website visualisation page part 2](Images/visualisation2.png)
+![Website visualisation page part 3](Images/visualisation3.png)
 
 ## Datatset: 
 * Movies datasets from kaggle: https://www.kaggle.com/code/omarkhaledabdelraouf/tmdb-5000-movie-dataset-analysis
