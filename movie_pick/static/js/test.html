@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Movie Selection</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/style.css">
+
+  <!-- NavBar -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="/">CACE</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="###">Data</a>
+        </li>
+
+      </ul>
+    </div>
+  </nav>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1 class="ml6">
+          <span class="text-wrapper">
+            <span class="letters">LET ME PICK YOUR MOVIE</span>
+          </span>
+        </h1>
+        <p style="text-align:center; color: white; font-size: 18px;">Be our guest, be our guest. Put our service to the
+          test.</p>
+        <ul class="circles">
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <img class="vizualization rounded float-left" width="300px" height="300px" src="../img/lumiere.png"
+            alt="lumiere">
+          <p>When was the last time on a rainy day, you curled up on the couch ready to watch a movie finding yourself
+            overwhelmed by the sheer amount of movie choices spending ages figuring out what movie to watch? Well, gone
+            are the times of endless scrolling through movies to find the one to watch. </p>
+            <p style="font-size: 18px; font-weight: bold;"> Select any 1 of the filters below get your movie recommendation.
+          </p>
+          <br>
+          <div class="row">
+            <div class="col-md-offset-2 col-md-8">
+              <form method="POST" action="/send" role="form" , name="movieform">
+                <div class="input-group mb-3">
+                  <label class="input-group-text" for="inputGroupSelect01">What is your mood today?</label>
+                  <select class="form-select" id="inputGroupSelect01">
+                    <option selected>Choose...</option>
+                    <option value="Happy">Happy</option>
+                    <option value="Sad">Sad</option>
+                    <option value="Angry">Angry</option>
+                    <option value="Inspired">Inspired</option>
+                    <option value="Romantic">Romantic</option>
+                  </select>
+                </div>
+                <div class="input-group mb-3">
+                  <label class="input-group-text" for="inputGroupSelect02">Genre</label>
+                  <select class="form-select" id="inputGroupSelect02">
+                    <option selected>Choose...</option>
+                    <option value="Action">Action</option>
+                    <option value="Adventure">Adventure</option>
+                    <option value="Animation">Animation</option>
+                    <option value="Comedy">Comedy</option>
+                    <option value="Crime">Crime</option>
+                    <option value="Documentary">Documentary</option>
+                    <option value="Drama">Drama</option>
+                    <option value="Family">Family</option>
+                    <option value="Fantasy">Fantasy</option>
+                    <option value="Foreign">Foreign</option>
+                    <option value="History">History</option>
+                    <option value="Horror">Horror</option>
+                    <option value="Music">Music</option>
+                    <option value="Mystery">Mystery</option>
+                    <option value="Romance">Romance</option>
+                    <option value="Science Fiction">Science Fiction</option>
+                    <option value="Thriller">Thriller</option>
+                    <option value="War">War</option>
+                    <option value="Western">Western</option>
+                  </select>
+                </div>
+                <div class="input-group mb-3">
+                  <label class="input-group-text" for="inputGroupSelect03">Released Year</label>
+                  <select class="form-select" id="inputGroupSelect03">
+                    <option selected>Choose...</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                    <option value="2014">2014</option>
+                    <option value="2013">2013</option>
+                    <option value="2012">2012</option>
+                    <option value="2011">2011</option>
+                    <option value="2010">2010</option>
+                    <option value="2009">2009</option>
+                    <option value="2008">2008</option>
+                    <option value="2007">2007</option>
+                    <option value="2006">2006</option>
+                    <option value="2005">2005</option>
+                    <option value="2004">2004</option>
+                    <option value="2003">2003</option>
+                    <option value="2002">2002</option>
+                    <option value="2001">2001</option>
+                    <option value="2000">2000</option>
+                  </select>
+                </div>
+                <div class="input-group mb-3">
+                  <label class="input-group-text" for="inputGroupSelect04">How much time do you have?</label>
+                  <select class="form-select" id="inputGroupSelect04">
+                    <option selected>Choose...</option>
+                    <option value="0.5">0.5 hrs</option>
+                    <option value="1">1 hr</option>
+                    <option value="1.5">1.5 hrs</option>
+                    <option value="2">2 hrs</option>
+                    <option value="2.5">2.5 hrs</option>
+                    <option value="3">3 hrs</option>
+                    <option value="3">3.5 hrs</option>
+                    <option value="4">4 hrs</option>
+                  </select>
+                </div>
+
+                <button id="button" class="btn btn-secondary">Refresh</button>
+              </form>
+              <br>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div id="table-area" class="">
+              <table id="movie-table" class="table table-striped">
+                <thead>
+                  <tr>
+                    <th class="table-head">ID</th>
+                    <th class="table-head">MOVIE TITLE</th>
+                    <th class="table-head">OVERVIEW</th>
+                    <th class="table-head">RELEASE YEAR</th>
+                    <th class="table-head">RUN TIME</th>
+                    <th class="table-head">MOOD</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="app.js"></script>
+
+
+
+</body>
+
+
+</html>
