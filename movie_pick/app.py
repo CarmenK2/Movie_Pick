@@ -32,7 +32,7 @@ def pals():
     df = pd.read_csv(results)
     df1 = df.drop(columns=df.columns[0])
     #json_ = df.to_json(orient="table")
-    print(df1.head())
+    
 
     return df1.reset_index().to_json(orient="records")
 
