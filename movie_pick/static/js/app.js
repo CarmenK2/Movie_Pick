@@ -9,7 +9,7 @@ d3.json("/test").then(function (moviedata) {
 
   // Loop through the cinema_type in cinema2022
   for (var i = 0; i < Object.keys(moviedata).length; i++) {
-        console.log(moviedata[i].genre);
+       
         var row = summarytable.append("tr");
         Object.entries(moviedata[i]).forEach(function ([key, value]) {
         var cell = row.append("td");
@@ -26,7 +26,7 @@ form.on("change", runEnter);
 
 function runEnter() {
   d3.json("/test").then(function (moviedata) {
-  
+  console.log(moviedata);
     // var moviefilter = Math.floor(Math.random() * moviedata.length);
     // console.log(moviedata[moviefilter]);
     // d3.event.preventDefault();
