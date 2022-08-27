@@ -18,19 +18,6 @@ p {
   background-color: #a0353a;
   color: white;
 }
-.card-title{
-  color: rgb(78, 93, 119);
-  font-family: sans-serif;
-  font-size: 20px;
-  font-weight: bold;
-  text-align: justify;
-}
-.card-text{
-  color: rgb(78, 93, 119);
-  font-family: sans-serif;
-  font-size: 20px;
-  text-align: justify;
-}
 
 h1{
   color: white;
@@ -49,6 +36,18 @@ h3{
   font-weight: bold;
   text-align: justify;
 }
+
+.input-group-text{
+font-size: 14px;
+}
+
+select{
+  font-size: 14px;
+  }
+option{
+font-size: 14px;
+}
+
 .tooltip {
   position: absolute;
   width: 150px;
