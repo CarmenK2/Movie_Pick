@@ -48,7 +48,7 @@ function runEnter() {
     var filtered_data = moviedata.filter(table => (table.mood == mood_input || mood_input == "") ||
       (table.genre == genre_input || genre_input == "") ||
       (table.release_year == release_input || release_input == "") ||
-      (table.runtime == runtime_input || runtime_input == "")
+      (table.runtime == parseFloat(runtime_input) || runtime_input == "")
     );
 
     // var filtered_data = moviedata.filter(table => (table.genre == genre_input || genre_input == "")  
