@@ -1,29 +1,23 @@
 var summarytable = d3.select("tbody");
 
-d3.csv("../../../Output/data_to_filter_df.csv").then(function (moviedata) {
+d3.json("/test").then(function (moviedata) {
   console.log(moviedata);
   // var parseTime = d3.timeParse('%Y');
 
-  moviedata.forEach(function (data) {
-    // data.release_year = parseTime(data.release_year);
-    data.runtime = +data.runtime;
+  console.log(moviedata[1].genre)
+  console.log(Object.keys(moviedata).length)
 
-    var row = summarytable.append("tr");
-    Object.entries(data).forEach(function ([key, value]) {
-      var cell = row.append("td");
-      cell.text(value);
-    });
-  });
+  // Loop through the cinema_type in cinema2022
+  for (var i = 0; i < Object.keys(moviedata).length; i++) {
+        console.log(moviedata[i].genre);
+        var row = summarytable.append("tr");
+        Object.entries(moviedata[i]).forEach(function ([key, value]) {
+        var cell = row.append("td");
+        cell.text(value);
+        });
+  }
+  
 });
-
-// var button = d3.select('button');
-// button.on("click", refreshTable);
-var button = d3.selectAll('#button')
-button.on("click", refreshPage);
-
-function refreshPage() {
-  location.reload();
-};
 
 // select the dropdowns
 var form = d3.selectAll("select");
@@ -31,7 +25,7 @@ var form = d3.selectAll("select");
 form.on("change", runEnter);
 
 function runEnter() {
-  d3.csv("../../../Output/data_to_filter_df.csv").then(function (moviedata) {
+  d3.json("/test").then(function (moviedata) {
   
     // var moviefilter = Math.floor(Math.random() * moviedata.length);
     // console.log(moviedata[moviefilter]);
