@@ -40,7 +40,7 @@ function runEnter() {
 
     
     var mfilter = [];
-    for (var i = 0; i < = 5; i++) {
+    for (var i = 0; i < 5; i++) {
       mfilter.push(Math.floor(Math.random() * filtered_data.length));
     }
     
