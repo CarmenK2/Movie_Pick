@@ -7,7 +7,7 @@ Camille Evangelista, Aline Hornoff, Edbert Widjaja, Carmen Sin
 When was the last time on a rainy day, you curled up on the couch ready to watch a movie finding yourself overwhelmed by the sheer amount of movie choices spending ages figuring out what movie to watch? 
 
 Well, gone are the times of endless scrolling through movies to find the one to watch. 
-Enter your mood in the interactive dashboard and it will give you a top 5 movie recommendation to watch based on the mood your in.
+Enter your mood, the movie genre, release year of the movie or the time you have available to watch the movie in the interactive dashboard and it will give you a top 5 movie recommendation.
 
 Link to Movie Pick website: https://movie-pick-uwa-project.herokuapp.com/
 
